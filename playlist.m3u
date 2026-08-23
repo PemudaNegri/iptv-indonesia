@@ -421,8 +421,6 @@ https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/rhf2
 #KODIPROP:inputstream.adaptive.license_key=f3df7843080ae743bf865dc5fdf64c68:567c863bc12eb74788ea74888c042e1b
 #EXTINF:-1 tvg-id="auto.tnt.sports.2" tvg-name="" tvg-logo="https://static-wbd-cdn.wbd.com/s3_assets/wp-content/uploads/2024/01/TNT-Sports-Logo.png" group-title="[SPORTS] Olahraga & Bola",TNT SPORTS 2
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/puehlftk5j/out/v1/f7f0da1ee112481ca0024e6d4dd97f4a/cenc.mpd
-#EXTINF:-1 tvg-id="TVP Sport" tvg-name="PL: TVP SPORT" tvg-logo="https://docdog.top/logo/countries/poland/tvpsport.png" group-title="[SPORTS] Olahraga & Bola",PL: TVP SPORT
-http://altontestruzlegustaelnepe.neorpahe.top:8080/4521763446651376/7c8471ab2ca0/23827
 #EXTINF:-1 tvg-id="Canal+ Sport" tvg-name="PL: CANAL+ SPORT" tvg-logo="https://docdog.top/logo/countries/poland/CANAL_SPORT.png" group-title="[SPORTS] Olahraga & Bola",PL: CANAL+ SPORT
 http://altontestruzlegustaelnepe.neorpahe.top:8080/4521763446651376/7c8471ab2ca0/10129
 #EXTINF:-1 tvg-id="Canal+ Sport 2" tvg-name="PL: CANAL+ SPORT 2" tvg-logo="https://docdog.top/logo/countries/poland/CANAL_SPORT_2.png" group-title="[SPORTS] Olahraga & Bola",PL: CANAL+ SPORT 2
@@ -437,20 +435,12 @@ http://altontestruzlegustaelnepe.neorpahe.top:8080/4521763446651376/7c8471ab2ca0
 http://altontestruzlegustaelnepe.neorpahe.top:8080/4521763446651376/7c8471ab2ca0/23838
 #EXTINF:-1 tvg-id="Polsat Sport Fight" tvg-name="PL: POLSAT SPORT 3" tvg-logo="https://docdog.top/logo/countries/poland/polsatsportfight.png" group-title="[SPORTS] Olahraga & Bola",PL: POLSAT SPORT 3
 http://altontestruzlegustaelnepe.neorpahe.top:8080/4521763446651376/7c8471ab2ca0/23839
-#EXTINF:-1 tvg-id="Polsat Sport Premium 4" tvg-name="PL: POLSAT SPORT PEXTRA 4" tvg-logo="https://docdog.top/logo/countries/pl/POLSAT_SPORT_EXTRA_4.png" group-title="[SPORTS] Olahraga & Bola",PL: POLSAT SPORT PEXTRA 4
-http://altontestruzlegustaelnepe.neorpahe.top:8080/4521763446651376/7c8471ab2ca0/23825
 #EXTINF:-1 tvg-id="FightBox" tvg-name="PL: FIGHTBOX" tvg-logo="https://docdog.top/logo/countries/poland/fightbox.png" group-title="[SPORTS] Olahraga & Bola",PL: FIGHTBOX
 http://altontestruzlegustaelnepe.neorpahe.top:8080/4521763446651376/7c8471ab2ca0/10162
 #EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/portugal/sporttv1.png" group-title="[SPORTS] Olahraga & Bola",PT: SPORT TV 1
 http://altontestruzlegustaelnepe.neorpahe.top:8080/4521763446651376/7c8471ab2ca0/24984
-#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/portugal/sporttv3.png" group-title="[SPORTS] Olahraga & Bola",PT: SPORT TV 3
-http://altontestruzlegustaelnepe.neorpahe.top:8080/4521763446651376/7c8471ab2ca0/24980
 #EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/portugal/sporttv4.png" group-title="[SPORTS] Olahraga & Bola",PT: SPORT TV 4
 http://altontestruzlegustaelnepe.neorpahe.top:8080/4521763446651376/7c8471ab2ca0/24979
-#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/portugal/sporttv5.png" group-title="[SPORTS] Olahraga & Bola",PT: SPORT TV 5
-http://altontestruzlegustaelnepe.neorpahe.top:8080/4521763446651376/7c8471ab2ca0/24978
-#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/portugal/elevensport3.png" group-title="[SPORTS] Olahraga & Bola",PT: ELEVEN SPORT 3
-http://altontestruzlegustaelnepe.neorpahe.top:8080/4521763446651376/7c8471ab2ca0/25026
 #EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/portugal/elevensport4.png" group-title="[SPORTS] Olahraga & Bola",PT: ELEVEN SPORT 4
 http://altontestruzlegustaelnepe.neorpahe.top:8080/4521763446651376/7c8471ab2ca0/25027
 #EXTINF:-1 tvg-id="CelestialClassicMovies.id@SD" group-title="[MOVIES] Bioskop & Film" tvg-logo="https://www.visionplus.id/images/repository/613/613-LOGO-m.png",CCM
@@ -743,3 +733,99 @@ https://pixeldrain.com/api/file/ci2qdnsA?download
 https://pixeldrain.com/api/file/ocwVztMT?download
 #EXTINF:-1 tvg-id="auto.trinil" group-title="[VOD] Film Indonesia",Trinil
 https://pixeldrain.com/api/file/gu6tTkv4?download
+#EXTINF:-1 group-title="[ID] TV Nasional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/TVRI_Nasional_2019.svg/512px-TVRI_Nasional_2019.svg.png",CNBC Indonesia HD
+https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTINF:-1 group-title="[ID] TV Nasional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/TVRI_Nasional_2019.svg/512px-TVRI_Nasional_2019.svg.png",DensTV Broadcast HD
+https://op-flashcon-digdayahd-1.dens.tv/h/h244/01.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTINF:-1 group-title="[ID] TV Nasional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/TVRI_Nasional_2019.svg/512px-TVRI_Nasional_2019.svg.png",DensTV Broadcast HD
+https://op-flashcon-digdayahd-1.dens.tv/h/h223/index.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTINF:-1 group-title="[ID] TV Nasional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/TVRI_Nasional_2019.svg/512px-TVRI_Nasional_2019.svg.png",DensTV Broadcast HD
+https://op-flashcon-digdayahd-1.dens.tv/h/h40/index.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTINF:-1 group-title="[ID] TV Nasional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/TVRI_Nasional_2019.svg/512px-TVRI_Nasional_2019.svg.png",DensTV Broadcast HD
+https://op-flashcon-digdayahd-1.dens.tv/h/h12/01.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTINF:-1 group-title="[ID] TV Nasional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/TVRI_Nasional_2019.svg/512px-TVRI_Nasional_2019.svg.png",DensTV Broadcast HD
+https://op-flashcon-digdayahd-1.dens.tv/h/h218/01.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTINF:-1 group-title="[ID] TV Nasional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/TVRI_Nasional_2019.svg/512px-TVRI_Nasional_2019.svg.png",DensTV Broadcast HD
+https://op-flashcon-digdayahd-1.dens.tv/h/h10/01.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTINF:-1 group-title="[ID] TV Nasional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/TVRI_Nasional_2019.svg/512px-TVRI_Nasional_2019.svg.png",Channel Indonesia Baru
+https://cdnjkt913.transvision.co.id:1000/live/master/5/4028c6856c3db2cc016cd6e647532391/manifest.mpd|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTINF:-1 group-title="[ID] TV Nasional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/TVRI_Nasional_2019.svg/512px-TVRI_Nasional_2019.svg.png",Channel Indonesia Baru
+https://cdnjkt913.transvision.co.id:1000/live/master/2/4028c685730a4243017317dee5df1572/manifest.mpd|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTINF:-1 group-title="[ID] TV Nasional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/TVRI_Nasional_2019.svg/512px-TVRI_Nasional_2019.svg.png",Channel Indonesia Baru
+https://cdnjkt913.transvision.co.id:1000/live/master/2/4028c68595d0c2ed01961380bf580430/manifest.mpd|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTINF:-1 group-title="[ID] TV Nasional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/TVRI_Nasional_2019.svg/512px-TVRI_Nasional_2019.svg.png",DensTV Broadcast HD
+https://op-flashcon-digdayaxenkoda.dens.tv/e6550891-6bef-42e1-bab9-13bf4af739ce/v0/stream.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTINF:-1 group-title="[ID] TV Nasional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/TVRI_Nasional_2019.svg/512px-TVRI_Nasional_2019.svg.png",DensTV Broadcast HD
+https://op-flashcon-digdayahd-1.dens.tv/s/s104/index.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTINF:-1 group-title="[ID] TV Nasional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/TVRI_Nasional_2019.svg/512px-TVRI_Nasional_2019.svg.png",TVRI Feed
+https://ott-balancer.tvri.go.id/live/eds/Jatim/hls/Jatim.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTINF:-1 group-title="[ID] TV Nasional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/TVRI_Nasional_2019.svg/512px-TVRI_Nasional_2019.svg.png",Channel Indonesia Baru
+https://cdnbal1.indihometv.com/atm/DASH/hbofamily/manifest.mpd|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTINF:-1 group-title="[ID] TV Nasional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/TVRI_Nasional_2019.svg/512px-TVRI_Nasional_2019.svg.png",DensTV Broadcast HD
+https://op-flashcon-digdayaxenkoda.dens.tv/3118a881-f091-4bd1-b479-3096e823e3ec/stream.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTINF:-1 group-title="[ID] TV Nasional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/TVRI_Nasional_2019.svg/512px-TVRI_Nasional_2019.svg.png",DensTV Broadcast HD
+https://op-flashcon-digdayahd-1.dens.tv/h/h18/01.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTINF:-1 group-title="[ID] TV Nasional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/TVRI_Nasional_2019.svg/512px-TVRI_Nasional_2019.svg.png",TVRI Feed
+https://cdnbal1.indihometv.com/atm/DASH/tvriworld/tvriworld-avc1_2500000=7-3277707030000000.mpd|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTINF:-1 group-title="[ID] TV Nasional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/TVRI_Nasional_2019.svg/512px-TVRI_Nasional_2019.svg.png",DensTV Broadcast HD
+https://op-flashcon-digdayahd-1.dens.tv/h/h23/01.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTINF:-1 group-title="[ID] TV Nasional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/TVRI_Nasional_2019.svg/512px-TVRI_Nasional_2019.svg.png",Channel Indonesia Baru
+https://e.siar.us/live/tvmu.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTINF:-1 group-title="[ID] TV Nasional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/TVRI_Nasional_2019.svg/512px-TVRI_Nasional_2019.svg.png",CNN Indonesia Feed
+https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w80388450_b384000_sleng.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTINF:-1 group-title="[ID] TV Nasional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/TVRI_Nasional_2019.svg/512px-TVRI_Nasional_2019.svg.png",CNN Indonesia Feed
+https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w528835010_b384000_sleng.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTINF:-1 group-title="[ID] TV Nasional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/TVRI_Nasional_2019.svg/512px-TVRI_Nasional_2019.svg.png",DensTV Broadcast HD
+https://op-flashcon-digdayahd-1.dens.tv/h/h223/01.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTINF:-1 group-title="[ID] TV Nasional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/TVRI_Nasional_2019.svg/512px-TVRI_Nasional_2019.svg.png",Channel Indonesia Baru
+https://cdnbal1.indihometv.com/atm/DASH/kplus/manifest.mpd|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTINF:-1 group-title="[ID] TV Nasional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/TVRI_Nasional_2019.svg/512px-TVRI_Nasional_2019.svg.png",Channel Indonesia Baru
+https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c685651d7bcc01651f0db0bf0097/manifest.mpd|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTINF:-1 group-title="[ID] TV Nasional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/TVRI_Nasional_2019.svg/512px-TVRI_Nasional_2019.svg.png",DensTV Broadcast HD
+https://op-flashcon-digdayahd-1.dens.tv/h/h207/01.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTINF:-1 group-title="[ID] TV Nasional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/TVRI_Nasional_2019.svg/512px-TVRI_Nasional_2019.svg.png",DensTV Broadcast HD
+https://op-flashcon-digdayahd-1.dens.tv/h/h10/index.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTINF:-1 group-title="[ID] TV Nasional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/TVRI_Nasional_2019.svg/512px-TVRI_Nasional_2019.svg.png",CNBC Indonesia HD
+https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_w481242722_b384000_sleng.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTINF:-1 group-title="[ID] TV Nasional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/TVRI_Nasional_2019.svg/512px-TVRI_Nasional_2019.svg.png",Channel Indonesia Baru
+https://5bf7b725107e5.streamlock.net/brtv/brtv/chunklist_w312881791.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTINF:-1 group-title="[ID] TV Nasional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/TVRI_Nasional_2019.svg/512px-TVRI_Nasional_2019.svg.png",Channel Indonesia Baru
+https://cdnbal1.indihometv.com/atm/DASH/hbosignature/manifest.mpd|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTINF:-1 group-title="[ID] TV Nasional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/TVRI_Nasional_2019.svg/512px-TVRI_Nasional_2019.svg.png",Channel Indonesia Baru
+https://cdnbal1.indihometv.com/atm/DASH/hbohits/manifest.mpd|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTINF:-1 group-title="[ID] TV Nasional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/TVRI_Nasional_2019.svg/512px-TVRI_Nasional_2019.svg.png",DensTV Broadcast HD
+https://op-group1-densxvisionhd-1.dens.tv/h/h207/02.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTINF:-1 group-title="[ID] TV Nasional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/TVRI_Nasional_2019.svg/512px-TVRI_Nasional_2019.svg.png",DensTV Broadcast HD
+https://op-flashcon-digdayahd-1.dens.tv/h/h04/02.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTINF:-1 group-title="[ID] TV Nasional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/TVRI_Nasional_2019.svg/512px-TVRI_Nasional_2019.svg.png",Channel Indonesia Baru
+https://cdnjkt913.transvision.co.id:1000/live/master/108/2c9f90829cf5a35a019e4440cf661e3c/manifest.mpd|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTINF:-1 group-title="[ID] TV Nasional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/TVRI_Nasional_2019.svg/512px-TVRI_Nasional_2019.svg.png",DensTV Broadcast HD
+https://op-flashcon-digdayahd-1.dens.tv/h/h17/01.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTINF:-1 group-title="[ID] TV Nasional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/TVRI_Nasional_2019.svg/512px-TVRI_Nasional_2019.svg.png",Channel Indonesia Baru
+https://cdnbal1.indihometv.com/atm/DASH/cinemax/manifest.mpd|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTINF:-1 group-title="[ID] TV Nasional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/TVRI_Nasional_2019.svg/512px-TVRI_Nasional_2019.svg.png",CNN Indonesia Feed
+https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTINF:-1 group-title="[ID] TV Nasional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/TVRI_Nasional_2019.svg/512px-TVRI_Nasional_2019.svg.png",Channel Indonesia Baru
+https://cdnbal1.indihometv.com/atm/DASH/rock_entertainment/manifest.mpd|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTINF:-1 group-title="[ID] TV Nasional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/TVRI_Nasional_2019.svg/512px-TVRI_Nasional_2019.svg.png",Channel Indonesia Baru
+https://flv.intechmedia.net/live/ch107.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTINF:-1 group-title="[ID] TV Nasional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/TVRI_Nasional_2019.svg/512px-TVRI_Nasional_2019.svg.png",DensTV Broadcast HD
+https://op-flashcon-digdayahd-1.dens.tv/h/h221/01.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTINF:-1 group-title="[ID] TV Nasional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/TVRI_Nasional_2019.svg/512px-TVRI_Nasional_2019.svg.png",DensTV Broadcast HD
+https://op-flashcon-digdayahd-1.dens.tv/h/h37/01.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTINF:-1 group-title="[ID] TV Nasional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/TVRI_Nasional_2019.svg/512px-TVRI_Nasional_2019.svg.png",Channel Indonesia Baru
+https://cdnbal1.indihometv.com/atm/DASH/useesport/manifest.mpd|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTINF:-1 group-title="[ID] TV Nasional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/TVRI_Nasional_2019.svg/512px-TVRI_Nasional_2019.svg.png",Channel Indonesia Baru
+https://cdnbal1.indihometv.com/atm/DASH/hbo/manifest.mpd|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTINF:-1 group-title="[ID] TV Nasional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/TVRI_Nasional_2019.svg/512px-TVRI_Nasional_2019.svg.png",JTV Feed
+https://63b2dc7196c38.streamlock.net:1937/JTVSURABAYA/_definst_/myStream/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTINF:-1 group-title="[ID] TV Nasional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/TVRI_Nasional_2019.svg/512px-TVRI_Nasional_2019.svg.png",Channel Indonesia Baru
+https://cdnbal1.indihometv.com/atm/DASH/globaltv/manifest.mpd|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTINF:-1 group-title="[ID] TV Nasional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/TVRI_Nasional_2019.svg/512px-TVRI_Nasional_2019.svg.png",Channel Indonesia Baru
+https://dash2.antik.sk/stream/nvidia_rtvs_sport/playlist_cenc.mpd|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTINF:-1 group-title="[ID] TV Nasional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/TVRI_Nasional_2019.svg/512px-TVRI_Nasional_2019.svg.png",Channel Indonesia Baru
+https://raw.githubusercontent.com/Cutsiffa/pl/refs/heads/main/Loc/Antv.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTINF:-1 group-title="[ID] TV Nasional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/TVRI_Nasional_2019.svg/512px-TVRI_Nasional_2019.svg.png",Channel Indonesia Baru
+https://ilglobotv-live.akamaized.net/channels/InterTV/Live.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTINF:-1 group-title="[ID] TV Nasional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/TVRI_Nasional_2019.svg/512px-TVRI_Nasional_2019.svg.png",Channel Indonesia Baru
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00718-outdoorchannela-outdoortvnz-samsungnz/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
