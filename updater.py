@@ -1,54 +1,66 @@
 import urllib.request
 import re
 import os
-from datetime import datetime
 
-# ==========================================
-# AUTO UPDATER & GENERATOR M3U INDONESIA
+# ==============================================================================
+# SCRIPT AUTO-UPDATER KHUSUS FULL CHANNEL INDONESIA
 # Repository: https://github.com/PemudaNegri/iptv-indonesia
-# ==========================================
+# ==============================================================================
 
-M3U_FILE = "playlist.m3u"
+SOURCE_URL = "https://iptv-org.github.io/iptv/countries/id.m3u"
+OUTPUT_FILE = "playlist.m3u"
 
-def check_link(url, timeout=5):
-    """Mengecek apakah stream link masih aktif (status code 200/302)"""
-    try:
-        req = urllib.request.Request(
-            url,
-            headers={
-                'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36'
-            }
-        )
-        with urllib.request.urlopen(req, timeout=timeout) as response:
-            return response.status in [200, 301, 302]
-    except Exception:
-        return False
-
-def main():
-    print(f"[{datetime.now().strftime('%Y-%m-%d %H:%M:%S')}] Memulai pengecekan & update playlist...")
+def update_indonesia_only():
+    print(f"[+] Mengunduh data siaran murni Indonesia dari {SOURCE_URL}...")
     
-    if not os.path.exists(M3U_FILE):
-        print(f"Error: {M3U_FILE} tidak ditemukan!")
-        return
+    req = urllib.request.Request(
+        SOURCE_URL, 
+        headers={'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64)'}
+    )
+    with urllib.request.urlopen(req, timeout=10) as response:
+        raw_text = response.read().decode('utf-8', errors='ignore')
 
-    with open(M3U_FILE, "r", encoding="utf-8") as f:
-        content = f.read()
+    lines = raw_text.split('\n')
+    master_playlist = [
+        '#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/id/useetv.com.epg.xml"\n'
+    ]
 
-    # Hitung jumlah channel yang ada
-    channels = re.findall(r"#EXTINF:-1.*?,(.*?)\n", content)
-    print(f"Total Channel Terdaftar: {len(channels)}")
+    current_extinf = None
+    total_channels = 0
 
-    # Update timestamp header
-    header_comment = f"# Last Updated: {datetime.now().strftime('%Y-%m-%d %H:%M:%S')} UTC\n"
-    if "# Last Updated:" in content:
-        content = re.sub(r"# Last Updated:.*?\n", header_comment, content)
-    else:
-        content = content.replace("#EXTM3U", f"#EXTM3U\n{header_comment}")
+    for line in lines:
+        line = line.strip()
+        if not line or line.startswith('#EXTM3U'):
+            continue
 
-    with open(M3U_FILE, "w", encoding="utf-8") as f:
-        f.write(content)
+        if line.startswith('#EXTINF:'):
+            # Pengelompokan kategori rapi bahasa Indonesia
+            if any(k in line.lower() for k in ['relig', 'islam', 'dakwah', 'aliman', 'quran']):
+                extinf_clean = re.sub(r'group-title=".*?"', 'group-title="Religi dan Dakwah"', line)
+            elif any(k in line.lower() for k in ['news', 'berita', 'antara', 'cnn', 'cnbc']):
+                extinf_clean = re.sub(r'group-title=".*?"', 'group-title="Berita dan Informasi"', line)
+            elif any(k in line.lower() for k in ['sport', 'olahraga']):
+                extinf_clean = re.sub(r'group-title=".*?"', 'group-title="Olahraga"', line)
+            elif any(k in line.lower() for k in ['music', 'musik', 'dangdut']):
+                extinf_clean = re.sub(r'group-title=".*?"', 'group-title="Musik dan Budaya"', line)
+            else:
+                extinf_clean = re.sub(r'group-title=".*?"', 'group-title="TV Nasional dan Daerah"', line)
+            current_extinf = extinf_clean
 
-    print("Berhasil memperbarui playlist.m3u!")
+        elif line.startswith('#EXTVLCOPT') or line.startswith('#EXTHTTP'):
+            master_playlist.append(line)
 
-if __name__ == "__main__":
-    main()
+        elif line.startswith('http'):
+            if current_extinf:
+                master_playlist.append(current_extinf)
+                current_extinf = None
+            master_playlist.append(line)
+            total_channels += 1
+
+    with open(OUTPUT_FILE, 'w', encoding='utf-8') as f:
+        f.write('\n'.join(master_playlist))
+
+    print(f"[V] Berhasil! Playlist murni Indonesia ({total_channels} channel) disimpan ke {OUTPUT_FILE}")
+
+if __name__ == '__main__':
+    update_indonesia_only()
