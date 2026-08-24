@@ -1,14 +1,13 @@
 // ==============================================================================
-// CLOUDFLARE WORKER: SISTEM TOKEN & KADALUARSA 1 BULAN (MULTI-PLAYLIST)
+// CLOUDFLARE WORKER: SISTEM TOKEN & ANTI-CACHE (MULTI-PLAYLIST)
 // Repository: https://github.com/PemudaNegri/iptv-indonesia
 // ==============================================================================
 
 // 1. DAFTAR PELANGGAN & TANGGAL KADALUARSA (Format: YYYY-MM-DD)
-// Anda bisa menambah, mengedit, atau menghapus pelanggan langsung dari sini
 const USERS = {
   "demo": "2026-12-31",        // Akun demo sampai akhir tahun
-  "budi": "2026-09-25",        // Pelanggan Pak Budi (aktif sampai 25 Sep 2026)
-  "andi": "2026-09-30",        // Pelanggan Mas Andi (aktif sampai 30 Sep 2026)
+  "budi": "2026-09-25",        // Pelanggan Pak Budi (aktif s/d 25 Sep 2026)
+  "andi": "2026-09-30",        // Pelanggan Mas Andi (aktif s/d 30 Sep 2026)
   "stb01": "2026-09-25",       // STB Unit 01
 };
 
@@ -51,7 +50,7 @@ export default {
       });
     }
 
-    // 3. Tentukan Playlist yang diminta (Live TV atau VOD Film atau Semua)
+    // 3. Tentukan Playlist yang diminta
     let targetUrl = GITHUB_ALL_URL;
     if (type === "live" || type === "tv") {
       targetUrl = GITHUB_LIVE_URL;
@@ -59,18 +58,27 @@ export default {
       targetUrl = GITHUB_VOD_URL;
     }
 
-    // 4. Ambil isi playlist dari GitHub Anda dan alirkan ke STB
-    const response = await fetch(targetUrl, {
-      headers: { "User-Agent": "Mozilla/5.0" }
+    // 4. TRIK ANTI-CACHE: Tambahkan timestamp acak agar GitHub tidak mengirim file cache lama
+    const cacheBusterUrl = targetUrl + "?t=" + Date.now();
+
+    const response = await fetch(cacheBusterUrl, {
+      headers: { 
+        "User-Agent": "Mozilla/5.0",
+        "Cache-Control": "no-cache, no-store, must-revalidate",
+        "Pragma": "no-cache"
+      }
     });
 
     const m3uContent = await response.text();
 
+    // 5. Kirim respon dengan header NO-CACHE agar OTT Navigator selalu membaca data paling baru
     return new Response(m3uContent, {
       headers: {
         "Content-Type": "audio/x-mpegurl; charset=utf-8",
         "Access-Control-Allow-Origin": "*",
-        "Cache-Control": "no-cache"
+        "Cache-Control": "no-store, no-cache, must-revalidate, proxy-revalidate, max-age=0",
+        "Pragma": "no-cache",
+        "Expires": "0"
       }
     });
   }
