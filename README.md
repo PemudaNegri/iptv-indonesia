@@ -1,36 +1,42 @@
-# 📺 Playlist IPTV Channel Indonesia (Auto Update)
+# 📺 Multi-Playlist IPTV & Sistem Langganan Bulanan
 
-Repository resmi playlist TV Indonesia yang sudah disaring rapi, lengkap dengan kategori, logo jernih, jadwal TV (EPG), dan sistem auto-update otomatis via GitHub Actions.
-
----
-
-## 🔗 Link Playlist untuk STB & IPTV Player
-
-Gunakan **Link Raw** di bawah ini untuk dimasukkan ke aplikasi player (TiviMate, OTT Navigator, IPTV Smarters, VLC):
-
-### 1. Link Raw Asli (GitHub):
-```text
-https://raw.githubusercontent.com/PemudaNegri/iptv-indonesia/main/playlist.m3u
-```
-
-### 2. Link Pendek (Rekomendasi untuk Remote STB):
-> *Buat link pendek kustom Anda sendiri di [TinyURL.com](https://tinyurl.com) agar mudah diketik dengan remote:*
-> Contoh: `tinyurl.com/tv-pemudanegri`
+Repository resmi playlist TV Indonesia dengan sistem **Multi-Playlist** (Pemisahan TV Live & VOD Bioskop) serta dilengkapi script **Cloudflare Worker** untuk sistem langganan bulanan / expired otomatis.
 
 ---
 
-## 📂 Struktur File Repository
+## 📂 Daftar File Playlist (Multi-Playlist):
 
-* **`playlist.m3u`**: Master playlist TV Indonesia lengkap (Nasional, Berita, Olahraga, Edukasi, Religi, Daerah).
-* **`updater.py`**: Script Python untuk memvalidasi dan memperbarui playlist.
-* **`.github/workflows/update.yml`**: Robot GitHub Actions yang otomatis berjalan setiap 6 jam untuk memperbarui file `playlist.m3u`.
+### 1. 📡 Playlist TV Live (`live.m3u`)
+* **Khusus:** 214 Channel Siaran Langsung (TV Nasional, TV Daerah, Sports, Bioskop TV, Kids).
+* **Karakteristik:** **Super Ringan & Cepat**, sangat cocok untuk STB RAM 1GB / nonton harian.
+* **Link Raw:**
+  ```text
+  https://raw.githubusercontent.com/PemudaNegri/iptv-indonesia/main/live.m3u
+  ```
+
+### 2. 🍿 Playlist Bioskop VOD (`vod.m3u`)
+* **Khusus:** Koleksi Film Bioskop Indonesia & Box Office.
+* **Link Raw:**
+  ```text
+  https://raw.githubusercontent.com/PemudaNegri/iptv-indonesia/main/vod.m3u
+  ```
+
+### 3. 📦 Master Playlist Lengkap (`playlist.m3u`)
+* **Khusus:** Menggabungkan TV Live + VOD dalam satu file.
+* **Link Raw:**
+  ```text
+  https://raw.githubusercontent.com/PemudaNegri/iptv-indonesia/main/playlist.m3u
+  ```
 
 ---
 
-## 🚀 Cara Memasang di STB Pelanggan
+## ⚙️ Sistem Langganan Bulanan (Cloudflare Worker)
 
-1. Buka aplikasi **TiviMate** atau **OTT Navigator** di STB.
-2. Masuk ke **Settings** $\rightarrow$ **Playlists** $\rightarrow$ **Add Playlist**.
-3. Pilih **M3U Playlist URL** dan masukkan link:
-   `https://raw.githubusercontent.com/PemudaNegri/iptv-indonesia/main/playlist.m3u` (atau link TinyURL Anda).
-4. Aktifkan opsi **"Reload on app start"** agar playlist selalu otomatis sinkron setiap TV dinyalakan.
+Gunakan file **`worker.js`** untuk memasang sistem token & expired date di Cloudflare Workers gratis:
+
+1. Buka dashboard [Cloudflare Workers](https://dash.cloudflare.com) $\rightarrow$ Create Worker.
+2. Salin isi kode dari file **`worker.js`** $\rightarrow$ Klik Save and Deploy.
+3. Link untuk pelanggan Anda menjadi:
+   * **Paket TV Live:** `https://nama-worker.workers.dev/?user=budi&type=live`
+   * **Paket VOD Film:** `https://nama-worker.workers.dev/?user=budi&type=vod`
+   * **Paket Lengkap:** `https://nama-worker.workers.dev/?user=budi`
