@@ -750,25 +750,25 @@ https://op-flashcon-digdayahd-1.dens.tv/h/h24/index.m3u8
 #EXTINF:-1 group-title="[ID] TV Daerah" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/oxygenTV.png",Oxygen TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
 https://cdn4-reg2.mm.oxygen.id:8080/hls/oxygentv-web/index.m3u8
-#EXTINF:-1 tvg-id="auto.malam.para.jahanam" group-title="[VOD] Film Indonesia",Malam Para Jahanam
+#EXTINF:-1 type="movie" tvg-type="movie" tvg-id="auto.malam.para.jahanam" group-title="[VOD] Film Indonesia",Malam Para Jahanam
 https://pixeldrain.com/api/file/a9Y8CEgx?download
-#EXTINF:-1 tvg-id="auto.monster" group-title="[VOD] Film Indonesia",Monster
+#EXTINF:-1 type="movie" tvg-type="movie" tvg-id="auto.monster" group-title="[VOD] Film Indonesia",Monster
 https://pixeldrain.com/api/file/kzy3h67F?download
-#EXTINF:-1 tvg-id="auto.saranjana.kota.ghaib" group-title="[VOD] Film Indonesia",Saranjana: Kota Ghaib
+#EXTINF:-1 type="movie" tvg-type="movie" tvg-id="auto.saranjana.kota.ghaib" group-title="[VOD] Film Indonesia",Saranjana: Kota Ghaib
 https://pixeldrain.com/api/file/vUGDTTXc?download
 # "https://pixeldrain.com/api/file/RAo1H7gc?download
 # "
-#EXTINF:-1 tvg-id="auto.siksa.neraka" group-title="[VOD] Film Indonesia",Siksa Neraka
+#EXTINF:-1 type="movie" tvg-type="movie" tvg-id="auto.siksa.neraka" group-title="[VOD] Film Indonesia",Siksa Neraka
 https://pixeldrain.com/api/file/Ya2YKE7h?download
-#EXTINF:-1 tvg-id="auto.kuyang" group-title="[VOD] Film Indonesia",Kuyang
+#EXTINF:-1 type="movie" tvg-type="movie" tvg-id="auto.kuyang" group-title="[VOD] Film Indonesia",Kuyang
 https://pixeldrain.com/api/file/BPrv72bw?download
-#EXTINF:-1 tvg-id="auto.pemandi.jenazah" group-title="[VOD] Film Indonesia",Pemandi Jenazah
+#EXTINF:-1 type="movie" tvg-type="movie" tvg-id="auto.pemandi.jenazah" group-title="[VOD] Film Indonesia",Pemandi Jenazah
 https://pixeldrain.com/api/file/Zb5Seo99?download
-#EXTINF:-1 tvg-id="auto.sinden.gaib" group-title="[VOD] Film Indonesia",Sinden Gaib
+#EXTINF:-1 type="movie" tvg-type="movie" tvg-id="auto.sinden.gaib" group-title="[VOD] Film Indonesia",Sinden Gaib
 https://pixeldrain.com/api/file/ci2qdnsA?download
-#EXTINF:-1 tvg-id="auto.tanduk.setan" group-title="[VOD] Film Indonesia",Tanduk Setan
+#EXTINF:-1 type="movie" tvg-type="movie" tvg-id="auto.tanduk.setan" group-title="[VOD] Film Indonesia",Tanduk Setan
 https://pixeldrain.com/api/file/ocwVztMT?download
-#EXTINF:-1 tvg-id="auto.trinil" group-title="[VOD] Film Indonesia",Trinil
+#EXTINF:-1 type="movie" tvg-type="movie" tvg-id="auto.trinil" group-title="[VOD] Film Indonesia",Trinil
 https://pixeldrain.com/api/file/gu6tTkv4?download
 #EXTINF:-1 group-title="[ID] TV Nasional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/TVRI_Nasional_2019.svg/512px-TVRI_Nasional_2019.svg.png",CNBC Indonesia HD
 https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
