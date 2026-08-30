@@ -3,7 +3,7 @@
 # 📺 IPTV INDONESIA & STB PRO
 ### *Solusi Smart TV Premium, Siaran Lengkap, & Bioskop VOD Tanpa Batas*
 
-![IPTV Indonesia Banner](banner.jpg)
+![IPTV Indonesia Banner](banner_v2.jpg)
 
 <p align="center">
   <img src="https://img.shields.io/badge/Status-100%25%20Active%20%26%20Online-brightgreen?style=for-the-badge&logo=statuspage" alt="Status">
