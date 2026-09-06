@@ -1,1030 +1,414 @@
 #EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/id/useetv.com.epg.xml"
 
-#EXTINF:-1 tvg-id="ANTV.id@SD" group-title="[ID] TV Nasional" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_antv.png",ANTV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
-https://beetv.my.id/xstreamx/vd.m3u8?ch=antv
-#EXTINF:-1 tvg-id="" tvg-name="ID: ANTV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/baae5840cf8cfd60d1bd93565e00ff59.png" group-title="[ID] TV Nasional",ID: ANTV
-http://013tv.com:8080/F33848/cbd9779b/165072
-#EXTINF:-1 tvg-id="BeritaSatu.id@SD" group-title="[ID] TV Nasional" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/imageCir_BERITA_SATU_(Color)_2025_10_24_11_52_17.jpg",Berita Satu
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
-https://op-flashcon-digdayahd-1.dens.tv/h/h314/stream.m3u8?app_type=web&userid=lite&chname=Berita_Satu
-#EXTINF:-1 tvg-id="BTV.id@SD" group-title="[ID] TV Nasional" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_btv.png",BTV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
-https://op-flashcon-digdayahd-1.dens.tv/h/h313/stream.m3u8?app_type=web&userid=lite&chname=BTV
-#EXTINF:-1 tvg-id="BTV.id@SD" group-title="[ID] TV Nasional" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_btv.png",BTV
-https://cdnbal1.indihometv.com/atm/DASH/beritasatu/beritasatu-avc1_2500000=7-3277707030000000.mpd
-#EXTINF:-1 tvg-id="BTV.id@SD" group-title="[ID] TV Nasional" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_btv.png",BTV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://tvratu.my.id/vid/index.mpd?id=6165
-https://tvratu.my.id/vid/index.mpd?id=6165
-#EXTINF:-1 tvg-id="" tvg-name="ID: CNBC Indonesia" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/4415ae88fbabaa7f388eaa7dead5e038.png" group-title="[ID] TV Nasional",ID: CNBC Indonesia
-http://013tv.com:8080/F33848/cbd9779b/165062
-#EXTINF:-1 tvg-id="CNN.id" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/cnn.png" group-title="[ID] TV Nasional",CNN Indonesia
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
-https://live.cnnindonesia.com/livecnn/smil:cnntv/chunklist_w1188349826_b384000_sleng.m3u8
-#EXTINF:-1 tvg-id="GTV.id@SD" group-title="[ID] TV Nasional" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/imageCir_GTV-180x180_2025_11_06_13_07_56.jpg",GTV
-#EXTVLCOPT:http-referrer=https://m.rctiplus.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
-https://beetv.my.id/xstreamx/rctiplus.m3u8?ch=gtv
-#EXTINF:-1 tvg-id="IDXChannel.id@SD" group-title="[ID] TV Nasional" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/imageCir_IDX-180x180_2025_11_06_13_10_27.jpg",IDX Channel
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=941717a97fe946069fd7ebc7afb48402:305d9297ec5797e7fd8aca03142b3b7e
-https://d2xx73ro32cip.cloudfront.net/out/v1/db34a1b61f414d2181c29f1892bc8d0b/index.mpd
-#EXTINF:-1 tvg-id="IDXChannel.id@SD" group-title="[ID] TV Nasional" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/imageCir_IDX-180x180_2025_11_06_13_10_27.jpg",IDX Channel
-https://cdnbal1.indihometv.com/atm/DASH/idx/idx-avc1_2500000=7-3277707030000000.mpd
-#EXTINF:-1 tvg-id="" tvg-name="ID: Indosiar" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/ce86013bab079cc94d323717c9006e24.png" group-title="[ID] TV Nasional",ID: Indosiar
-http://013tv.com:8080/F33848/cbd9779b/162138
-#EXTINF:-1 tvg-id="Indosiar.id@SD" group-title="[ID] TV Nasional" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_indosiar.png",Indosiar
-https://cdnbal1.indihometv.com/atm/DASH/indosiar/indosiar-avc1_2500000=7-3277707030000000.mpd
-#EXTINF:-1 tvg-id="Indosiar.id@SD" group-title="[ID] TV Nasional" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_indosiar.png",Indosiar
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://tvratu.my.id/vid/index.mpd?id=205
-https://tvratu.my.id/vid/index.mpd?id=205
-#EXTINF:-1 tvg-id="iNews.id@SD" group-title="[ID] TV Nasional" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_inews.png",iNews
-#EXTVLCOPT:http-referrer=https://m.rctiplus.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
-https://beetv.my.id/xstreamx/rctiplus.m3u8?ch=inews
-#EXTINF:-1 tvg-id="KompasTV.id@SD" group-title="[ID] TV Nasional" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_kompastv.png",Kompas TV
-https://cdnbal1.indihometv.com/atm/DASH/KOMPAS_TV/KOMPAS_TV-avc1_2500000=7-3277707030000000.mpd
-#EXTINF:-1 tvg-id="MDTV.id@HD" group-title="[ID] TV Nasional" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/imageCir_MDTV-180x180-CL_2025_10_08_13_01_28.jpg",MDTV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
-https://op-flashcon-digdayahd-1.dens.tv/h/h223/index.m3u8
-#EXTINF:-1 tvg-id="MDTV.id@HD" group-title="[ID] TV Nasional" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/imageCir_MDTV-180x180-CL_2025_10_08_13_01_28.jpg",MDTV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://tvratu.my.id/vid/index.mpd?id=875
-https://tvratu.my.id/vid/index.mpd?id=875
-#EXTINF:-1 tvg-id="MetroTV.id@SD" group-title="[ID] TV Nasional" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_metrotv.png",Metro TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
-https://op-flashcon-digdayahd-1.dens.tv/h/h12/index.m3u8
-#EXTINF:-1 tvg-id="MetroTV.id@SD" group-title="[ID] TV Nasional" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_metrotv.png",Metro TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://tvratu.my.id/vid/index.mpd?id=777
-https://tvratu.my.id/vid/index.mpd?id=777
-#EXTINF:-1 tvg-id="MNCTV.id@SD" group-title="[ID] TV Nasional" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/imageCir_MNC-180x180_2025_11_06_13_06_02.jpg",MNCTV
-#EXTVLCOPT:http-referrer=https://m.rctiplus.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
-https://beetv.my.id/xstreamx/rctiplus.m3u8?ch=mnctv
-#EXTINF:-1 tvg-id="Moji.id@SD" group-title="[ID] TV Nasional" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_moji.png",Moji
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
-https://op-flashcon-digdayahd-1.dens.tv/h/h207/index.m3u8
-#EXTINF:-1 tvg-id="Moji.id@SD" group-title="[ID] TV Nasional" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_moji.png",Moji
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://tvratu.my.id/vid/index.mpd?id=206
-https://tvratu.my.id/vid/index.mpd?id=206
-#EXTINF:-1 tvg-id="NusantaraTV.id@SD" group-title="[ID] TV Nasional" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_nusantaratv.png",Nusantara TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
-https://op-flashcon-digdayahd-1.dens.tv/h/h37/index.m3u8
-#EXTINF:-1 tvg-id="NusantaraTV.id@SD" group-title="[ID] TV Nasional" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_nusantaratv.png",Nusantara TV
-https://cdnbal1.indihometv.com/atm/DASH/nusantaratv/nusantaratv-avc1_2500000=7-3277707030000000.mpd
-#EXTINF:-1 tvg-id="RCTI.id@SD" group-title="[ID] TV Nasional" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/imageCir_RCTI-180x180_2025_11_06_13_09_06.jpg",RCTI
-#EXTVLCOPT:http-referrer=https://m.rctiplus.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
-https://beetv.my.id/xstreamx/rctiplus.m3u8?ch=rcti
-#EXTINF:-1 tvg-id="RajawaliTV.id@SD" group-title="[ID] TV Nasional" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_rtv.png",RTV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
-https://op-flashcon-digdayahd-1.dens.tv/h/h10/index.m3u8
-#EXTINF:-1 tvg-id="RajawaliTV.id@SD" group-title="[ID] TV Nasional" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_rtv.png",RTV
-https://cdnbal1.indihometv.com/atm/DASH/RAJAWALI_TV/RAJAWALI_TV-avc1_2500000=7-3277707030000000.mpd
-#EXTINF:-1 tvg-id="RajawaliTV.id@SD" group-title="[ID] TV Nasional" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_rtv.png",RTV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://tvratu.my.id/vid/index.mpd?id=1561
-https://tvratu.my.id/vid/index.mpd?id=1561
-#EXTINF:-1 tvg-id="SCTV.id@SD" group-title="[ID] TV Nasional" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_sctv.png",SCTV
-https://cdnbal1.indihometv.com/atm/DASH/sctv/sctv-avc1_2500000=7-3277707030000000.mpd
-#EXTINF:-1 tvg-id="SCTV.id@SD" group-title="[ID] TV Nasional" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_sctv.png",SCTV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://tvratu.my.id/vid/index.mpd?id=204
-https://tvratu.my.id/vid/index.mpd?id=204
-#EXTINF:-1 tvg-id="SinPoTV.id@HD" group-title="[ID] TV Nasional" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/imageCir_Sinpo-1800x1800_2025_11_06_13_04_13.jpg",Sin Po TV
-https://cdnbal1.indihometv.com/atm/DASH/sinpotv/sinpotv-avc1_2500000=7-3277707030000000.mpd
-#EXTINF:-1 tvg-id="SindoNewsTV.id@SD" group-title="[ID] TV Nasional" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_sindonews.png",SindoNews
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://boti.my.id/saya.suka?id=5&type=fitnah
-https://d43tg978oium5.cloudfront.net/out/v1/8c2df39f9b2842fbb997b89378841ad9/index.mpd
-#EXTINF:-1 tvg-id="SindoNewsTV.id@SD" group-title="[ID] TV Nasional" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_sindonews.png",SindoNews
-https://cdnbal1.indihometv.com/atm/DASH/mncnews/mncnews-avc1_2500000=7-3277707030000000.mpd
-#EXTINF:-1 tvg-id="Trans 7.id"  tvg-logo="https://i.ibb.co.com/V37y7jf/trans7.png" group-title="[ID] TV Nasional", TRANS 7 🇮🇩
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0
-http://013tv.com:8080/F33848/cbd9779b/162502
-#EXTINF:-1 tvg-id="Trans TV.id" tvg-logo="https://i.ibb.co.com/k3S01Fh/transtv.png" group-title="[ID] TV Nasional", TRANS TV 🇮🇩
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0
-http://013tv.com:8080/F33848/cbd9779b/162503
-#EXTINF:-1 tvg-id="tvOne.id@SD" group-title="[ID] TV Nasional" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_tvone.png",TVOne
-https://cdnbal1.indihometv.com/atm/DASH/tvone/tvone-avc1_2500000=7-3277707030000000.mpd
-#EXTINF:-1 tvg-id="tvOne.id@SD" group-title="[ID] TV Nasional" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_tvone.png",TVOne
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://tvratu.my.id/vid/index.mpd?id=783
-https://tvratu.my.id/vid/index.mpd?id=783
-#EXTINF:-1 tvg-id="TVRI.id@SD" group-title="[ID] TV Nasional" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_tvri.png",TVRI
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
-https://op-flashcon-digdayahd-1.dens.tv/h/h17/index.m3u8?app_type=web&userid=lite&chname=TVRI
-#EXTINF:-1 tvg-id="TVRIWorld.id@SD" group-title="[ID] TV Nasional" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/imageCir_180x180-CL-TVRI-World_2025_11_03_11_11_10.jpg",TVRI World
-https://cdnbal1.indihometv.com/atm/DASH/tvriworld/tvriworld-avc1_2500000=7-3277707030000000.mpd
-#EXTINF:-1 tvg-id="BaliTV.id@SD" group-title="[ID] TV Daerah" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_balitv.png",Bali TV
-https://cdnbal1.indihometv.com/atm/DASH/balitv/balitv-avc1_2500000=7-3277707030000000.mpd
-#EXTINF:-1 group-title="[ID] TV Daerah" tvg-logo="https://pic.dens.tv/tv_183x174/BN_Channel_(Trial)_1.jpg",BN Channel
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
-https://op-flashcon-digdayahd-1.dens.tv/h/h39/index.m3u8
-#EXTINF:-1 tvg-id="ChannelJowo.id@SD" group-title="[ID] TV Daerah" tvg-logo="https://pic.dens.tv/tv_183x174/Channel_Jowo_1.jpg",Channel Jowo
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
-https://op-flashcon-digdayasd-1.dens.tv/h/h215/stream.m3u8?app_type=web&userid=lite&chname=Channel_Jowo
-#EXTINF:-1 tvg-id="DAAITV.id@SD" group-title="[ID] TV Daerah" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_daaitv.png",DAAI TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
+#EXTVLCOPT:http-referrer=https://afbtvkupang.com/
+#EXTINF:-1 tvg-id="AFBTVKupang.id@SD" tvg-logo="https://i.postimg.cc/bJpyzPbB/afbtv.png" http-referrer="https://afbtvkupang.com/" group-title="TV Nasional dan Daerah",AFBTV Kupang (1080p) [Not 24/7]
+https://afbtv.siar.us/live/afbtv.m3u8
+#EXTINF:-1 tvg-id="AhsanTV.id@SD" tvg-logo="https://i.imgur.com/dZdUbYd.png" group-title="Religi dan Dakwah",Ahsan TV
+https://5bf7b725107e5.streamlock.net/ahsantv/ahsantv/playlist.m3u8
+#EXTINF:-1 tvg-id="AjwaTV.id@SD" tvg-logo="https://i.imgur.com/JXjbUhB.png" group-title="TV Nasional dan Daerah",Ajwa TV (1080p)
+http://ikitv.sqn.at:8000/play/a00j/index.m3u8
+#EXTVLCOPT:http-referrer=https://aktvuhfdigital.tv/Livestream/aktv
+#EXTINF:-1 tvg-id="AKTV.id@SD" tvg-logo="https://i.imgur.com/DUY5WXf.png" http-referrer="https://aktvuhfdigital.tv/Livestream/aktv" group-title="TV Nasional dan Daerah",AKTV (1080p) [Not 24/7]
+https://akativi.siar.us/live/akativi.m3u8
+#EXTINF:-1 tvg-id="AlBahjahTV.id@SD" tvg-logo="https://i.imgur.com/52dlDZk.png" group-title="Religi dan Dakwah",Al-Bahjah TV (1080p)
+http://202.150.161.117:8000/play/AlBahjahTV
+#EXTINF:-1 tvg-id="AlImanTV.id@SD" tvg-logo="https://i.imgur.com/Qj1EFf1.png" group-title="Religi dan Dakwah",Al-Iman TV (720p)
+https://tv.aliman.id/aliman/live.m3u8
+#EXTINF:-1 tvg-id="AlWafaTarim.id@SD" tvg-logo="https://i.ibb.co/3yfMjmf/logo-3.png" group-title="Religi dan Dakwah",Alwafa Tarim TV (Am Media) (720p)
+https://ammedia.siar.us/ammedia/live/playlist.m3u8
+#EXTINF:-1 tvg-id="AngelTV.in@Indonesia" tvg-logo="https://i.imgur.com/qKLEGU7.png" group-title="Religi dan Dakwah",Angel TV Indonesia (720p)
+https://janya-digimix.akamaized.net/vglive-sk-234616/indonesia/ngrp:angelindonesia_all/playlist.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTINF:-1 tvg-id="ANTV.id@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Antv_logo.svg/960px-Antv_logo.svg.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36" group-title="TV Nasional dan Daerah",ANTV (720p)
+http://103.58.160.157:8278/720-ANTV/playlist.m3u8
+#EXTINF:-1 tvg-id="AshiilTV.id@SD" tvg-logo="https://i.imgur.com/bTktkcr.png" group-title="Religi dan Dakwah",Ashiil TV (480p)
+https://wahyu1ptv.pages.dev/AshiilTV-HD.m3u8
+#EXTINF:-1 tvg-id="AsthaTV.id@HD" tvg-logo="https://asthatv.com/wp-content/uploads/2026/02/Logo-Astha.png" group-title="TV Nasional dan Daerah",Astha TV (1080p) [Not 24/7]
+https://hgmtv.com:19360/asthatv/asthatv.m3u8
+#EXTVLCOPT:http-referrer=https://abtelevisi.com/
+#EXTINF:-1 tvg-id="AstroBlitarTV.id@SD" tvg-logo="https://i.imgur.com/rORKbGw.png" http-referrer="https://abtelevisi.com/" group-title="TV Nasional dan Daerah",Astro Blitar TV (720p)
+https://5bf7b725107e5.streamlock.net/abtv/abtv/playlist.m3u8
+#EXTINF:-1 tvg-id="AtambuaTV.id@HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/72/Atambua_TV.png" group-title="TV Nasional dan Daerah",Atambua TV (720p)
+http://122.248.43.242:1935/ATAMBUATV/_definst_/myStream/playlist.m3u8
+#EXTINF:-1 tvg-id="BalikpapanTV.id@SD" tvg-logo="https://i.imgur.com/P3whqna.png" group-title="TV Nasional dan Daerah",Balikpapan TV (720p)
+http://122.248.43.242:1935/BALIKPAPANTV/_definst_/myStream/playlist.m3u8
+#EXTINF:-1 tvg-id="BandungTV.id@SD" tvg-logo="https://i.postimg.cc/JzqSzcj9/200px-Logo-bdg-tv-2016.png" group-title="TV Nasional dan Daerah",Bandung TV (360p)
+http://202.150.153.254:65500/bandungtvWEBSITE.m3u8
+#EXTINF:-1 tvg-id="BanjarTV.id@SD" tvg-logo="https://i.imgur.com/TA76a10.png" group-title="TV Nasional dan Daerah",Banjar TV (720p) [Not 24/7]
+https://banjartv.siar.us/banjartv/live/playlist.m3u8
+#EXTINF:-1 tvg-id="BantenTV.id@SD" tvg-logo="https://i.imgur.com/tbtF40p.png" group-title="TV Nasional dan Daerah",Banten TV (720p) [Not 24/7]
+https://5bf7b725107e5.streamlock.net/bantentv/bantentv/playlist.m3u8
+#EXTINF:-1 tvg-id="BMSTV.id@SD" tvg-logo="https://i.imgur.com/snMxng5.png" group-title="TV Nasional dan Daerah",Banyumas TV (720p) [Not 24/7]
+https://5bf7b725107e5.streamlock.net/bmstv/bmstv/playlist.m3u8
+#EXTINF:-1 tvg-id="BatamTV.id@SD" tvg-logo="https://i.imgur.com/lo7YXnW.png" group-title="TV Nasional dan Daerah",Batam TV (480p) [Not 24/7]
+http://122.248.43.242:1935/BATAMTV/_definst_/myStream/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://www.beritasatu.com/beritasatu-live-streaming
+#EXTINF:-1 tvg-id="BeritaSatu.id@SD" tvg-logo="https://i.postimg.cc/6pycF7Vx/300px-IDTV.png" http-referrer="https://www.beritasatu.com/beritasatu-live-streaming" group-title="Berita dan Informasi",BeritaSatu (1080p)
+https://xtdslboppkkv-pull.bpmedialive.com/live/beritasatu/abr.m3u8
+#EXTINF:-1 tvg-id="BiznetAdventure.id@SD" tvg-logo="https://i.imgur.com/ZREy4zM.png" group-title="TV Nasional dan Daerah",Biznet Adventure (1080p)
+http://livestream.biznetvideo.net/biznet_adventure/smil:adventure.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="BiznetKids.id@SD" tvg-logo="https://i.imgur.com/J5QNqJ0.png" group-title="TV Nasional dan Daerah",Biznet Kids (1080p)
+http://livestream.biznetvideo.net/biznet_kids/smil:kids.smil/index.m3u8
+#EXTINF:-1 tvg-id="BiznetLifestyle.id@SD" tvg-logo="https://i.imgur.com/XqUfQKA.png" group-title="TV Nasional dan Daerah",Biznet Lifestyle (1080p)
+http://livestream.biznetvideo.net/biznet_lifestyle/smil:lifestyle.smil/index.m3u8
+#EXTINF:-1 tvg-id="BNChannel.id@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/BN_Channel.png/960px-BN_Channel.png" group-title="Berita dan Informasi",BN Channel (1080p)
+http://ikitv.sqn.at:8000/play/a01l/index.m3u8
+#EXTINF:-1 tvg-id="BRTV.id@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/id/1/1f/Logo_BRTV.png" group-title="TV Nasional dan Daerah",BRTV (720p)
+https://5bf7b725107e5.streamlock.net/brtv/brtv/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://www.dens.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-id="BTV.id@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/BTV_%28Indonesia%29_logo_%282025%29.svg/960px-BTV_%28Indonesia%29_logo_%282025%29.svg.png" http-referrer="https://www.dens.tv/" http-user-agent="Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36" group-title="Berita dan Informasi",BTV [Geo-blocked]
+https://op-group1-swiftservehd-1.dens.tv/h/h129/S4/mnf.m3u8
+#EXTINF:-1 tvg-id="BungoTV.id@SD" tvg-logo="https://i.imgur.com/OrCrtDA.png" group-title="TV Nasional dan Daerah",Bungo TV (480p) [Not 24/7]
+https://5bf7b725107e5.streamlock.net/bungotv/bungotv/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://stream.carubantv.id
+#EXTINF:-1 tvg-id="CarubanTV.id@HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/CarubanTV%28Low-res%29.png" http-referrer="https://stream.carubantv.id" group-title="TV Nasional dan Daerah",Caruban TV (1080p)
+https://stream.carubantv.id/hls/0/stream.m3u8
+#EXTINF:-1 tvg-id="CelebesTV.id@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/id/8/81/Logo_Celebes_TV_2020.png" group-title="TV Nasional dan Daerah",Celebes TV [Not 24/7]
+https://ams.juraganstreaming.com:5443/LiveApp/streams/celebesmedia.m3u8
+#EXTVLCOPT:http-referrer=https://www.dens.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-id="ChannelJowo.id@SD" tvg-logo="https://i.imgur.com/fksxiaS.png" http-referrer="https://www.dens.tv/" http-user-agent="Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36" group-title="TV Nasional dan Daerah",Channel Jowo [Geo-blocked]
+https://op-group1-swiftservehd-1.dens.tv/h/h77/index.m3u8
+#EXTINF:-1 tvg-id="DAAITV.id@SD" tvg-logo="https://i.imgur.com/YC7JCHo.png" group-title="Religi dan Dakwah",DAAI TV
 https://pull.daaiplus.com/live-DAAIPLUS/live-DAAIPLUS_HD.m3u8
-#EXTINF:-1 tvg-id="GarudaTV.id@SD" group-title="[ID] TV Daerah" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/garudatv.jpg",Garuda TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
-https://hgmtv.com:19360/garudatvlivestreaming/720p.m3u8
-#EXTINF:-1 group-title="[ID] TV Daerah" tvg-logo="https://www.visionplus.id/images/repository/705/243705-LOGO-m.png",Hanacaraka TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://boti.my.id/saya.suka?id=89&type=fitnah
-https://d1vckova5fh9mt.cloudfront.net/out/v1/17c724036c5f4615bd0b8093126b5c44/index.mpd
-#EXTINF:-1 group-title="[ID] TV Daerah" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_indonesianatv.png",Indonesiana TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
+#EXTVLCOPT:http-referrer=https://davikatv.co/livestreaming/
+#EXTINF:-1 tvg-id="DavikaTV.id@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/id/6/60/Logo_Davika_TV.png" http-referrer="https://davikatv.co/livestreaming/" group-title="TV Nasional dan Daerah",Davika TV (480p)
+https://5bf7b725107e5.streamlock.net/davika/davika/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://www.dens.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-id="DensFoodChannel.id@SD" tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687501416_tvchannels_v1.jpg" http-referrer="https://www.dens.tv/" http-user-agent="Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36" group-title="TV Nasional dan Daerah",Dens Food Channel [Geo-blocked]
+https://op-group1-swiftservehd-1.dens.tv/h/h221/index.m3u8
+#EXTVLCOPT:http-referrer=https://www.dens.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-id="DensKnowledge.id@SD" tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1701335417_tvchannels_v1.jpg" http-referrer="https://www.dens.tv/" http-user-agent="Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36" group-title="TV Nasional dan Daerah",Dens Learning & Knowledge [Geo-blocked]
+https://op-group1-swiftservehd-1.dens.tv/h/h236/index.m3u8
+#EXTVLCOPT:http-referrer=https://www.dens.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-id="DensLifeStyle.id@SD" tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687501284_tvchannels_v1.jpg" http-referrer="https://www.dens.tv/" http-user-agent="Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36" group-title="TV Nasional dan Daerah",Dens Life & Style [Geo-blocked]
+https://op-group1-swiftservehd-1.dens.tv/h/h222/index.m3u8
+#EXTVLCOPT:http-referrer=https://www.dens.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-id="DensPlay.id@SD" tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687501248_tvchannels_v1.jpg" http-referrer="https://www.dens.tv/" http-user-agent="Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36" group-title="TV Nasional dan Daerah",Dens Play [Geo-blocked]
+https://op-group1-swiftservehd-1.dens.tv/h/h225/index.m3u8
+#EXTVLCOPT:http-referrer=https://www.dens.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-id="DensShowBiz.id@SD" tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687501370_tvchannels_v1.jpg" http-referrer="https://www.dens.tv/" http-user-agent="Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36" group-title="TV Nasional dan Daerah",Dens ShowBiz [Geo-blocked]
+https://op-group1-swiftservehd-1.dens.tv/h/h203/index.m3u8
+#EXTINF:-1 tvg-id="DhammaTV.id@SD" tvg-logo="https://dhammaweb.tv/wp-content/uploads/2018/08/cropped-dhammatv-3.png" group-title="Religi dan Dakwah",Dhamma TV (720p) [Not 24/7]
+https://b.webcache.maxindo.net.id/dhamma/dhamma.m3u8
+#EXTINF:-1 tvg-id="DhohoTV.id@SD" tvg-logo="https://i.imgur.com/4Khyyfh.png" group-title="TV Nasional dan Daerah",Dhoho TV (720p)
+https://dhohotv.siar.us/dhohotv/live/playlist.m3u8
+#EXTINF:-1 tvg-id="DMITV.id@SD" tvg-logo="https://static.promediateknologi.id/promedia/network/1167/desktop/images/logo.png" group-title="Religi dan Dakwah",DMI TV (576i)
+https://tvstreamcast.com/tawaftv.m3u8
+#EXTINF:-1 tvg-id="dTVi.id@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/90/Logo_DTVI.png" group-title="TV Nasional dan Daerah",dTVi
+https://e.siar.us/live/dtvi.m3u8
+#EXTINF:-1 tvg-id="DutaTV.id@SD" tvg-logo="https://i.imgur.com/B4JW54M.png" group-title="TV Nasional dan Daerah",Duta TV (360p) [Not 24/7]
+https://dutatv.siar.us/dutatv/live/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://live.efarinatv.net/
+#EXTINF:-1 tvg-id="EfarinaTV.id@SD" tvg-logo="https://i.imgur.com/iYTimXh.png" http-referrer="https://live.efarinatv.net/" group-title="TV Nasional dan Daerah",Efarina TV (720p)
+https://live.efarinatv.com/hls/bgtaufikganteng.m3u8
+#EXTINF:-1 tvg-id="FajarTV.id@SD" tvg-logo="https://i.imgur.com/mkuXxRK.png" group-title="Religi dan Dakwah",Fajar TV (720p) [Not 24/7]
+http://122.248.43.242:1935/FAJARTV/_definst_/myStream/playlist.m3u8
+#EXTINF:-1 tvg-id="FicomChannel.id@SD" tvg-logo="https://i.imgur.com/KMEf0Cc.png" group-title="TV Nasional dan Daerah",Ficom Channel (720p)
+https://v3.siar.us/ficomchannel/live/playlist.m3u8
+#EXTINF:-1 tvg-id="FTV.tw@SD" tvg-logo="https://i.imgur.com/q8ahtbT.png" group-title="TV Nasional dan Daerah",FTV (民視) (720p) [Not 24/7]
+http://seb.sason.top/ptv/ftv.php?id=ms
+#EXTINF:-1 tvg-id="GarudaTV.id@SD" tvg-logo="https://i.imgur.com/sXsAcZ3.png" group-title="TV Nasional dan Daerah",Garuda TV (1080p)
+https://hgmtv.com:19360/garudatvlivestreaming/garudatvlivestreaming.m3u8
+#EXTINF:-1 tvg-id="GrooviaKanal.id@HD" tvg-logo="https://hosting.renderforestsites.com/35126779/1657983/media/e1b4737ec68d96b27f713c034543d472.png" group-title="TV Nasional dan Daerah",Groovia Kanal (576p)
+https://gist.githubusercontent.com/iptvonlinetv/02d209207082846012c15305f7471c55/raw/4439b54b986e696e6fcfba7a53380d85b27bbbc1/udp450.500.723:6050.m3u8
+#EXTINF:-1 tvg-id="GrooviaKids.id@HD" tvg-logo="https://hosting.renderforestsites.com/35126779/1657983/media/37034d6b30d2c092aa6827a34fa145ab.png" group-title="TV Nasional dan Daerah",Groovia Kids (576p)
+https://gist.githubusercontent.com/iptvonlinetv/244b66c61f162a7c0c2b4fa59b528139/raw/2376b7ba1989ebbd383301ec7d645e222a6c9338/udp780.510.345:4545.m3u8
+#EXTINF:-1 tvg-id="GTV.id@HD" tvg-logo="https://i.imgur.com/jjuKnYs.png" group-title="TV Nasional dan Daerah",GTV HD
+https://mncmedia.malingtv.workers.dev/gtv.m3u8
+#EXTINF:-1 tvg-id="HumaBetangTV.id@SD" tvg-logo="https://i.imgur.com/xBTqOEu.png" group-title="Berita dan Informasi",Huma Betang TV (720p) [Not 24/7]
+https://v3.siar.us/humabetangtv/live/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://iamchannel.org/
+#EXTINF:-1 tvg-id="IAmChannel.id@SD" tvg-logo="https://i.imgur.com/Gg6OcGT.png" http-referrer="https://iamchannel.org/" group-title="Religi dan Dakwah",I Am Channel (576p)
+https://61146e7ab7a66.streamlock.net:8089/tes/1/chunklist.m3u8
+#EXTVLCOPT:http-referrer=https://indonesiana.tv/
+#EXTINF:-1 tvg-id="IndonesianaTV.id@SD" tvg-logo="https://i.imgur.com/192wiS1.png" http-referrer="https://indonesiana.tv/" group-title="TV Nasional dan Daerah",Indonesiana.TV (720p)
 https://tvstreamcast.com/indonesiana.m3u8
-#EXTINF:-1 tvg-id="JakTV.id@SD" group-title="[ID] TV Daerah" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_jaktv.png",JakTV
-https://cdnbal1.indihometv.com/atm/DASH/JAK_TV/JAK_TV-avc1_2500000=7-3277707030000000.mpd
-#EXTINF:-1 tvg-id="JawaPosTV.id@SD" group-title="[ID] TV Daerah" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_jawapos.png",JawaPos TV
-https://cdnbal1.indihometv.com/atm/DASH/jawapos/jawapos-avc1_2500000=7-3277707030000000.mpd
-#EXTINF:-1 tvg-id="JTV.id@SD" group-title="[ID] TV Daerah" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_jtv.png",JTV
-https://cdnbal1.indihometv.com/atm/DASH/jtv/jtv-avc1_2500000=7-3277707030000000.mpd
-#EXTINF:-1 tvg-id="MagnaChannel.id@SD" group-title="[ID] TV Daerah" tvg-logo="https://pic.dens.tv/tv_183x174/Magna_Channel_1.jpg",Magna Channel
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
-https://op-flashcon-digdayahd-1.dens.tv/h/h24/index.m3u8
-#EXTINF:-1 group-title="[ID] TV Daerah" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/oxygenTV.png",Oxygen TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
-https://cdn4-reg2.mm.oxygen.id:8080/hls/oxygentv-web/index.m3u8
-#EXTINF:-1 group-title="[KIDS] Anak & Animasi" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/biznetkids.png",Biznet Kids
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-http://livestream.biznetvideo.net/biznet_kids/smil:kids.smil/manifest.mpd
-#EXTINF:-1 tvg-id="CBeebies.uk@SD" group-title="[KIDS] Anak & Animasi" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/imageCir_180x180_CBeebies_2025_12_03_10_31_32.jpg",CBeebies
-https://cdnbal1.indihometv.com/atm/DASH/cbeebies/cbeebies-avc1_2500000=7-3277707030000000.mpd
-#EXTINF:-1 tvg-id="MyKidz.id@SD" group-title="[KIDS] Anak & Animasi" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_mykidz.png",My Kidz
-https://cdnbal1.indihometv.com/atm/DASH/mykids/mykids-avc1_2500000=7-3277707030000000.mpd
-#EXTINF:-1 tvg-id="Horee.id@SD" group-title="[KIDS] Anak & Animasi" tvg-logo="https://thumbor.prod.vidiocdn.com/1xwpxzLtco3_8ITCfMBIxYo7lyw=/120x120/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/6397/d422cd.png",Horee!
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://tvratu.my.id/vid/index.mpd?id=6397
-https://tvratu.my.id/vid/index.mpd?id=6397
-#EXTINF:-1 tvg-id="HipHipHoree.id@SD" group-title="[KIDS] Anak & Animasi" tvg-logo="https://thumbor.prod.vidiocdn.com/gkcZoMlasWB9RlL120fry1ZbB3M=/120x120/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/7052/63032e.png",Hip Hip Horee!
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://tvratu.my.id/vid/index.mpd?id=7052
-https://tvratu.my.id/vid/index.mpd?id=7052
-#EXTINF:-1 tvg-id="NickelodeonAsia.sg@SD" group-title="[KIDS] Anak & Animasi" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_nick.png",Nickelodeon
-https://cdnbal1.indihometv.com/atm/DASH/nickelodeon/nickelodeon-avc1_2500000=7-3277707030000000.mpd
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/MqTv.png" group-title="[ID] TV Religi & Budaya", MQTV
-https://wahyu1ptv.pages.dev/MQTV-HD.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/Rodja_TV.png" group-title="[ID] TV Religi & Budaya", RodjaTV
-https://wahyu1ptv.pages.dev/RodjaTV-HD.m3u8
-#EXTINF:-1 tvg-id="MuslimTV.id@SD" group-title="[ID] TV Religi & Budaya" tvg-logo="https://www.visionplus.id/images/repository/664/664-LOGO-m.png",Muslim TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=c2e6de6943ef47d08c2634a2df4bcece:badf619476b3bf0889ab545e8d3926f6
-https://d2gr3zenqo3tg4.cloudfront.net/out/v1/a8f14e34c687494fb1454b88742db085/index.mpd
-#EXTINF:-1 tvg-logo="" group-title="[ID] TV Religi & Budaya" ,TV 10 HD
-https://video1.earthcam.com/myearthcam/641f889a7774a38d5fc93dc76c4aeded.flv/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="[ID] TV Religi & Budaya" ,TV9 HD
+#EXTINF:-1 tvg-id="iNews.id@HD" tvg-logo="https://i.imgur.com/M2R3lfg.png" group-title="Berita dan Informasi",iNews HD (720p)
+https://mncmedia.malingtv.workers.dev/inews.m3u8
+#EXTVLCOPT:http-referrer=https://www.dens.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-id="JakTV.id@SD" tvg-logo="https://i.imgur.com/xyLLLOi.png" http-referrer="https://www.dens.tv/" http-user-agent="Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36" group-title="TV Nasional dan Daerah",Jak TV [Geo-blocked]
+https://op-group1-swiftservesd-1.dens.tv/s/s123/index2.m3u8
+#EXTINF:-1 tvg-id="JambiTV.id@SD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/15/Jambi_TV.png" group-title="TV Nasional dan Daerah",Jambi TV
+https://jambitv.globaldigitalcore.com/hls/sah5tu7Eiveepohyieyie3OoteL2anga.m3u8
+#EXTINF:-1 tvg-id="JawaPosTV.id@Jakarta" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Jawa_Pos_TV_2024.svg/960px-Jawa_Pos_TV_2024.svg.png" group-title="TV Nasional dan Daerah",Jawa Pos TV Jakarta (720p)
+http://122.248.43.242:1935/JAWAPOSTVJKT/_definst_/myStream/playlist.m3u8
+#EXTVLCOPT:http-referrer=http://jektv.co.id/livestreaming/
+#EXTINF:-1 tvg-id="JekTV.id@SD" tvg-logo="https://i.imgur.com/wh75d1f.png" http-referrer="http://jektv.co.id/livestreaming/" group-title="TV Nasional dan Daerah",Jek TV (720p) [Not 24/7]
+http://27.124.81.245:1935/jektv/myStream/playlist.m3u8
+#EXTINF:-1 tvg-id="JogjaIstimewaTV.id@SD" tvg-logo="https://i.imgur.com/VEqQfTu.png" group-title="TV Nasional dan Daerah",Jogja Istimewa TV (720p)
+http://103.255.15.222:1935/tv/jitv_720p/playlist.m3u8
+#EXTINF:-1 tvg-id="JogjaTV.id@SD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/40/Jogjatvnew.png" group-title="TV Nasional dan Daerah",Jogja TV (720p) [Not 24/7]
+https://stream.jogjatv.co.id/jtvlive/stream/index.m3u8
+#EXTINF:-1 tvg-id="JTV.id@SD" tvg-logo="https://i.imgur.com/mIDWIQk.png" group-title="TV Nasional dan Daerah",JTV (720p)
+http://122.248.43.242:1935/JTVSURABAYA/_definst_/myStream/playlist.m3u8
+#EXTINF:-1 tvg-id="JTV.id@Kediri" tvg-logo="https://i.imgur.com/mIDWIQk.png" group-title="TV Nasional dan Daerah",JTV Kediri (1080p) [Not 24/7]
+http://122.248.43.242:1935/JTVKEDIRI/_definst_/myStream/playlist.m3u8
+#EXTINF:-1 tvg-id="JTV.id@Madiun" tvg-logo="https://i.imgur.com/mIDWIQk.png" group-title="TV Nasional dan Daerah",JTV Madiun
+http://122.248.43.242:1935/JTVMADIUN/_definst_/myStream/playlist.m3u8
+#EXTINF:-1 tvg-id="JTV.id@Madura" tvg-logo="https://i.imgur.com/mIDWIQk.png" group-title="TV Nasional dan Daerah",JTV Madura (480p) [Not 24/7]
+http://122.248.43.242:1935/JTVMADURA/_definst_/myStream/playlist.m3u8
+#EXTINF:-1 tvg-id="JTV.id@Malang" tvg-logo="https://i.imgur.com/mIDWIQk.png" group-title="TV Nasional dan Daerah",JTV Malang
+http://122.248.43.242:1935/JTVMALANG/_definst_/myStream/playlist.m3u8
+#EXTINF:-1 tvg-id="KawanuaTV.id@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5f/Logo_kawanua_tv.png" group-title="TV Nasional dan Daerah",Kawanua TV (720p)
+http://122.248.43.242:1935/KAWANUATV/_definst_/myStream/playlist.m3u8
+#EXTINF:-1 tvg-id="KidsTV.id@SD" tvg-logo="https://i.imgur.com/B5YiUIP.png" group-title="TV Nasional dan Daerah",Kids TV
+http://origin5.mediacdn.ru/live/kidstv/index.m3u8
+#EXTINF:-1 tvg-id="KilisuciTV.id@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/id/e/e4/Kilisuci_TV_NEW_LOGO_2016.png" group-title="TV Nasional dan Daerah",Kilisuci TV
+https://5bf7b725107e5.streamlock.net/kstv/kstv/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://www.dens.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-id="KompasTV.id@SD" tvg-logo="https://i.imgur.com/bD6UHeZ.png" http-referrer="https://www.dens.tv/" http-user-agent="Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36" group-title="Berita dan Informasi",Kompas TV [Geo-blocked]
+https://op-group1-swiftservehd-1.dens.tv/h/h234/index.m3u8
+#EXTVLCOPT:http-referrer=https://youtv.live/
+#EXTINF:-1 tvg-id="KTV.id@SD" tvg-logo="https://i.imgur.com/j3wtaDc.png" http-referrer="https://youtv.live/" group-title="TV Nasional dan Daerah",KTV (720p)
+https://flv.intechmedia.net/live/ch118.m3u8
+#EXTINF:-1 tvg-id="LingkarTV.id@SD" tvg-logo="https://lingkartv.com/assets/img/logo-square.png" group-title="Religi dan Dakwah",Lingkar TV
+https://lingkartv.my.id/hls/lingkartv.m3u8
+#EXTINF:-1 tvg-id="MadaniTV.id@SD" tvg-logo="https://i.imgur.com/8aonQ0v.png" group-title="Religi dan Dakwah",Madani TV (720p)
+https://stream.asianastream.com/madani/madanitv.smil/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://madu.tv/live-streaming/
+#EXTINF:-1 tvg-id="MaduTV.id@SD" tvg-logo="https://i.imgur.com/cKpgbgW.png" http-referrer="https://madu.tv/live-streaming/" group-title="TV Nasional dan Daerah",Madu TV (1080p) [Not 24/7]
+https://re1.siar.us/madutv/hd720/playlist.m3u8
+#EXTINF:-1 tvg-id="MagnaChannel.id@SD" tvg-logo="https://i.imgur.com/tfJo0SO.png" group-title="TV Nasional dan Daerah",Magna Channel (1080p) [Not 24/7]
+https://edge.medcom.id/live-edge/smil:magna.smil/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://stream.matrixtv.id/
+#EXTINF:-1 tvg-id="MatrixTVYogyakarta.id@HD" tvg-logo="https://stream.matrixtv.id/logo" http-referrer="https://stream.matrixtv.id/" group-title="TV Nasional dan Daerah",Matrix TV Yogyakarta (720p)
+https://stream.matrixtv.id/hls/0/stream.m3u8
+#EXTINF:-1 tvg-id="MBGTV.id@FHD" tvg-logo="https://i.imgur.com/t7GsFJN.jpeg" group-title="TV Nasional dan Daerah",MBG TV (1080p)
+https://stream.convergen.co/mbg_stream/smil:mbStream.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="MDTV.id@HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/MDTV_logo.svg/960px-MDTV_logo.svg.png" group-title="TV Nasional dan Daerah",MDTV (1080p)
+https://wahyu1ptv.pages.dev/MDTV-HD.m3u8
+#EXTINF:-1 tvg-id="MetroTV.id@SD" tvg-logo="https://i.imgur.com/QnU70NI.png" group-title="Berita dan Informasi",Metro TV
+https://edge.medcom.id/live-edge/smil:metro.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="MGITV.id@SD" tvg-logo="https://i.imgur.com/xrNtabe.png" group-title="Religi dan Dakwah",MGI TV (720p) [Geo-blocked]
+https://tv.rodja.live/tasik/ngrp:mgitv_all/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://mgstv.co.id/live-streaming/
+#EXTINF:-1 tvg-id="MGSTV.id@SD" tvg-logo="https://i.imgur.com/MYU7dsZ.png" http-referrer="https://mgstv.co.id/live-streaming/" group-title="TV Nasional dan Daerah",MGSTV (360p) [Not 24/7]
+https://mgstv.siar.us/live/mgstv.m3u8
+#EXTINF:-1 tvg-id="MNCTV.id@HD" tvg-logo="https://i.imgur.com/SK8pjQy.png" group-title="TV Nasional dan Daerah",MNCTV HD (720p)
+https://mncmedia.malingtv.workers.dev/mnctv.m3u8
+#EXTVLCOPT:http-referrer=https://www.dens.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-id="Moji.id@SD" tvg-logo="https://i.imgur.com/mM9zapJ.png" http-referrer="https://www.dens.tv/" http-user-agent="Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36" group-title="TV Nasional dan Daerah",Moji [Geo-blocked]
+https://op-group1-swiftservehd-1.dens.tv/h/h207/index.m3u8
+#EXTINF:-1 tvg-id="MQTV.id@SD" tvg-logo="https://i.imgur.com/d8dQo6E.png" group-title="Religi dan Dakwah",MQTV (720p) [Not 24/7]
+https://5bf7b725107e5.streamlock.net/mqtv/mqtv/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://mic-indo.com/live
+#EXTINF:-1 tvg-id="MusicInformationChannel.id@SD" tvg-logo="https://i.imgur.com/OUPGCWG.png" http-referrer="https://mic-indo.com/live" group-title="Musik dan Budaya",Music Information Channel (720p)
+https://mic.siar.us/mic/live/mic.m3u8
+#EXTVLCOPT:http-referrer=https://www.dens.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-id="MyCinema.id@SD" tvg-logo="https://i.imgur.com/BTmcTQO.png" http-referrer="https://www.dens.tv/" http-user-agent="Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36" group-title="TV Nasional dan Daerah",My Cinema [Geo-blocked]
+https://op-group1-swiftservehd-1.dens.tv/h/h192/index.m3u8
+#EXTVLCOPT:http-referrer=https://www.dens.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-id="MyFamily.id@SD" tvg-logo="https://i.imgur.com/IaCmCt9.png" http-referrer="https://www.dens.tv/" http-user-agent="Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36" group-title="TV Nasional dan Daerah",My Family [Geo-blocked]
+https://op-group1-swiftservehd-1.dens.tv/h/h194/index.m3u8
+#EXTINF:-1 tvg-id="MyKidz.id@SD" tvg-logo="https://i.imgur.com/qzZFU6d.png" group-title="TV Nasional dan Daerah",My Kidz (720p)
+https://cdn10jtedge.indihometv.com/atm/DASH/mykids/manifest.mpd
+#EXTVLCOPT:http-referrer=https://www.naajiyatv.com/tonton
+#EXTINF:-1 tvg-id="NaajiyaTV.id@SD" tvg-logo="https://i.postimg.cc/Z5YTHPV8/KUbqm-Lq-Rx-Y-70-Ilj-LU4uyerh-Qz-PZ66-DVYoqm-BNDAT7-TSfk-G3-Fu015-Lxv-Ss-Esma6-VD3r-NYu0-Yw-s900-c-k-c0x00ffffff-no-r.png" http-referrer="https://www.naajiyatv.com/tonton" group-title="Religi dan Dakwah",Naajiya TV (720p)
+https://www.naajiyatv.com/live/livestream.m3u8
+#EXTINF:-1 tvg-id="NabawiTV.id@SD" tvg-logo="https://i.imgur.com/O8WONFB.png" group-title="Religi dan Dakwah",Nabawi TV (720p)
+http://202.150.161.117:8000/play/NabawiTV
+#EXTINF:-1 tvg-id="NusantaraTV.id@SD" tvg-logo="https://i.imgur.com/viun5hj.png" group-title="Berita dan Informasi",Nusantara TV (1080p)
+https://nusantaratv.siar.us/nusantaratv/live/playlist.m3u8
+#EXTINF:-1 tvg-id="OnlineTVNusantara.id@SD" tvg-logo="https://i.imgur.com/E9CCIpP.jpg" group-title="Berita dan Informasi",Online TV Nusantara (720p) [Not 24/7]
+https://5bf7b725107e5.streamlock.net/onlinetvnusantara/onlinetvnusantara/playlist.m3u8
+#EXTINF:-1 tvg-id="PadangTV.id@SD" tvg-logo="https://i.imgur.com/EL2BfxY.png" group-title="TV Nasional dan Daerah",Padang TV (720p) [Not 24/7]
+http://122.248.43.242:1935/PADANGTV/_definst_/myStream/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://pktvkaltim.com/acara/live-content/?noamp=mobile
+#EXTINF:-1 tvg-id="PKTV.id@SD" tvg-logo="https://i.imgur.com/mldv8Sf.png" http-referrer="https://pktvkaltim.com/acara/live-content/?noamp=mobile" group-title="TV Nasional dan Daerah",PKTV (480p)
+https://streaming.id18.tunnel.my.id/hls/stream.m3u8
+#EXTINF:-1 tvg-id="PONTV.id@SD" tvg-logo="https://i.imgur.com/P5erWzm.png" group-title="TV Nasional dan Daerah",PONTV (720p)
+http://122.248.43.242:1935/PONTV/_definst_/myStream/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://www.pujatvaceh.com/
+#EXTINF:-1 tvg-id="PujaTVAceh.id@SD" tvg-logo="https://i.imgur.com/0TqABCL.png" http-referrer="https://www.pujatvaceh.com/" group-title="TV Nasional dan Daerah",Puja TV Aceh (1080p) [Not 24/7]
+https://pujatv.siar.us/live/pujatv.m3u8
+#EXTVLCOPT:http-referrer=https://radartvnews.com/live-streaming/
+#EXTINF:-1 tvg-id="RadarLampungTV.id@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/id/4/42/Logo_RadarTV_Lampung.png" http-referrer="https://radartvnews.com/live-streaming/" group-title="Berita dan Informasi",Radar Lampung TV (480p)
+https://www.streaming.radartv.co.id/hls/test.m3u8
+#EXTINF:-1 tvg-id="RadarTasikmalayaTV.id@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1a/Logo_Radar_Tasikmalaya_TV.png" group-title="TV Nasional dan Daerah",Radar Tasikmalaya TV (720p) [Not 24/7]
+https://v2.siar.us/radartasikmalaya/live/playlist.m3u8
+#EXTVLCOPT:http-referrer=http://175.158.57.130:8888/
+#EXTINF:-1 tvg-id="RajawaliTV.id@SD" tvg-logo="https://i.imgur.com/dlsv1sl.png" http-referrer="http://175.158.57.130:8888/" group-title="TV Nasional dan Daerah",Rajawali TV (576i)
+http://175.158.57.130:8888/stream/channelid/412436804
+#EXTINF:-1 tvg-id="RCTI.id@HD" tvg-logo="https://i.imgur.com/iLFx8ia.png" group-title="TV Nasional dan Daerah",RCTI HD (720p)
+https://mncmedia.malingtv.workers.dev/rcti.m3u8
+#EXTVLCOPT:http-referrer=https://www.radarcirebon.tv/livestreaming/
+#EXTINF:-1 tvg-id="RCTV.id@SD" tvg-logo="https://i.imgur.com/CyIlt0y.png" http-referrer="https://www.radarcirebon.tv/livestreaming/" group-title="TV Nasional dan Daerah",RCTV (720p) [Not 24/7]
+https://v10.siar.us/rctv/live/playlist.m3u8
+#EXTINF:-1 tvg-id="RiauTV.id@SD" tvg-logo="https://i.imgur.com/1g8FtJi.png" group-title="TV Nasional dan Daerah",Riau TV (1080p) [Not 24/7]
+http://122.248.43.242:1935/RIAUTV/_definst_/myStream/playlist.m3u8
+#EXTINF:-1 tvg-id="RinjaniTV.id@SD" tvg-logo="https://lombokindustries.com/assunnah/zone/img/rinjanitv.png" group-title="TV Nasional dan Daerah",Rinjani TV
+https://rinjanitv.cloud/hls/tvkabel.m3u8
+#EXTINF:-1 tvg-id="RodjaTV.id@SD" tvg-logo="https://i.imgur.com/XwCeHlC.png" group-title="TV Nasional dan Daerah",Rodja TV (720p)
+https://rodjatv.com/rodjatv/live.m3u8
+#EXTINF:-1 tvg-id="RRINet.id@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/RRI_NET_2023.svg/960px-RRI_NET_2023.svg.png" group-title="TV Nasional dan Daerah",RRI Net (1080p)
+https://private-streaming.rri.go.id/memfs/6f77c7b5-feb2-4935-9f89-e7e9fca0a54a_output_0.m3u8
+#EXTINF:-1 tvg-id="RTMASEAN.my@SD" tvg-logo="https://i.imgur.com/skAiUxg.png" group-title="Berita dan Informasi",RTM ASEAN
+https://d25tgymtnqzu8s.cloudfront.net/event/smil:event1/chunklist_b2596000_slENG.m3u8
+#EXTVLCOPT:http-referrer=salamtelevisi.com
+#EXTINF:-1 tvg-id="SalamTV.id@SD" tvg-logo="https://i.imgur.com/00Ifzgo.png" http-referrer="salamtelevisi.com" group-title="TV Nasional dan Daerah",Salam TV (720p)
+https://live.salamtelevisi.com/hls/0/stream.m3u8
+#EXTINF:-1 tvg-id="SaliraTV.id@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6b/Logo_Salira_TV.png" group-title="TV Nasional dan Daerah",Salira TV (720p)
+https://live.salira.tv/p/3870/hybrid/play.m3u8
+#EXTINF:-1 tvg-id="SampitTV.id@SD" tvg-logo="https://i.imgur.com/8cFJa8G.png" group-title="TV Nasional dan Daerah",Sampit TV (720p) [Not 24/7]
+https://sampit-tv.siar.us/live/sampit-tv.m3u8
+#EXTVLCOPT:http-referrer=https://sangajitv.co.id/
+#EXTINF:-1 tvg-id="SangajiTV.id@SD" tvg-logo="https://i.imgur.com/4rTNT8F.png" http-referrer="https://sangajitv.co.id/" group-title="TV Nasional dan Daerah",Sangaji TV (720p)
+https://cdn.adyadigitalteknologi.com:8090/vod/relay.m3u8
+#EXTVLCOPT:http-referrer=https://www.dens.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-id="SCTV.id@SD" tvg-logo="https://i.imgur.com/EMmOvnQ.png" http-referrer="https://www.dens.tv/" http-user-agent="Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36" group-title="TV Nasional dan Daerah",SCTV [Geo-blocked]
+https://op-group1-swiftservehd-1.dens.tv/h/h217/index.m3u8
+#EXTVLCOPT:http-referrer=selaparangtv.net
+#EXTINF:-1 tvg-id="SelaparangTV.id@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/id/c/ce/Logo_Selaparang_TV.png" http-referrer="selaparangtv.net" group-title="TV Nasional dan Daerah",Selaparang TV (720p) [Not 24/7]
+https://selaparangtv.siar.us/live/selaparangtv.m3u8
+#EXTINF:-1 tvg-id="SemarangTV.id@SD" tvg-logo="https://i.imgur.com/KFC2WSB.png" group-title="TV Nasional dan Daerah",Semarang TV (720p)
+http://116.254.112.74/hls/cakralive.m3u8
+#EXTINF:-1 tvg-id="Simpang5TV.id@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/dc/Simpang5_TV.png" group-title="TV Nasional dan Daerah",Simpang5 TV (360p) [Not 24/7]
+http://122.248.43.242:1935/SIMPANG5TV/_definst_/myStream/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://smtv.digital/
+#EXTINF:-1 tvg-id="SMTV.id@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/id/6/6e/Logo_SMTV_Sumedang.png" http-referrer="https://smtv.digital/" group-title="TV Nasional dan Daerah",SMTV (720p)
+https://e.siar.us/live/smtv.m3u8
+#EXTVLCOPT:http-referrer=sriwijayatv.tv
+#EXTINF:-1 tvg-id="SriwijayaTV.id@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/id/7/75/SriwijayaTV_2014.png" http-referrer="sriwijayatv.tv" group-title="TV Nasional dan Daerah",Sriwijaya TV (720p) [Not 24/7]
+https://sriwijayatv.siar.us/live/sriwijayatv.m3u8
+#EXTVLCOPT:http-referrer=https://stream.staratv.id/
+#EXTINF:-1 tvg-id="StaraTV.id@SumedangMajalengka" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/91/Stara_TV_Sumedang_fix.png" http-referrer="https://stream.staratv.id/" group-title="TV Nasional dan Daerah",Stara TV (720p)
+https://stream.staratv.id/hls/0/stream.m3u8
+#EXTVLCOPT:http-referrer=https://bandung.staratv.id/
+#EXTINF:-1 tvg-id="StaraTV.id@Bandung" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/91/Stara_TV_Sumedang_fix.png" http-referrer="https://bandung.staratv.id/" group-title="TV Nasional dan Daerah",Stara TV Bandung (1080p)
+https://bandung.staratv.id/hls/0/stream.m3u8
+#EXTVLCOPT:http-referrer=https://bojonegoro.staratv.id/
+#EXTINF:-1 tvg-id="StaraTV.id@Bojonegoro" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/91/Stara_TV_Sumedang_fix.png" http-referrer="https://bojonegoro.staratv.id/" group-title="TV Nasional dan Daerah",Stara TV Bojonegoro (720p)
+https://bojonegoro.staratv.id/hls/stream.m3u8
+#EXTVLCOPT:http-referrer=https://cianjur.staratv.id/
+#EXTINF:-1 tvg-id="StaraTV.id@Cianjur" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/91/Stara_TV_Sumedang_fix.png" http-referrer="https://cianjur.staratv.id/" group-title="TV Nasional dan Daerah",Stara TV Cianjur (720p)
+https://cianjur.staratv.id/hls/0/stream.m3u8
+#EXTVLCOPT:http-referrer=https://jakarta.staratv.id/
+#EXTINF:-1 tvg-id="StaraTV.id@Jakarta" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/91/Stara_TV_Sumedang_fix.png" http-referrer="https://jakarta.staratv.id/" group-title="TV Nasional dan Daerah",Stara TV Jakarta (1080p)
+https://jakarta.staratv.id/hls/0/stream.m3u8
+#EXTVLCOPT:http-referrer=https://malang.staratv.id/
+#EXTINF:-1 tvg-id="StaraTV.id@Malang" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/91/Stara_TV_Sumedang_fix.png" http-referrer="https://malang.staratv.id/" group-title="TV Nasional dan Daerah",Stara TV Malang (1080p)
+https://malang.staratv.id/hls/0/stream.m3u8
+#EXTVLCOPT:http-referrer=https://parahyangan.staratv.id/
+#EXTINF:-1 tvg-id="StaraTV.id@Parahyangan" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/91/Stara_TV_Sumedang_fix.png" http-referrer="https://parahyangan.staratv.id/" group-title="TV Nasional dan Daerah",Stara TV Parahyangan (720p)
+https://parahyangan.staratv.id/hls/0/stream.m3u8
+#EXTINF:-1 tvg-id="STV.id@SD" tvg-logo="https://i.imgur.com/EIrXgT8.png" group-title="TV Nasional dan Daerah",STV (720p) [Not 24/7]
+http://122.248.43.242:1935/SAMARINDATV/_definst_/myStream/playlist.m3u8
+#EXTINF:-1 tvg-id="SultraTV.id@SD" tvg-logo="https://i.imgur.com/cmpbNJz.png" group-title="TV Nasional dan Daerah",Sultra TV (720p) [Not 24/7]
+http://122.248.43.242:1935/SULTRATV/_definst_/myStream/playlist.m3u8
+#EXTINF:-1 tvg-id="SurauTV.id@SD" tvg-logo="https://i.imgur.com/CKoxcWL.png" group-title="TV Nasional dan Daerah",Surau TV (720p)
+http://ikitv.sqn.at:8000/play/a00l/index.m3u8
+#EXTINF:-1 tvg-id="TATV.id@SD" tvg-logo="https://i.imgur.com/1f0EC7t.png" group-title="TV Nasional dan Daerah",TATV (720p) [Not 24/7]
+https://v2.siar.us/tatv/live.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="TegarTVLampung.id@SD" tvg-logo="https://i.imgur.com/0Vp3f2J.png" group-title="TV Nasional dan Daerah",Tegar TV Lampung (480p)
+http://wms.klikhost.com:1935/tegartv/tegartv/playlist.m3u8
+#EXTINF:-1 tvg-id="TheIndonesiaChannel.id@SD" tvg-logo="https://i.imgur.com/jAAPgpV.png" group-title="TV Nasional dan Daerah",The Indonesia Channel (1080p)
+https://restreamer.indonusa.id:8443/d5f4ad43-1b5a-4b0f-8bef-5b37224ed221.m3u8
+#EXTINF:-1 tvg-id="TV9Nusantara.id@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/id/e/ed/TV9_Nusantara.png" group-title="Berita dan Informasi",TV9 Nusantara (720p)
 https://5bf7b725107e5.streamlock.net/tv9/tv9/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS67qwW1u1F-sEku-oDwde7WLWIykjwyu3uOA&s" group-title="[ID] TV Religi & Budaya" ,TVMU HD
+#EXTINF:-1 tvg-id="TVMu.id@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/id/d/d0/TvMu.png" group-title="TV Nasional dan Daerah",TV Mu (720p) [Not 24/7]
 https://e.siar.us/live/tvmu.m3u8
-#EXTINF:-1 tvg-id= "SPOTV HD - [Channel 427].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://www.visionplus.id/images/repository/957/49957-SNAPSHOT-l.png" group-title="[SPORTS] Olahraga & Bola",SpoTV 1 PH
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ec7ee27d83764e4b845c48cca31c8eef:9c0e4191203fccb0fde34ee29999129e
-https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_spotvhd.mpd
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.visionplus.id/images/repository/960/49960-SNAPSHOT-l.png" group-title="[SPORTS] Olahraga & Bola", SpoTV 2 PH
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=7eea72d6075245a99ee3255603d58853:6848ef60575579bf4d415db1032153ed
-https://qp-pldt-live-grp-13-prod.akamaized.net/out/u/dr_spotv2hd.mpd
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=335dad778109954503dcbb21dc92015f:24bfd75d436cbf73168a2a2dccd40281
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-id="beInSports1.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e5/Logo_bein_sports_1.png" group-title="[SPORTS] Olahraga & Bola",beIN Sports 1
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ghwcl6hv68/out/v1/83536910d8034e9b9895a20fbe1c1687/cenc.mpd
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-id="beInSports2.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c9/Logo_bein_sports_2.png" group-title="[SPORTS] Olahraga & Bola",beIN Sports 2
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-id="beInSports3.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c4/Logo_bein_sports_3.png" group-title="[SPORTS] Olahraga & Bola",beIN Sports 3
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd
-#EXTINF:-1 tvg-id="MAXSports.id@SD" group-title="[SPORTS] Olahraga & Bola" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/imageCir_180x180_CLMAXSports_2026_01_31_00_39_38.jpg",MAXSports
-https://cdnbal1.indihometv.com/atm/DASH/useesport/useesport-avc1_2500000=7-3277707030000000.mpd
-#EXTINF:-1 tvg-id="Motorvision.de@SD" group-title="[SPORTS] Olahraga & Bola" tvg-logo="https://pic.dens.tv/tv_183x174/Motorvision+_new%20logo183x174@3x.jpg",Motorvision
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
-https://op-flashcon-digdayahd-1.dens.tv/h/h09/index.m3u8
-#EXTINF:-1 tvg-logo="https://canvas-lb.tubitv.com/opts/Lz_AGLm13QancA==/0db3dce1-41f0-4900-8fcc-3983ab4d492d/CPwDEJ0COgUxLjEuOQ==" group-title="[SPORTS] Olahraga & Bola", FUBO NETWORK 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://wurlfubo.global.transmit.live/hls/67f42332d3dd98936978f581/v1/fubotv_fubo_sports_network_1/lg_us/latest/main/hls/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://canvas-lb.tubitv.com/opts/Lz_AGLm13QancA==/0db3dce1-41f0-4900-8fcc-3983ab4d492d/CPwDEJ0COgUxLjEuOQ==" group-title="[SPORTS] Olahraga & Bola", FUBO NETWORK 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://jmp2.uk/rok-b4273871759a5631bd536d2214f175e5.m3u8
-#EXTINF:-1 tvg-logo="https://media.d3.nhle.com/image/private/t_ratio16_9-size20/v1696604581/prd/iyfopp6wzuzji5dr4qno" group-title="[SPORTS] Olahraga & Bola", FUBO SPORTS 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=dc69b6159a0f9f0a4e03b3ff91cbacd5:d0dcbcd7723bc40df0bf34c9c092d51f
-https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/3b7qwiqzk3/out/v1/9f14895badca43e6a716db021dcd0c31/cenc.mpd
-#EXTINF:-1 tvg-logo="https://media.d3.nhle.com/image/private/t_ratio16_9-size20/v1696604581/prd/iyfopp6wzuzji5dr4qno" group-title="[SPORTS] Olahraga & Bola", FUBO SPORTS 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=3dcfbec0e7146928baa55210bf2cb62f:bc85f74f815d9be5ae1dd6defaa05135
-https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/uiffe4jhf0/out/v1/3534efafca8c4815adbb4d2e9a1fe003/cenc.mpd
-#EXTINF:-1 tvg-id="ACISportTV.it@SD" tvg-logo="https://i.imgur.com/U8cHMOt.png" group-title="[SPORTS] Olahraga & Bola",ACI Sport TV (1080p)
-https://webstream.multistream.it/memfs/e2cb3629-c1a2-495b-b43a-9eb386f04ed8.m3u8
-#EXTINF:-1 tvg-id="ACCDigitalNetwork.us@SD" tvg-logo="https://i.imgur.com/V6Kaqha.png" group-title="[SPORTS] Olahraga & Bola",ACCDN (1080p)
-https://raycom-accdn-firetv.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="BellatorMMA.us@SD" tvg-logo="https://i.imgur.com/VBKoLHk.png" group-title="[SPORTS] Olahraga & Bola",Bellator MMA
-https://jmp2.uk/plu-5ebc8688f3697d00072f7cf8.m3u8
-#EXTINF:-1 tvg-id="CCTVPlus1.cn@SD" tvg-logo="https://i.imgur.com/U8d4Is6.png" group-title="[ID] TV Nasional",CCTV+ 1 (600p) [Not 24/7]
-https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL1.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="CCTVPlus2.cn@SD" tvg-logo="https://i.imgur.com/qSg862A.png" group-title="[ID] TV Nasional",CCTV+ 2 (600p) [Not 24/7]
-https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL2.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="CCTV1.cn@HD" tvg-logo="https://i.imgur.com/TpA3cUl.png" group-title="[ID] TV Nasional",CCTV-1 (1080p)
-http://69.30.245.50/live/cctv1.m3u8
-#EXTINF:-1 tvg-id="CCTV1.cn@SD" tvg-logo="https://i.imgur.com/TpA3cUl.png" group-title="[ID] TV Nasional",CCTV-1 (720p)
-http://74.91.26.218:82/live/cctv1hd.m3u8
-#EXTINF:-1 tvg-id="CCTV2.cn@SD" tvg-logo="https://i.imgur.com/ILamhwU.png" group-title="[ID] TV Nasional",CCTV-2 (720p)
-http://74.91.26.218:82/live/cctv2hd.m3u8
-#EXTINF:-1 tvg-id="CCTV3.cn@SD" tvg-logo="https://i.imgur.com/iFlkIuw.png" group-title="[MOVIES] Bioskop & Film",CCTV-3 (720p)
-http://74.91.26.218:82/live/cctv3hd.m3u8
-#EXTINF:-1 tvg-id="CCTV4America.cn@SD" tvg-logo="https://i.imgur.com/gBbLyqh.png" group-title="[ID] TV Nasional",CCTV-4 America (1080p)
-https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8
-#EXTINF:-1 tvg-id="CCTV4Asia.cn@SD" tvg-logo="https://i.imgur.com/tWt4Wou.png" group-title="[ID] TV Nasional",CCTV-4 Asia (720p)
-http://74.91.26.218:82/live/cctv4hd.m3u8
-#EXTINF:-1 tvg-id="CCTV4Europe.cn@SD" tvg-logo="https://i.imgur.com/HGLFdfk.png" group-title="[ID] TV Nasional",CCTV-4 Europe
-https://dash2.antik.sk/live/test_cctv_tizen/playlist.m3u8
-#EXTINF:-1 tvg-id="CCTV4K.cn@HD" tvg-logo="https://i.imgur.com/fxusYlX.png" group-title="[ID] TV Nasional",CCTV-4K (1080p)
-http://198.204.240.250:82/live/cctv4k.m3u8
-#EXTINF:-1 tvg-id="CCTV6.cn@HD" tvg-logo="https://i.imgur.com/rFiaef7.png" group-title="[MOVIES] Bioskop & Film",CCTV-6 (1080p)
-http://69.30.245.50/live/cctv6.m3u8
-#EXTINF:-1 tvg-id="CCTV7.cn@SD" tvg-logo="https://i.imgur.com/CKcPMQC.png" group-title="[ID] TV Edukasi & Dokumenter",CCTV-7 (720p)
-http://74.91.26.218:82/live/cctv7hd.m3u8
-#EXTINF:-1 tvg-id="CCTV8.cn@SD" tvg-logo="https://i.imgur.com/GyHaZ8X.png" group-title="[ID] TV Nasional",CCTV-8 (720p)
-http://74.91.26.218:82/live/cctv8hd.m3u8
-#EXTINF:-1 tvg-id="CCTV9.cn@SD" tvg-logo="https://i.imgur.com/3tivvMm.png" group-title="[ID] TV Edukasi & Dokumenter",CCTV-9 (576i)
-https://xykt-fix.github.io/Y77.m3u8
-#EXTINF:-1 tvg-id="CCTV10.cn@SD" tvg-logo="https://i.imgur.com/sSSO7UD.png" group-title="[ID] TV Edukasi & Dokumenter",CCTV-10 (720p)
-http://74.91.26.218:82/live/cctv10hd.m3u8
-#EXTINF:-1 tvg-id="CCTV11.cn@SD" tvg-logo="https://i.imgur.com/CjOWx7L.png" group-title="[ID] TV Musik & Hiburan",CCTV-11 (720p)
-http://74.91.26.218:82/live/cctv11hd.m3u8
-#EXTINF:-1 tvg-id="CCTV12.cn@SD" tvg-logo="https://i.imgur.com/3yTuiOM.png" group-title="[ID] TV Gaya Hidup",CCTV-12 (720p)
-http://74.91.26.218:82/live/cctv12hd.m3u8
-#EXTINF:-1 tvg-id="CCTV13.cn@HD" tvg-logo="https://i.imgur.com/6MTar6J.png" group-title="[ID] TV Nasional",CCTV-13 (1080p)
-http://go.bkpcp.top/mg/cctv13
-#EXTINF:-1 tvg-id="CCTV14.cn@HD" tvg-logo="https://i.imgur.com/c5SXW7i.png" group-title="[KIDS] Anak & Animasi",CCTV-14 (1080p)
-http://74.91.26.218:82/live/cctv14hd.m3u8
-#EXTINF:-1 tvg-id="CCTV15.cn@SD" tvg-logo="https://i.imgur.com/CCV0eRG.png" group-title="[ID] TV Musik & Hiburan",CCTV-15 (1080p)
-https://xykt-fix.github.io/play/a02e/index.m3u8
-#EXTINF:-1 tvg-id="CCTV16.cn@HD" tvg-logo="https://i.imgur.com/ZzV6JQp.png" group-title="[SPORTS] Olahraga & Bola",CCTV-16 (1080p)
-http://74.91.26.218:82/live/cctv16hd.m3u8
-#EXTINF:-1 tvg-id="CCTV17.cn@HD" tvg-logo="https://i.imgur.com/jSQURxS.png" group-title="[ID] TV Nasional",CCTV-17 (1080p)
-http://74.91.26.218:82/live/cctv17hd.m3u8
-#EXTINF:-1 tvg-id="CCTVBilliards.cn@HD" tvg-logo="https://i.imgur.com/WK3keM9.png" group-title="[SPORTS] Olahraga & Bola",CCTV-Billiards (1080p)
-http://38.75.136.137:98/gslb/dsdqpub/ystq.m3u8?auth=testpub
-#EXTINF:-1 tvg-id="CCTVCultureofQuality.cn@SD" tvg-logo="https://i.imgur.com/Paig8gG.png" group-title="[ID] TV Nasional",CCTV-Culture of Quality (1080p)
-http://38.75.136.137:98/gslb/dsdqpub/ysjp.m3u8?auth=testpub
-#EXTINF:-1 tvg-id="CCTVGolfTennis.cn@HD" tvg-logo="https://i.imgur.com/iqJJTmH.png" group-title="[SPORTS] Olahraga & Bola",CCTV-Golf & Tennis (1080p)
-http://38.75.136.137:98/gslb/dsdqpub/gefwq.m3u8?auth=testpub
-#EXTINF:-1 tvg-id="CCTVHealth.cn@HD" tvg-logo="https://i.imgur.com/AzpRtCz.png" group-title="[ID] TV Gaya Hidup",CCTV-Health (1080p)
-http://38.75.136.137:98/gslb/dsdqpub/wsjk.m3u8?auth=testpub
-#EXTINF:-1 tvg-id="CCTVNostalgiaTheater.cn@HD" tvg-logo="https://i.imgur.com/TVs9PBc.png" group-title="[ID] TV Nasional",CCTV-Nostalgia Theater (1080p)
-http://38.75.136.137:98/gslb/dsdqpub/hjjc.m3u8?auth=testpub
-#EXTINF:-1 tvg-id="CCTVStormFootball.cn@HD" tvg-logo="https://i.imgur.com/Fy6HkX0.png" group-title="[SPORTS] Olahraga & Bola",CCTV-Storm Football (1080p)
-http://38.75.136.137:98/gslb/dsdqpub/fyzq.m3u8?auth=testpub
-#EXTINF:-1 tvg-id="CCTVStormMusic.cn@HD" tvg-logo="https://i.imgur.com/IiiRmrf.png" group-title="[ID] TV Musik & Hiburan",CCTV-Storm Music (1080p)
-http://38.75.136.137:98/gslb/dsdqpub/fyyy.m3u8?auth=testpub
-#EXTINF:-1 tvg-id="CCTVStormTheater.cn@HD" tvg-logo="https://i.imgur.com/rEttkKm.png" group-title="[MOVIES] Bioskop & Film",CCTV-Storm Theater (1080p)
-http://38.75.136.137:98/gslb/dsdqpub/fyjc.m3u8?auth=testpub
-#EXTINF:-1 tvg-id="CCTVTheFirstTheater.cn@HD" tvg-logo="https://i.imgur.com/eFxD3hq.png" group-title="[MOVIES] Bioskop & Film",CCTV-The First Theater (1080p)
-http://38.75.136.137:98/gslb/dsdqpub/dyjc.m3u8?auth=testpub
-#EXTINF:-1 tvg-id="CCTVWeaponTechnology.cn@HD" tvg-logo="https://i.imgur.com/QlF96eS.png" group-title="[ID] TV Edukasi & Dokumenter",CCTV-Weapon & Technology (1080p)
-http://38.75.136.137:98/gslb/dsdqpub/gfjs.m3u8?auth=testpub
-#EXTINF:-1 tvg-id="CCTVWomensFashion.cn@SD" tvg-logo="https://i.imgur.com/FVbP0aP.png" group-title="[ID] TV Gaya Hidup",CCTV-Women's Fashion (1080p)
-http://38.75.136.137:98/gslb/dsdqpub/nxss.m3u8?auth=testpub
-#EXTINF:-1 tvg-id="CCTVWorldGeography.cn@SD" tvg-logo="https://i.imgur.com/V2ncOXi.png" group-title="[ID] TV Edukasi & Dokumenter",CCTV-World Geography (1080p)
-http://38.75.136.137:98/gslb/dsdqpub/sjdl.m3u8?auth=testpub
-#EXTINF:-1 tvg-id="CricketGold.au@SD" tvg-logo="https://resources.cricket-australia.pulselive.com/cricket-australia/photo/2025/07/25/836eddae-4329-4542-ad17-dcd37e9d951a/Cricket-Gold-1920x1080_noBG.png" group-title="[SPORTS] Olahraga & Bola",Cricket Gold (1080p)
-https://streams2.sofast.tv/ptnr-yupptv/title-cricketgold/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/b2048bb8-1686-4432-aa50-647245383e0c/manifest.m3u8
-#EXTINF:-1 tvg-id="AlIraqiaSport.iq@SD" tvg-logo="https://i.imgur.com/DrrlxTO.png" group-title="[SPORTS] Olahraga & Bola",Al Iraqia Sport (720p)
-https://imn-live.esite-lab.com/hls/iraqia-sports-1.m3u8
-#EXTINF:-1 tvg-id="ColimdoTV.do@SD" tvg-logo="https://i.imgur.com/ZeUgLCa.png" group-title="[SPORTS] Olahraga & Bola",ColimdoT TV (720p)
-#EXTINF:-1 tvg-id="CRTV.cl@SD" tvg-logo="https://i2.paste.pics/bf68b159547597c39574aec9dd7c626a.png" group-title="Sports",CRTV (720p)
-https://stmv2.voxtvhd.com.br/crtvchile/crtvchile/playlist.m3u8
-#EXTINF:-1 tvg-id="CTSport.cz@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/%C4%8CT_sport_logo.png/960px-%C4%8CT_sport_logo.png" group-title="[SPORTS] Olahraga & Bola",ČT Sport (720p)
-http://88.212.15.19/live/test_ctsport_25p/playlist.m3u8
-#EXTINF:-1 tvg-id="DAZNCombat.uk@SD" tvg-logo="https://i.postimg.cc/VsW3Jsrz/logo-DAZN-Combat.png" group-title="[SPORTS] Olahraga & Bola",DAZN Combat (684p)
-https://jmp2.uk/plu-64d626ac9b414d000820e2fc.m3u8
-#EXTINF:-1 tvg-id="DAZNDartsxPlutoTV.de@DACH" tvg-logo="https://images.pluto.tv/channels/64b67f0424ade50008a3be17/colorLogoPNG.png" group-title="[SPORTS] Olahraga & Bola",DAZN Darts x Pluto TV
-https://jmp2.uk/plu-64b67f0424ade50008a3be17.m3u8
-#EXTINF:-1 tvg-id="DAZNHeldinnenxPlutoTV.de@DACH" tvg-logo="https://images.pluto.tv/channels/64afe50c5dc16600087f3227/colorLogoPNG.png" group-title="[SPORTS] Olahraga & Bola",DAZN Heldinnen x Pluto TV
-https://jmp2.uk/plu-64afe50c5dc16600087f3227.m3u8
-#EXTINF:-1 tvg-id="MyCinemaEurope.ch@SD" group-title="[MOVIES] Bioskop & Film" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/My_Cinema_Europe_HD_1.jpg",My Cinema Europe
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
-https://op-flashcon-digdayahd-1.dens.tv/h/h18/index.m3u8
-#EXTINF:-1 tvg-id="Thrill.hk@SD" group-title="[MOVIES] Bioskop & Film" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_thrill.png",Thrill
-https://cdnbal1.indihometv.com/atm/DASH/thrill/thrill-avc1_2500000=7-3277707030000000.mpd
-#EXTINF:-1 tvg-url="https://raw.githubusercontent.com/joii89/iptv-joii/refs/heads/main/epg.xml" tvg-url="https://raw.githubusercontent.com/joii89/iptv-joii/refs/heads/main/epg.xml" group-logo="https://forums.cdn.launchbox.gg/monthly_2017_12/5a2afa6775212_PlaylistsGraffitiLOGO.png.ecff2a20b53bcdc8c332bce8d4f5992d.png" group-title="[MOVIES] Bioskop & Film"
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=40f019b86241d23ef075633fd7f1e927:058dec845bd340178a388edd104a015e
-#EXTINF:-1 tvg-url="https://raw.githubusercontent.com/joii89/iptv-joii/refs/heads/main/epg.xml" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/timesplay/content/common/logos/channel/logos/wthfwe.jpeg" group-title="Movies",Movies Now HD
-https://times-ott-live.akamaized.net/moviesnow_wv_drm/index.mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=40f019b86241d23ef075633fd7f1e927:058dec845bd340178a388edd104a015e
-#EXTINF:-1 tvg-url="https://raw.githubusercontent.com/joii89/iptv-joii/refs/heads/main/epg.xml" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/timesplay/content/common/logos/channel/logos/leazcc.jpeg" group-title="[MOVIES] Bioskop & Film",MN+
-https://times-ott-live.akamaized.net/mnplus_wv_drm/index.mpd
-#EXTINF:-1 group-title="[MOVIES] Bioskop & Film" tvg-logo="https://pic.dens.tv/tv_183x174/wedo-tv-movies183x174@3x.jpg",WeDoTv Movies
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
-https://op-flashcon-digdayahd-1.dens.tv/h/h70/wedotv_movie.m3u8
-#EXTINF:-1 tvg-id="ZeeBioskop.id@SD" group-title="[MOVIES] Bioskop & Film" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_zeebioskop.png",Zee Bioskop
-https://cdnbal1.indihometv.com/atm/DASH/zbioskop/zbioskop-avc1_2500000=7-3277707030000000.mpd
-#EXTINF:-1 tvg-id="HBOFamilyAsia.sg@SD" group-title="[MOVIES] Bioskop & Film" tvg-logo="https://raw.githubusercontent.com/apistech/projec
-#KODIPROP:inputstream=inputstream.ffmpegdirect
-#KODIPROP:mimetype=application/x-mpegURL
-#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
-#KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
-#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
-#EXTINF:-1 tvg-id="AstroAwani.my" tvg-url="https://bit.ly/RtmEpg" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/436_144.png" group-title="MY 🇲🇾",ASTRO AWANI
-https://d2idp3hzkhjpih.cloudfront.net/out/v1/4b85d9c2bf97413eb0c9fd875599b837/index.m3u8?c
-#EXTINF:-1 tvg-id="auto.malam.para.jahanam" group-title="[VOD] Film Indonesia",Malam Para Jahanam
-https://pixeldrain.com/api/file/a9Y8CEgx?download
-#EXTINF:-1 tvg-id="auto.monster" group-title="[VOD] Film Indonesia",Monster
-https://pixeldrain.com/api/file/kzy3h67F?download
-#EXTINF:-1 tvg-id="auto.saranjana.kota.ghaib" group-title="[VOD] Film Indonesia",Saranjana: Kota Ghaib
-https://pixeldrain.com/api/file/vUGDTTXc?download
-#EXTINF:-1 tvg-id="auto.kuyang" group-title="[VOD] Film Indonesia",Kuyang
-https://pixeldrain.com/api/file/BPrv72bw?download
-#EXTINF:-1 tvg-id="auto.pemandi.jenazah" group-title="[VOD] Film Indonesia",Pemandi Jenazah
-https://pixeldrain.com/api/file/Zb5Seo99?download
-#EXTINF:-1 tvg-id="auto.sinden.gaib" group-title="[VOD] Film Indonesia",Sinden Gaib
-https://pixeldrain.com/api/file/ci2qdnsA?download
-#EXTINF:-1 type="movie" tvg-type="movie" tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="[VOD] Bioskop Box Office",Blokpost
-https://marionetka.com/player/blokpost.mp4
-#EXTINF:-1 type="movie" tvg-type="movie" tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="[VOD] Bioskop Box Office",Siostry
-https://simkaget.vsimk.com/get1/mp4_kinosimka.tv_KeyLDmdjFEldenX16/Sestry_hd__kinosimka.ru.mp4
-#EXTINF:-1 type="movie" tvg-type="movie" tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="[VOD] Bioskop Box Office",Voina
-https://o2.anwap.be/c/mp4_big/0T5gRjEWgsEtMpj6DGmXJw/1709110744/Vojna-1655_(anwap.org).mp4
-#EXTINF:-1 type="movie" tvg-type="movie" tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="[VOD] Bioskop Box Office",Nevezuchie !!!
-https://simkaget.vsimk.com/get1/mp4_kinosimka.tv_KeyLDmdjFEldenX16/Nevezuchie.2003_HDRip__Kinosimka.RU.mp4
-#EXTINF:-1 type="movie" tvg-type="movie" tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="[VOD] Bioskop Box Office",Angely Charli 2: Tol'ko vpered !!!
-https://simkaget.vsimk.com/get2/mp4_kinosimka.tv_KeyLDmdjFEldenX16/Charlie%27s%20Angels_2_2003HD__Kinosimka.RU.mp4
-#EXTINF:-1 type="movie" tvg-type="movie" tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="[VOD] Bioskop Box Office",Terminator 3: Vosstanie mashin !!!
-https://svd13.kvb.cool/video_mp4/films/2003/Terminator/3cde56047754adc3a20e02858a315907/Terminator.3_720.mp4
-#EXTINF:-1 type="movie" tvg-type="movie" tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="[VOD] Bioskop Box Office",Belye tsypochki
-https://svd13.kvb.cool/video_mp4/films/2004/WhiteChicks/3cde56047754adc3a20e02858a315907/White.Chicks.mp4
-#EXTINF:-1 type="movie" tvg-type="movie" tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="[VOD] Bioskop Box Office",Pila: Igra na vyzhivanie
-https://svd9.kvb.cool/video_mp4/films/2004/Saw/3cde56047754adc3a20e02858a315907/Saw2004.mp4
-#EXTINF:-1 type="movie" tvg-type="movie" tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="[VOD] Bioskop Box Office",Prevoskhodstvo Borna
-https://svd13.kvb.cool/video_mp4/films/2004/TheBourneSupremacy/3cde56047754adc3a20e02858a315907/TheBourneSupremacy2004.mp4
-#EXTINF:-1 type="movie" tvg-type="movie" tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="[VOD] Bioskop Box Office",Amerikanskii pirog: Muzykal'nyi lager'
-https://svd9.kvb.cool/video_mp4/films/2005/AmericanPie/3cde56047754adc3a20e02858a315907/AmericanPie2005.mp4
-#EXTINF:-1 type="movie" tvg-type="movie" tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="[VOD] Bioskop Box Office",Brat'ia Grimm
-https://svd13.kvb.cool/video_mp4/films/2005/Brothers/3cde56047754adc3a20e02858a315907/Bratya.Grimm.2005.mp4
-#EXTINF:-1 type="movie" tvg-type="movie" tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="[VOD] Bioskop Box Office",Drugoi mir 2: Evoliutsiia
-https://svd9.kvb.cool/video_mp4/films/2005/UnderworldEvolution/3cde56047754adc3a20e02858a315907/UnderworldEvolution2005.mp4
-#EXTINF:-1 type="movie" tvg-type="movie" tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="[VOD] Bioskop Box Office",King Kong
-https://svd9.kvb.cool/video_mp4/films/2005/KingKong/3cde56047754adc3a20e02858a315907/KingKong.mp4
-#EXTINF:-1 type="movie" tvg-type="movie" tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="[VOD] Bioskop Box Office",Mezhdu nebom i zemlioi
-https://o1.anwap.be/c/mp4_big/T4y_TRZzM8GPZZmkGhPhSg/1706168030/Mezhdu_nebom_i_zemlej-1300_(anwap.org).mp4
-#EXTINF:-1 type="movie" tvg-type="movie" tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="[VOD] Bioskop Box Office",Miss Kongenial'nost' 2: Prekrasna i opasna
-https://o8.anwap.be/c/mp4_big/AiDRyco9pSomuehUgNdz5A/1706167480/Miss_Kongenialqnostq_2_Prekrasna_i_opasna-40047_(anwap.org).mp4
-#EXTINF:-1 type="movie" tvg-type="movie" tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="[VOD] Bioskop Box Office",Ostrov
-https://svd13.kvb.cool/video_mp4/films/2005/TheIsland/3cde56047754adc3a20e02858a315907/Ostrov.2005.mp4
-#EXTINF:-1 type="movie" tvg-type="movie" tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="[VOD] Bioskop Box Office",Adrenalin
-https://svd9.kvb.cool/video_mp4/films/2006/Crank/3cde56047754adc3a20e02858a315907/Crank2006.mp4
-#EXTINF:-1 type="movie" tvg-type="movie" tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="[VOD] Bioskop Box Office",Amerikanskii pirog: Golaia milia
-https://svd9.kvb.cool/video_mp4/films/2006/TheNakedMile/3cde56047754adc3a20e02858a315907/TheNakedMile2006.mp4
-#EXTINF:-1 type="movie" tvg-type="movie" tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="[VOD] Bioskop Box Office",Missiia: nevypolnima 3
-https://svd9.kvb.cool/video_mp4/films/2006/MissionImpossible/3cde56047754adc3a20e02858a315907/MissionImpossible2006.mp4
-#EXTINF:-1 type="movie" tvg-type="movie" tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="[VOD] Bioskop Box Office",Amerikanskii pirog: Perepolokh v obshchage
-https://svd9.kvb.cool/video_mp4/films/2007/BetaHouse/3cde56047754adc3a20e02858a315907/BetaHouse2007.mp4
-#EXTINF:-1 type="movie" tvg-type="movie" tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="[VOD] Bioskop Box Office",Obitel' zla 3: Vymiranie
-https://svd9.kvb.cool/video_mp4/films/2007/ResidentEvil/3cde56047754adc3a20e02858a315907/ResidentEvil_720.mp4
-#EXTINF:-1 type="movie" tvg-type="movie" tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="[VOD] Bioskop Box Office",Pila 4
-https://svd9.kvb.cool/video_mp4/films/2007/Saw/3cde56047754adc3a20e02858a315907/Saw2007.mp4
-#EXTINF:-1 type="movie" tvg-type="movie" tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="[VOD] Bioskop Box Office",Prorok
-https://svd9.kvb.cool/video_mp4/films/2007/Next/3cde56047754adc3a20e02858a315907/Next.mp4
-#EXTINF:-1 type="movie" tvg-type="movie" tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="[VOD] Bioskop Box Office",Ul'timatum Borna
-https://svd13.kvb.cool/video_mp4/films/2007/TheBourne/3cde56047754adc3a20e02858a315907/BourneUltimatum.mp4
-#EXTINF:-1 type="movie" tvg-type="movie" tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="[VOD] Bioskop Box Office",Transformery
-https://svd13.kvb.cool/video_mp4/films/2007/Transformers/3cde56047754adc3a20e02858a315907/Transformers.2007_720.mp4
-#EXTINF:-1 type="movie" tvg-type="movie" tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="[VOD] Bioskop Box Office",Chuzhie protiv Khishchnika: Rekviem
-https://svd9.kvb.cool/video_mp4/films/2007/AvprRequiem/3cde56047754adc3a20e02858a315907/AvprRequiem2007_720.mp4
-#EXTINF:-1 type="movie" tvg-type="movie" tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="[VOD] Bioskop Box Office",Drugoi mir: Vosstanie likanov
-https://svd9.kvb.cool/video_mp4/films/2008/UnderworldLycans/3cde56047754adc3a20e02858a315907/UnderworldLycans2008.mp4
-#EXTINF:-1 type="movie" tvg-type="movie" tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="[VOD] Bioskop Box Office",Perevozchik 3
-https://svd9.kvb.cool/video_mp4/films/2008/Transporter/3cde56047754adc3a20e02858a315907/Transporter2008.mp4
-#EXTINF:-1 type="movie" tvg-type="movie" tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="[VOD] Bioskop Box Office",Pila 5
-https://svd9.kvb.cool/video_mp4/films/2008/Saw/3cde56047754adc3a20e02858a315907/Saw2008.mp4
-#EXTINF:-1 type="movie" tvg-type="movie" tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="[VOD] Bioskop Box Office",2012
-https://svd13.kvb.cool/video_mp4/films/2009/2012/3cde56047754adc3a20e02858a315907/2012.mp4
-#EXTINF:-1 type="movie" tvg-type="movie" tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="[VOD] Bioskop Box Office",Amerikanskii pirog: Kniga liubvi
-https://svd9.kvb.cool/video_mp4/films/2009/AmericanPie/3cde56047754adc3a20e02858a315907/AmericanPie2009.mp4
-#EXTINF:-1 type="movie" tvg-type="movie" tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="[VOD] Bioskop Box Office",Anakonda 4: Krovavyi sled
-https://svd9.kvb.cool/video_mp4/films/2009/Anacondas/3cde56047754adc3a20e02858a315907/Anacondas2009.mp4
-#EXTINF:-1 type="movie" tvg-type="movie" tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="[VOD] Bioskop Box Office",Ved'mina gora
-https://svd9.kvb.cool/video_mp4/films/2009/Mountain/3cde56047754adc3a20e02858a315907/RacetoWitchMountain.mp4
-#EXTINF:-1 type="movie" tvg-type="movie" tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="[VOD] Bioskop Box Office",Brosok kobry
-https://svd13.kvb.cool/video_mp4/films/2009/Joe/3cde56047754adc3a20e02858a315907/Brosok_Kobry_2009.mp4
-#EXTINF:-1 type="movie" tvg-type="movie" tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="[VOD] Bioskop Box Office",Dobro pozhalovat' v Zombilend
-https://svd9.kvb.cool/video_mp4/films/2009/Zombieland/3cde56047754adc3a20e02858a315907/Zombieland.2009.mp4
-#EXTINF:-1 type="movie" tvg-type="movie" tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="[VOD] Bioskop Box Office",Pila 6
-https://svd9.kvb.cool/video_mp4/films/2009/Saw/3cde56047754adc3a20e02858a315907/Saw2009.mp4
-#EXTINF:-1 type="movie" tvg-type="movie" tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="[VOD] Bioskop Box Office",Ostrov prokliatykh [5/250]k
-https://svd13.kvb.cool/video_mp4/films/2009/ShutterIsland/3cde56047754adc3a20e02858a315907/ShutterIsland2009_720.mp4
-#EXTINF:-1 type="movie" tvg-type="movie" tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="[VOD] Bioskop Box Office",Terminator 4: Da pridiot spasitel'
-https://svd13.kvb.cool/video_mp4/films/2009/TerminatorSalvation/3cde56047754adc3a20e02858a315907/Terminator.Salvation.2009.mp4
-#EXTINF:-1 type="movie" tvg-type="movie" tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="[VOD] Bioskop Box Office",Khloia
-https://o7.anwap.be/c/mp4_big/HNPST4elQXAIrMtdOkcLVQ/1706167729/Hloya-1509_(anwap.org).mp4
-#EXTINF:-1 type="movie" tvg-type="movie" tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="[VOD] Bioskop Box Office",Kanikuly strogogo rezhima
-https://svd13.kvb.cool/video_mp4/films/2009/Kanikuly/3cde56047754adc3a20e02858a315907/Kanikuly2009.mp4
-#EXTINF:-1 type="movie" tvg-type="movie" tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="[VOD] Bioskop Box Office",Kak vyiti zamuzh za milliardera
-https://svd13.kvb.cool/video_mp4/films/2011/ChaletGirl/3cde56047754adc3a20e02858a315907/ChaletGirl.mp4
-#EXTINF:-1 type="movie" tvg-type="movie" tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="[VOD] Bioskop Box Office",Legion
-https://svd9.kvb.cool/video_mp4/films/2010/Legion/3cde56047754adc3a20e02858a315907/Legion.mp4
-#EXTINF:-1 type="movie" tvg-type="movie" tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="[VOD] Bioskop Box Office",Neuderzhimye
-https://svd13.kvb.cool/video_mp4/films/2010/TheExpendables/3cde56047754adc3a20e02858a315907/Neuderjimye_720.mp4
-#EXTINF:-1 type="movie" tvg-type="movie" tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="[VOD] Bioskop Box Office",Obitel' zla 4: Zhizn' posle smerti 3D
-https://svd9.kvb.cool/video_mp4/films/2010/ResidentEvil/3cde56047754adc3a20e02858a315907/ResidentEvil2010_720.mp4
-#EXTINF:-1 type="movie" tvg-type="movie" tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="[VOD] Bioskop Box Office",Persi Dzhekson i pokhititel' molnii
-https://svd9.kvb.cool/video_mp4/films/2010/PercyJackson/3cde56047754adc3a20e02858a315907/PercyJackson.mp4
-#EXTINF:-1 type="movie" tvg-type="movie" tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="[VOD] Bioskop Box Office",Pila 7
-https://svd9.kvb.cool/video_mp4/films/2010/Saw/3cde56047754adc3a20e02858a315907/Saw2010.mp4
-#EXTINF:-1 type="movie" tvg-type="movie" tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="[VOD] Bioskop Box Office",Sumasshedshaia ezda
-https://svd13.kvb.cool/video_mp4/films/2011/DriveAngry/3cde56047754adc3a20e02858a315907/DriveAngry2011.mp4
-#EXTINF:-1 type="movie" tvg-type="movie" tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="[VOD] Bioskop Box Office",Vremia
-https://svd13.kvb.cool/video_mp4/films/2011/InTime/3cde56047754adc3a20e02858a315907/InTime.mp4
-#EXTINF:-1 type="movie" tvg-type="movie" tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="[VOD] Bioskop Box Office",Liudi Iks: Pervyi klass
-https://svd13.kvb.cool/video_mp4/films/2011/X-Men/3cde56047754adc3a20e02858a315907/Lyudi.Iks.P3rvyj.klass.2011.mp4
-#EXTINF:-1 type="movie" tvg-type="movie" tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="[VOD] Bioskop Box Office",Golodnye igry
-https://svd9.kvb.cool/video_mp4/films/2012/TheHungerGames/3cde56047754adc3a20e02858a315907/TheHungerGames2012_720.mp4
-#EXTINF:-1 type="movie" tvg-type="movie" tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="[VOD] Bioskop Box Office",Drugoi mir: Probuzhdenie
-https://svd9.kvb.cool/video_mp4/films/2012/Underworld/3cde56047754adc3a20e02858a315907/Underworld.mp4
-#EXTINF:-1 type="movie" tvg-type="movie" tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="[VOD] Bioskop Box Office",Zamuzh na 2 dnia
-https://svd13.kvb.cool/video_mp4/films/2012/Unplan/3cde56047754adc3a20e02858a315907/Unplan.mp4
-#EXTINF:-1 type="movie" tvg-type="movie" tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="[VOD] Bioskop Box Office",voina
-https://svd13.kvb.cool/video_mp4/films/2012/ThisMeans/3cde56047754adc3a20e02858a315907/ThisMeansWar.mp4
-#EXTINF:-1 type="movie" tvg-type="movie" tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="[VOD] Bioskop Box Office",Neuderzhimye 2
-https://svd13.kvb.cool/video_mp4/films/2012/TheExpendables/3cde56047754adc3a20e02858a315907/neyderzhimie_2.mp4
-#EXTINF:-1 type="movie" tvg-type="movie" tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="[VOD] Bioskop Box Office",Novyi Chelovek-pauk
-https://svd13.kvb.cool/video_mp4/films/2012/TheAmazingSpiderMan/3cde56047754adc3a20e02858a315907/TheAmazingSpiderMan_720.mp4
-#EXTINF:-1 type="movie" tvg-type="movie" tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="[VOD] Bioskop Box Office",Puteshestvie 2: Tainstvennyi ostrov
-https://svd13.kvb.cool/video_mp4/films/2012/Journey/3cde56047754adc3a20e02858a315907/Journey2.mp4
-#EXTINF:-1 type="movie" tvg-type="movie" tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="[VOD] Bioskop Box Office",Evoliutsiia Borna
-https://svd13.kvb.cool/video_mp4/films/2012/TheBourne/3cde56047754adc3a20e02858a315907/TheBourneLegacy.mp4
-#EXTINF:-1 type="movie" tvg-type="movie" tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="[VOD] Bioskop Box Office",Belyi tigr
-https://o5.anwap.be/c/mp4_big/mt3kvfCTTjQ4vbL16EYZZg/1706168444/Belyj_tigr-5013_(anwap.org).mp4
-#EXTINF:-1 type="movie" tvg-type="movie" tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="[VOD] Bioskop Box Office",Brosok kobry 2
-https://svd13.kvb.cool/video_mp4/films/2013/Joe/3cde56047754adc3a20e02858a315907/Joe_720.mp4
-#EXTINF:-1 type="movie" tvg-type="movie" tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="[VOD] Bioskop Box Office",Griaz'
-https://svd9.kvb.cool/video_mp4/films/2013/Filth/3cde56047754adc3a20e02858a315907/Filth.mp4
-#EXTINF:-1 type="movie" tvg-type="movie" tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="[VOD] Bioskop Box Office",Zheleznyi chelovek 3
-https://svd13.kvb.cool/video_mp4/films/2013/IronMan/3cde56047754adc3a20e02858a315907/IronMan3.mp4
-#EXTINF:-1 type="movie" tvg-type="movie" tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="[VOD] Bioskop Box Office",Krov'iu i potom: Anaboliki
-https://svd13.kvb.cool/video_mp4/films/2013/PainGain/3cde56047754adc3a20e02858a315907/PainGain.mp4
-#EXTINF:-1 type="movie" tvg-type="movie" tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="[VOD] Bioskop Box Office",Ochen' strashnoe kino 5
-https://svd9.kvb.cool/video_mp4/films/2013/ScaryMovie/3cde56047754adc3a20e02858a315907/ScaryMovie5.mp4
-#EXTINF:-1 type="movie" tvg-type="movie" tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="[VOD] Bioskop Box Office",Persi Dzhekson i More chudovishch
-https://o2.anwap.be/c/mp4_big/Sv9awmQEkKNMSbk0_Jlh8A/1709112311/Persi_Dzhekson_i_More_chudoviw-8825_(anwap.org).mp4
-#EXTINF:-1 type="movie" tvg-type="movie" tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="[VOD] Bioskop Box Office",Tikhookeanskii rubezh
-https://svd13.kvb.cool/video_mp4/films/2013/PacificRim/3cde56047754adc3a20e02858a315907/Pacific.Rim.2013.mp4
-#EXTINF:-1 type="movie" tvg-type="movie" tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="[VOD] Bioskop Box Office",Chelovek iz stali
-https://svd13.kvb.cool/video_mp4/films/2013/ManSteel/3cde56047754adc3a20e02858a315907/Chelovek.iz.Stali.2013.mp4
-#EXTINF:-1 type="movie" tvg-type="movie" tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="[VOD] Bioskop Box Office",Dzhon Uik
-https://svd13.kvb.cool/video_mp4/films/2014/JohnWick/3cde56047754adc3a20e02858a315907/JohnWick_720.mp4
-#EXTINF:-1 type="movie" tvg-type="movie" tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="[VOD] Bioskop Box Office",Kutis
-https://svd9.kvb.cool/video_mp4/films/2014/Cooties/3cde56047754adc3a20e02858a315907/Coo1ies.2014.mp4
-#EXTINF:-1 type="movie" tvg-type="movie" tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="[VOD] Bioskop Box Office",Neuderzhimye 3
-https://svd13.kvb.cool/video_mp4/films/2014/TheExpendables/3cde56047754adc3a20e02858a315907/NeuDerzhimiye.2014.D.BDRip_720.mp4
-#EXTINF:-1 type="movie" tvg-type="movie" tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="[VOD] Bioskop Box Office",Noi
-https://svd13.kvb.cool/video_mp4/films/2014/Noah/3cde56047754adc3a20e02858a315907/Noah.2014.D.HDRip.2800MB_720.mp4
-#EXTINF:-1 type="movie" tvg-type="movie" tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="[VOD] Bioskop Box Office",Shal'naia karta
-https://svd13.kvb.cool/video_mp4/films/2015/WildCard/3cde56047754adc3a20e02858a315907/WildCard2015.mp4
-#EXTINF:-1 type="movie" tvg-type="movie" tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="[VOD] Bioskop Box Office",Golodnye igry: Soika-peresmeshnitsa. Chast' II
-https://svd13.kvb.cool/video_mp4/films/2015/HungerGames2/3cde56047754adc3a20e02858a315907/HungerGames2015_720.mp4
-#EXTINF:-1 type="movie" tvg-type="movie" tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="[VOD] Bioskop Box Office",Mir Iurskogo perioda
-https://svd13.kvb.cool/video_mp4/films/2015/Jurassic/3cde56047754adc3a20e02858a315907/Jurassic_720.mp4
-#EXTINF:-1 type="movie" tvg-type="movie" tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="[VOD] Bioskop Box Office",Mordekai
-https://svd13.kvb.cool/video_mp4/films/2015/Mortdecai/3cde56047754adc3a20e02858a315907/Mortdecai.2015.mp4
-#EXTINF:-1 type="movie" tvg-type="movie" tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="[VOD] Bioskop Box Office",Terminator: Genezis
-https://svd13.kvb.cool/video_mp4/films/2015/Terminator/3cde56047754adc3a20e02858a315907/Terminator-Genisys_720.mp4
-#EXTINF:-1 type="movie" tvg-type="movie" tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="[VOD] Bioskop Box Office",Ubiitsa
-https://svd13.kvb.cool/video_mp4/films/2015/Sicario/3cde56047754adc3a20e02858a315907/Sicario.2015_720.mp4
-#EXTINF:-1 type="movie" tvg-type="movie" tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="[VOD] Bioskop Box Office",Bogi Egipta
-https://svd13.kvb.cool/video_mp4/films/2016/GodsEgypt/3cde56047754adc3a20e02858a315907/GodsEgypt2016_720.mp4
-#EXTINF:-1 type="movie" tvg-type="movie" tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="[VOD] Bioskop Box Office",Dzheison Born
-https://svd13.kvb.cool/video_mp4/films/2016/JasonBourne/3cde56047754adc3a20e02858a315907/JasonBourne2016_720.mp4
-#EXTINF:-1 type="movie" tvg-type="movie" tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="[VOD] Bioskop Box Office",Dom strannykh detei Miss Peregrin
-https://svd13.kvb.cool/video_mp4/films/2016/MissPeregrine/3cde56047754adc3a20e02858a315907/MissPeregrine2016_720.mp4
-#EXTINF:-1 type="movie" tvg-type="movie" tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="[VOD] Bioskop Box Office",Drugoi mir: Voiny krovi
-https://svd13.kvb.cool/video_mp4/films/2016/Underworld/3cde56047754adc3a20e02858a315907/Underworld2016_720.mp4
-#EXTINF:-1 type="movie" tvg-type="movie" tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="[VOD] Bioskop Box Office",Kniga dzhunglei
-https://svd13.kvb.cool/video_mp4/films/2016/JungleBook/3cde56047754adc3a20e02858a315907/JungleBook2016.mp4
-#EXTINF:-1 type="movie" tvg-type="movie" tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="[VOD] Bioskop Box Office",Novogodnii korporativ
-https://svd13.kvb.cool/video_mp4/films/2016/OfficeChristmas/3cde56047754adc3a20e02858a315907/OfficeChristmas2016_720.mp4
-#EXTINF:-1 type="movie" tvg-type="movie" tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="[VOD] Bioskop Box Office",Obitel' zla: Posledniaia glava
-https://svd13.kvb.cool/video_mp4/films/2017/ResidentEvil/3cde56047754adc3a20e02858a315907/ResidentEvil2017_720.mp4
-#EXTINF:-1 type="movie" tvg-type="movie" tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="[VOD] Bioskop Box Office",Otriad samoubiits
-https://svd13.kvb.cool/video_mp4/films/2016/SuicideSquad/3cde56047754adc3a20e02858a315907/SuicideSquad2016_720.mp4
-#EXTINF:-1 type="movie" tvg-type="movie" tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="[VOD] Bioskop Box Office",Okhotniki za privideniiami
-https://svd13.kvb.cool/video_mp4/films/2016/Ghostbusters/3cde56047754adc3a20e02858a315907/Ghostbusters2016_720.mp4
-#EXTINF:-1 type="movie" tvg-type="movie" tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="[VOD] Bioskop Box Office",Pochemu on?
-https://svd13.kvb.cool/video_mp4/films/2016/WhyHim/3cde56047754adc3a20e02858a315907/WhyHim2016_720.mp4
-#EXTINF:-1 type="movie" tvg-type="movie" tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="[VOD] Bioskop Box Office",Svadebnyi ugar
-https://svd13.kvb.cool/video_mp4/films/2016/WeddingDates/3cde56047754adc3a20e02858a315907/WeddingDates2016.mp4
-#EXTINF:-1 type="movie" tvg-type="movie" tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="[VOD] Bioskop Box Office",Skailain 2
-https://svd13.kvb.cool/video_mp4/films/2017/BeSkyline/3cde56047754adc3a20e02858a315907/BeSkyline2017.mp4
-#EXTINF:-1 type="movie" tvg-type="movie" tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="[VOD] Bioskop Box Office",Shpiony po sosedstvu
-https://svd13.kvb.cool/video_mp4/films/2016/KeepJoneses/3cde56047754adc3a20e02858a315907/KeepJoneses2016_720.mp4
-#EXTINF:-1 type="movie" tvg-type="movie" tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="[VOD] Bioskop Box Office",Mumiia
-https://svd13.kvb.cool/video_mp4/films/2017/TheMummy/3cde56047754adc3a20e02858a315907/TheMummy2017_720.mp4
-#EXTINF:-1 type="movie" tvg-type="movie" tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="[VOD] Bioskop Box Office",Ochen' plokhie devchonki
-https://svd13.kvb.cool/video_mp4/films/2017/RoughNight/3cde56047754adc3a20e02858a315907/RoughNight2017_720.mp4
-#EXTINF:-1 type="movie" tvg-type="movie" tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="[VOD] Bioskop Box Office",Pila 8: Nasledie
-https://svd13.kvb.cool/video_mp4/films/2017/Saw/3cde56047754adc3a20e02858a315907/Saw2017_720.mp4
-#EXTINF:-1 type="movie" tvg-type="movie" tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="[VOD] Bioskop Box Office",Transformery: Poslednii rytsar'
-https://svd13.kvb.cool/video_mp4/films/2017/Transformers/3cde56047754adc3a20e02858a315907/Transformers2017_720.mp4
-#EXTINF:-1 type="movie" tvg-type="movie" tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="[VOD] Bioskop Box Office",Tri iksa: Mirovoe gospodstvo
-http://video-cdn.simpletv.eu/video/xXx.Return.of.Xander.Cage.2017.BDRip.720p.mkv
-#EXTINF:-1 type="movie" tvg-type="movie" tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="[VOD] Bioskop Box Office",Chuzhoi: Zavet
-https://svd13.kvb.cool/video_mp4/films/2017/AlienCovenant/3cde56047754adc3a20e02858a315907/AlienCovenant2017_720.mp4
-#EXTINF:-1 type="movie" tvg-type="movie" tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="[VOD] Bioskop Box Office",Liod
-https://svd13.kvb.cool/video_mp4/films/2018/Led/3cde56047754adc3a20e02858a315907/Led2018_720.mp4
-#EXTINF:-1 type="movie" tvg-type="movie" tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="[VOD] Bioskop Box Office",Maior Grom
-https://svd13.kvb.cool/video_mp4/films/2017/MaerGrom/3cde56047754adc3a20e02858a315907/MaerGrom2017.mp4
-#EXTINF:-1 type="movie" tvg-type="movie" tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="[VOD] Bioskop Box Office",Apgreid
-https://svd13.kvb.cool/video_mp4/films/2018/Upgrade/3cde56047754adc3a20e02858a315907/Upgrade2018.mp4
-#EXTINF:-1 type="movie" tvg-type="movie" tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="[VOD] Bioskop Box Office",Maugli
-https://svd13.kvb.cool/video_mp4/films/2018/Mowgli/3cde56047754adc3a20e02858a315907/Mowgli2018.mp4
-#EXTINF:-1 type="movie" tvg-type="movie" tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="[VOD] Bioskop Box Office",Mir Iurskogo perioda 2
-https://svd13.kvb.cool/video_mp4/films/2018/UntitledJurassic/3cde56047754adc3a20e02858a315907/UntitledJurassic2018_720.mp4
-#EXTINF:-1 type="movie" tvg-type="movie" tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="[VOD] Bioskop Box Office",Missiia: nevypolnima - Posledstviia
-https://svd13.kvb.cool/video_mp4/films/2018/MisImpossible/3cde56047754adc3a20e02858a315907/MisImpossible2018.mp4
-#EXTINF:-1 type="movie" tvg-type="movie" tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="[VOD] Bioskop Box Office",Nochnye igry
-https://svd13.kvb.cool/video_mp4/films/2018/GameNight/3cde56047754adc3a20e02858a315907/GameNight2018.mp4
-#EXTINF:-1 type="movie" tvg-type="movie" tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="[VOD] Bioskop Box Office",Pervomu igroku prigotovit'sia
-http://video-cdn.simpletv.eu/video/Pervomu.igroku.prigotovitsia.2018.x264.BDRip.(AVC)-MediaClub.mkv
-#EXTINF:-1 type="movie" tvg-type="movie" tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="[VOD] Bioskop Box Office",Stazhior
-https://svd13.kvb.cool/video_mp4/films/2015/Intern/3cde56047754adc3a20e02858a315907/The.Intern.2015_720.mp4
-#EXTINF:-1 type="movie" tvg-type="movie" tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="[VOD] Bioskop Box Office",Tikhookeanskii rubezh 2
-https://svd13.kvb.cool/video_mp4/films/2018/PacificRim/3cde56047754adc3a20e02858a315907/PacificRim2018_720.mp4
-#EXTINF:-1 type="movie" tvg-type="movie" tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="[VOD] Bioskop Box Office",Fantasticheskie tvari: Prestupleniia Grin-de-Val'da
-https://svd13.kvb.cool/video_mp4/films/2018/FanBeastsGrindelwald/3cde56047754adc3a20e02858a315907/FanBeastsGrindelwald2018_720.mp4
-#EXTINF:-1 type="movie" tvg-type="movie" tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="[VOD] Bioskop Box Office",Kanikuly prezidenta
-https://svd13.kvb.cool/video_mp4/films/2018/KanPrezident/3cde56047754adc3a20e02858a315907/KanPrezident2018.mp4
-#EXTINF:-1 type="movie" tvg-type="movie" tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="[VOD] Bioskop Box Office",O chiom govoriat muzhchiny. Prodolzhenie
-https://svd13.kvb.cool/video_mp4/films/2018/OChemMuj/3cde56047754adc3a20e02858a315907/OChemMuj2018.mp4
-#EXTINF:-1 type="movie" tvg-type="movie" tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="[VOD] Bioskop Box Office",Aladdin
-https://svd13.kvb.cool/video_mp4/films/2019/Aladdin/3cde56047754adc3a20e02858a315907/Aladdin2019_720.mp4
-#EXTINF:-1 type="movie" tvg-type="movie" tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="[VOD] Bioskop Box Office",Den' mertvetsov
-https://tt.tas-ix.media/disk/dsoailidwnovawd/dvd4/den_mertvetsov_2019.mp4
-#EXTINF:-1 type="movie" tvg-type="movie" tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="[VOD] Bioskop Box Office",Zheleznoe nebo 2: Vysshaia rasa
-https://svd17.kvb.cool/video_mp4/films/2019/IronSky/3cde56047754adc3a20e02858a315907/IronSky2019.mp4
-#EXTINF:-1 type="movie" tvg-type="movie" tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="[VOD] Bioskop Box Office",Klaustrofoby
-https://svd17.kvb.cool/video_mp4/films/2019/EscapeRoom/3cde56047754adc3a20e02858a315907/EscapeRoom2019_720.mp4
-#EXTINF:-1 type="movie" tvg-type="movie" tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="[VOD] Bioskop Box Office",Platforma
-https://svd13.kvb.cool/video_mp4/films/2019/ElHoyo/3cde56047754adc3a20e02858a315907/ElHoyo2019.mp4
-#EXTINF:-1 type="movie" tvg-type="movie" tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="[VOD] Bioskop Box Office",Ia idu iskat'
-https://svd17.kvb.cool/video_mp4/films/2019/ReadyNot/3cde56047754adc3a20e02858a315907/ReadyNot2019.mp4
-#EXTINF:-1 type="movie" tvg-type="movie" tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="[VOD] Bioskop Box Office",Balkanskii rubezh
-https://svd17.kvb.cool/video_mp4/films/2019/BalkanRubej/3cde56047754adc3a20e02858a315907/BalkanRubej2019_720.mp4
-#EXTINF:-1 type="movie" tvg-type="movie" tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="[VOD] Bioskop Box Office",Tekst
-https://svd13.kvb.cool/video_mp4/films/2019/Tekst/3cde56047754adc3a20e02858a315907/Tekst2019_720.mp4
-#EXTINF:-1 type="movie" tvg-type="movie" tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="[VOD] Bioskop Box Office",Amerikanskii pirog predstavliaet: Pravila dlia devochek
-https://svd13.kvb.cool/video_mp4/films/2020/AmericanPieRules/3cde56047754adc3a20e02858a315907/AmericanPieRules2020.mp4
-#EXTINF:-1 type="movie" tvg-type="movie" tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="[VOD] Bioskop Box Office",Dich'
-https://svd18.kvb.cool/video_mp4/films/2020/Freaky/3cde56047754adc3a20e02858a315907/Freaky2020_720.mp4
-#EXTINF:-1 type="movie" tvg-type="movie" tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="[VOD] Bioskop Box Office",Kollektory 2
-https://marionetka.com/player/kollektory-2.mp4
-#EXTINF:-1 type="movie" tvg-type="movie" tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="[VOD] Bioskop Box Office",Moi shpion
-https://svd13.kvb.cool/video_mp4/films/2020/MySpy/3cde56047754adc3a20e02858a315907/MySpy2020.mp4
-#EXTINF:-1 type="movie" tvg-type="movie" tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="[VOD] Bioskop Box Office",Okhotnik na monstrov
-https://svd18.kvb.cool/video_mp4/films/2020/MonsterHunter/3cde56047754adc3a20e02858a315907/MonsterHunter2020_720.mp4
-#EXTINF:-1 type="movie" tvg-type="movie" tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="[VOD] Bioskop Box Office",Pila: Spiral'
-https://svd17.kvb.cool/video_mp4/films/2021/SpiralSaw/3cde56047754adc3a20e02858a315907/SpiralSaw2021_720.mp4
-#EXTINF:-1 type="movie" tvg-type="movie" tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="[VOD] Bioskop Box Office",Plokhie parni navsegda
-https://svd13.kvb.cool/video_mp4/films/2020/BadBoysLife/3cde56047754adc3a20e02858a315907/BadBoysLife2020_720.mp4
-#EXTINF:-1 type="movie" tvg-type="movie" tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="[VOD] Bioskop Box Office",Skailain 3
-https://svd13.kvb.cool/video_mp4/films/2020/Skylin3s/3cde56047754adc3a20e02858a315907/Skylin3s2020.mp4
-#EXTINF:-1 type="movie" tvg-type="movie" tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="[VOD] Bioskop Box Office",Smert' na Nile
-https://svd.kvb.cool/video_mp4/films/2022/DeathNile/3cde56047754adc3a20e02858a315907/DeathNile2022_720.mp4
-#EXTINF:-1 type="movie" tvg-type="movie" tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="[VOD] Bioskop Box Office",Tailer Reik: Operatsiia po spaseniiu
-https://svd18.kvb.cool/video_mp4/films/2020/Extraction/3cde56047754adc3a20e02858a315907/Extraction2020.mp4
-#EXTINF:-1 type="movie" tvg-type="movie" tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="[VOD] Bioskop Box Office",Liod 2
-https://svd18.kvb.cool/video_mp4/films/2020/Led/3cde56047754adc3a20e02858a315907/Led2020.mp4
-#EXTINF:-1 type="movie" tvg-type="movie" tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="[VOD] Bioskop Box Office",Agent 117: Iz Afriki s liubov'iu
-https://svd17.kvb.cool/video_mp4/films/2021/OssNoire/3cde56047754adc3a20e02858a315907/OssNoire2021_720.mp4
-#EXTINF:-1 type="movie" tvg-type="movie" tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="[VOD] Bioskop Box Office",Beskonechnost'
-https://svd18.kvb.cool/video_mp4/films/2021/Infinite/3cde56047754adc3a20e02858a315907/Infinite2021_720.mp4
-#EXTINF:-1 type="movie" tvg-type="movie" tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="[VOD] Bioskop Box Office",Brosok Kobry 3: Sneik Aiz
-https://svd18.kvb.cool/video_mp4/films/2021/SnakeEyesGIOrigins/3cde56047754adc3a20e02858a315907/SnakeEyesGIOrigins2021_720.mp4
-#EXTINF:-1 type="movie" tvg-type="movie" tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="[VOD] Bioskop Box Office",Venetsiiafreniia
-https://tt.tas-ix.media/disk/dsoailidwnovawd/dvd2/Veneciafrenia.2021.mp4
-#EXTINF:-1 type="movie" tvg-type="movie" tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="[VOD] Bioskop Box Office",Godzilla protiv konga
-https://svd17.kvb.cool/video_mp4/films/2021/GodzillaKong/3cde56047754adc3a20e02858a315907/GodzillaKong2021_720.mp4
-#EXTINF:-1 type="movie" tvg-type="movie" tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="[VOD] Bioskop Box Office",Kodeks killera
-https://svd17.kvb.cool/video_mp4/films/2021/TheProtege/3cde56047754adc3a20e02858a315907/TheProtege2021_720.mp4
-#EXTINF:-1 type="movie" tvg-type="movie" tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="[VOD] Bioskop Box Office",Liga spravedlivosti Zaka Snaidera
-http://video-cdn.simpletv.eu/video/ZackSnydersJusticeLeagueWEBDL1080p.mkv
-#EXTINF:-1 type="movie" tvg-type="movie" tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="[VOD] Bioskop Box Office",Kruella
-https://svd17.kvb.cool/video_mp4/films/2021/Cruella/3cde56047754adc3a20e02858a315907/Cruella2021_720.mp4
-#EXTINF:-1 type="movie" tvg-type="movie" tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="[VOD] Bioskop Box Office",Otriad samoubiits: Missiia navylet
-https://svd17.kvb.cool/video_mp4/films/2021/TheSuicideSquad/3cde56047754adc3a20e02858a315907/TheSuicideSquad2021_720.mp4
-#EXTINF:-1 type="movie" tvg-type="movie" tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="[VOD] Bioskop Box Office",Pervyi vstrechnyi
-https://svd17.kvb.cool/video_mp4/films/2022/MarryMe/3cde56047754adc3a20e02858a315907/MarryMe2022.mp4
-#EXTINF:-1 type="movie" tvg-type="movie" tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="[VOD] Bioskop Box Office",Cheliusti. Stolknovenie
-https://svd.kvb.cool/video_mp4/films/2022/SharkBait/3cde56047754adc3a20e02858a315907/SharkBait2022.mp4
-#EXTINF:-1 type="movie" tvg-type="movie" tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="[VOD] Bioskop Box Office",Avatar: Put' vody
-https://svd.kvb.cool/video_mp4/films/2022/AvatarWayWater/3cde56047754adc3a20e02858a315907/AvatarWayWater2022_720.mp4
-#EXTINF:-1 type="movie" tvg-type="movie" tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="[VOD] Bioskop Box Office",Ancharted: Na kartakh ne znachitsia
-https://svd.kvb.cool/video_mp4/films/2022/Uncharted/3cde56047754adc3a20e02858a315907/Uncharted2022_720.mp4
-#EXTINF:-1 type="movie" tvg-type="movie" tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="[VOD] Bioskop Box Office",Astral: Potomstvo
-https://tt.tas-ix.media/disk/dsoailidwnovawd/dvd2/dvd3/astral_potomstva2023.mp4
-#EXTINF:-1 type="movie" tvg-type="movie" tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="[VOD] Bioskop Box Office",Betmen
-https://svd17.kvb.cool/video_mp4/films/2022/TheBatman/3cde56047754adc3a20e02858a315907/TheBatman2022_720.mp4
-#EXTINF:-1 type="movie" tvg-type="movie" tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="[VOD] Bioskop Box Office",Garri Potter 20 let spustia: Vozvrashchenie v Khogvarts
-https://svd.kvb.cool/video_mp4/films/2022/HarryHogwarts/3cde56047754adc3a20e02858a315907/HarryHogwarts2022_720.mp4
-#EXTINF:-1 type="movie" tvg-type="movie" tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="[VOD] Bioskop Box Office",Dobycha
-https://svd.kvb.cool/video_mp4/films/2022/Prey/3cde56047754adc3a20e02858a315907/Prey2022_720.mp4
-#EXTINF:-1 type="movie" tvg-type="movie" tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="[VOD] Bioskop Box Office",Doktor Strendzh: V mul'tivselennoi bezumiia
-https://svd17.kvb.cool/video_mp4/films/2022/DoctorMadness/3cde56047754adc3a20e02858a315907/DoctorMadness2022.mp4
-#EXTINF:-1 type="movie" tvg-type="movie" tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="[VOD] Bioskop Box Office",Dostat' nozhi: Stekliannaia lukovitsa
-https://svd17.kvb.cool/video_mp4/films/2022/GlassOnionMystery/3cde56047754adc3a20e02858a315907/GlassOnionMystery2022.mp4
-#EXTINF:-1 type="movie" tvg-type="movie" tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="[VOD] Bioskop Box Office",Zateriannyi gorod
-https://svd17.kvb.cool/video_mp4/films/2022/TheLostCity/3cde56047754adc3a20e02858a315907/TheLostCity2022_720.mp4
-#EXTINF:-1 type="movie" tvg-type="movie" tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="[VOD] Bioskop Box Office",Kletka razuma
-https://svd17.kvb.cool/video_mp4/films/2022/Mindcage/3cde56047754adc3a20e02858a315907/Mindcage2022.mp4
-#EXTINF:-1 type="movie" tvg-type="movie" tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="[VOD] Bioskop Box Office",Korabl' v Pusan
-https://tt.tas-ix.media/disk/dsoailidwnovawd/dvd2/dvd3/korabl_pusan.mp4
-#EXTINF:-1 type="movie" tvg-type="movie" tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="[VOD] Bioskop Box Office",Krasnyi vorobei
-https://svd13.kvb.cool/video_mp4/films/2018/RedSparrow/3cde56047754adc3a20e02858a315907/RedSparrow2018.mp4
-#EXTINF:-1 type="movie" tvg-type="movie" tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="[VOD] Bioskop Box Office",Krik 5
-https://svd17.kvb.cool/video_mp4/films/2022/Scream/3cde56047754adc3a20e02858a315907/Scream2022.mp4
-#EXTINF:-1 type="movie" tvg-type="movie" tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="[VOD] Bioskop Box Office",Kulaki vozmezdiia
-https://marionetka.com/player/kulaki-vozmezdiya.mp4
-#EXTINF:-1 type="movie" tvg-type="movie" tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="[VOD] Bioskop Box Office",Meniu
-https://svd17.kvb.cool/video_mp4/films/2022/TheMenu/3cde56047754adc3a20e02858a315907/TheMenu2022_720.mp4
-#EXTINF:-1 type="movie" tvg-type="movie" tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="[VOD] Bioskop Box Office",Mir Iurskogo perioda: Gospodstvo
-https://svd.kvb.cool/video_mp4/films/2022/JurassicDominion/3cde56047754adc3a20e02858a315907/JurassicDominion2022_720.mp4
-#EXTINF:-1 type="movie" tvg-type="movie" tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="[VOD] Bioskop Box Office",Morbius
-https://svd.kvb.cool/video_mp4/films/2022/Morbius/3cde56047754adc3a20e02858a315907/Morbius2022_720.mp4
-#EXTINF:-1 type="movie" tvg-type="movie" tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="[VOD] Bioskop Box Office",Neschastnyi sluchai: Kanikuly killera
-https://marionetka.com/player/kanikuly-naemnogo-ubijcy.mp4
-#EXTINF:-1 type="movie" tvg-type="movie" tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="[VOD] Bioskop Box Office",Prizraki
-https://tt.tas-ix.media/disk/dsoailidwnovawd/dvd2/dvd3/prizraki_2022.mp4
-#EXTINF:-1 type="movie" tvg-type="movie" tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="[VOD] Bioskop Box Office",Prishel'tsy
-https://svd17.kvb.cool/video_mp4/films/2022/Oegyebu/3cde56047754adc3a20e02858a315907/Oegyebu2022.mp4
-#EXTINF:-1 type="movie" tvg-type="movie" tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="[VOD] Bioskop Box Office",Proekt <<Adam>>
-https://svd.kvb.cool/video_mp4/films/2022/TheAdamProject/3cde56047754adc3a20e02858a315907/TheAdamProject2022.mp4
-#EXTINF:-1 type="movie" tvg-type="movie" tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="[VOD] Bioskop Box Office",Samaritianin
-https://svd17.kvb.cool/video_mp4/films/2022/Samaritan/3cde56047754adc3a20e02858a315907/Samaritan2022_720.mp4
-#EXTINF:-1 type="movie" tvg-type="movie" tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="[VOD] Bioskop Box Office",Top Gan: Meverik
-https://svd.kvb.cool/video_mp4/films/2022/TopGunMaverick/3cde56047754adc3a20e02858a315907/TopGunMaverick2022.mp4
-#EXTINF:-1 type="movie" tvg-type="movie" tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="[VOD] Bioskop Box Office",Uitni Kh'iuston. Potantsuite so mnoi
-https://svd.kvb.cool/video_mp4/films/2022/DancewithSomebody/3cde56047754adc3a20e02858a315907/DancewithSomebody2022.mp4
-#EXTINF:-1 type="movie" tvg-type="movie" tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="[VOD] Bioskop Box Office",Fantasticheskie tvari: Tainy Dambldora
-https://svd.kvb.cool/video_mp4/films/2022/FantasticDumbledore/3cde56047754adc3a20e02858a315907/FantasticDumbledore2022_720.mp4
-#EXTINF:-1 type="movie" tvg-type="movie" tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="[VOD] Bioskop Box Office",Chiornyi Adam
-https://svd17.kvb.cool/video_mp4/films/2022/BlackAdam/3cde56047754adc3a20e02858a315907/BlackAdam2022_720.mp4
-#EXTINF:-1 type="movie" tvg-type="movie" tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="[VOD] Bioskop Box Office",Chudovishche
-https://tt.tas-ix.media/disk/dsoailidwnovawd/dvd2/Chudovische.2022.mp4
-#EXTINF:-1 type="movie" tvg-type="movie" tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="[VOD] Bioskop Box Office",Elvis
-https://svd.kvb.cool/video_mp4/films/2022/Elvis/3cde56047754adc3a20e02858a315907/Elvis2022.mp4
-#EXTINF:-1 type="movie" tvg-type="movie" tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="[VOD] Bioskop Box Office",Botan i super baba
-https://svd.kvb.cool/video_mp4/films/2022/BotanBaba/3cde56047754adc3a20e02858a315907/BotanBaba2022.mp4
-#EXTINF:-1 type="movie" tvg-type="movie" tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="[VOD] Bioskop Box Office",Bulki
-https://svd17.kvb.cool/video_mp4/films/2022/Bulki/3cde56047754adc3a20e02858a315907/Bulki2022_720.mp4
-#EXTINF:-1 type="movie" tvg-type="movie" tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="[VOD] Bioskop Box Office",Byvshie. Happy end
-https://svd17.kvb.cool/video_mp4/films/2022/ByvshieEnd/3cde56047754adc3a20e02858a315907/ByvshieEnd2022.mp4
-#EXTINF:-1 type="movie" tvg-type="movie" tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="[VOD] Bioskop Box Office",Iolki 9
-https://svd17.kvb.cool/video_mp4/films/2022/Elki/3cde56047754adc3a20e02858a315907/Elki2022.mp4
-#EXTINF:-1 type="movie" tvg-type="movie" tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="[VOD] Bioskop Box Office",Libereia: Okhotniki za sokrovishchami
-https://svd17.kvb.cool/video_mp4/films/2022/Liberiya/3cde56047754adc3a20e02858a315907/Liberiya2022.mp4
-#EXTINF:-1 type="movie" tvg-type="movie" tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="[VOD] Bioskop Box Office",Neposlushnik
-https://svd18.kvb.cool/video_mp4/films/2021/Neposlushnik/3dbd73855fed8e917ccdf021f02a8697/Neposlushnik2021.mp4
-#EXTINF:-1 type="movie" tvg-type="movie" tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="[VOD] Bioskop Box Office",Neposlushnik 2
-https://svd17.kvb.cool/video_mp4/films/2022/Neposlushnik/3dbd73855fed8e917ccdf021f02a8697/Neposlushnik2022.mp4
-#EXTINF:-1 type="movie" tvg-type="movie" tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="[VOD] Bioskop Box Office",Raspravliaia kryl'ia
-https://svd.kvb.cool/video_mp4/films/2022/RaspravKrilya/3cde56047754adc3a20e02858a315907/RaspravKrilya2022.mp4
-#EXTINF:-1 type="movie" tvg-type="movie" tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="[VOD] Bioskop Box Office",Reshala 3: Brat
-https://svd.kvb.cool/video_mp4/films/2022/ReshalaBrat/3cde56047754adc3a20e02858a315907/ReshalaBrat2022.mp4
-#EXTINF:-1 type="movie" tvg-type="movie" tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="[VOD] Bioskop Box Office",SamoIroniia sud'by
-https://svd17.kvb.cool/video_mp4/films/2022/Samoironiya/3cde56047754adc3a20e02858a315907/Samoironiya2022_720.mp4
-#EXTINF:-1 type="movie" tvg-type="movie" tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="[VOD] Bioskop Box Office",Astral. Zhenshchina v chernom
-https://tt.tas-ix.media/disk/dsoailidwnovawd/dvd2/dvd3/From.Black.2023.mp4
-#EXTINF:-1 type="movie" tvg-type="movie" tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="[VOD] Bioskop Box Office",Naslednitsa
-https://marionetka.com/player/naslednica.mp4
-#EXTINF:-1 type="movie" tvg-type="movie" tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="[VOD] Bioskop Box Office",Oderzhimye zlom
-https://tt.tas-ix.media/disk/dsoailidwnovawd/dvd3/Cuando.mp4
-#EXTINF:-1 type="movie" tvg-type="movie" tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="[VOD] Bioskop Box Office",Ozero Kaddo
-https://marionetka.com/player/ozero-kaddo.mp4
-#EXTINF:-1 type="movie" tvg-type="movie" tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="[VOD] Bioskop Box Office",Prizraki v Venetsii
-https://marionetka.com/player/venecianskyj-prizrak.mp4
-#EXTINF:-1 type="movie" tvg-type="movie" tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="[VOD] Bioskop Box Office",Stuk v khizhine
-https://tt.tas-ix.media/disk/dsoailidwnovawd/dvd2/dvd3/Knock.at.the.Cabin.2023.mp4
-#EXTINF:-1 type="movie" tvg-type="movie" tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="[VOD] Bioskop Box Office",Tailer Reik: Operatsiia po spaseniiu 2
-https://marionetka.com/player/tayler-reyk-operaciya-po-spaseniyu.mp4
-#EXTINF:-1 type="movie" tvg-type="movie" tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="[VOD] Bioskop Box Office",Liubov'-morkov' 4: Vosstanie mashin
-https://svd17.kvb.cool/video_mp4/films/2022/LubovMorkov/3cde56047754adc3a20e02858a315907/LubovMorkov2022.mp4
-#EXTINF:-1 type="movie" tvg-type="movie" tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="[VOD] Bioskop Box Office",Atlas
-https://s19.kvb.cool/video_mp4/films/2024/Atlas/3cde56047754adc3a20e02858a315907/Atlas2024_720.mp4
-#EXTINF:-1 type="movie" tvg-type="movie" tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="[VOD] Bioskop Box Office",Borderlends
-https://s19.kvb.cool/video_mp4/films/2024//Borderlands/3cde56047754adc3a20e02858a315907/Borderlands2024.mp4
-#EXTINF:-1 type="movie" tvg-type="movie" tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="[VOD] Bioskop Box Office",Voobrazhaemyi drug
-https://tt.tas-ix.media/disk/dsoailidwnovawd/dvd3/voobrajaemiy_drug_2024.mp4
-#EXTINF:-1 type="movie" tvg-type="movie" tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="[VOD] Bioskop Box Office",Voobrazhaemye druz'ia
-https://s19.kvb.cool/video_mp4/films/2024/If/3cde56047754adc3a20e02858a315907/If2024.mp4
-#EXTINF:-1 type="movie" tvg-type="movie" tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="[VOD] Bioskop Box Office",Godzilla i Kong: Novaia imperiia
-https://s19.kvb.cool/video_mp4/films/2024/GodzillaEmpire/3cde56047754adc3a20e02858a315907/GodzillaEmpire2024_720.mp4
-#EXTINF:-1 type="movie" tvg-type="movie" tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="[VOD] Bioskop Box Office",Dzhekpot!
-https://s19.kvb.cool/video_mp4/films/2024/Jackpot/3cde56047754adc3a20e02858a315907/Jackpot2024.mp4
-#EXTINF:-1 type="movie" tvg-type="movie" tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="[VOD] Bioskop Box Office",Dom u dorogi
-https://s19.kvb.cool/video_mp4/films/2024/RoadHouse/3cde56047754adc3a20e02858a315907/RoadHouse2024.mp4
-#EXTINF:-1 type="movie" tvg-type="movie" tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="[VOD] Bioskop Box Office",Domovoi
-https://tt.tas-ix.media/disk/dsoailidwnovawd/dvd4/domovoy.2024.mp4
-#EXTINF:-1 type="movie" tvg-type="movie" tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="[VOD] Bioskop Box Office",Zachinshchiki
-https://s19.kvb.cool/video_mp4/films/2024/TheInstigators/3cde56047754adc3a20e02858a315907/TheInstigators2024.mp4
-#EXTINF:-1 type="movie" tvg-type="movie" tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="[VOD] Bioskop Box Office",Kaskadiory
-https://s19.kvb.cool/video_mp4/films/2024/TheFallGuy/3cde56047754adc3a20e02858a315907/TheFallGuy2024.mp4
-#EXTINF:-1 type="movie" tvg-type="movie" tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="[VOD] Bioskop Box Office",Kop s chiornym poiasom
-https://marionetka.com/player/kop-s-chernym-poyasom.mp4
-#EXTINF:-1 type="movie" tvg-type="movie" tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="[VOD] Bioskop Box Office",Krepkii Khart 2
-https://s19.kvb.cool/video_mp4/films/2024/DieHarter/3cde56047754adc3a20e02858a315907/DieHarter2024.mp4
-#EXTINF:-1 type="movie" tvg-type="movie" tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="[VOD] Bioskop Box Office",Ministerstvo nedzhentl'menskikh del
-https://s19.kvb.cool/video_mp4/films/2024/TheMinistryWarfare/3cde56047754adc3a20e02858a315907/TheMinistryWarfare2024_720.mp4
-#EXTINF:-1 type="movie" tvg-type="movie" tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="[VOD] Bioskop Box Office",Moi shpion: Vechnyi gorod
-https://s19.kvb.cool/video_mp4/films/2024/MySpy/3cde56047754adc3a20e02858a315907/MySpy2024.mp4
-#EXTINF:-1 type="movie" tvg-type="movie" tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="[VOD] Bioskop Box Office",Ne govori nikomu
-https://tt.tas-ix.media/disk/dsoailidwnovawd/dvd2/Ne.govori.nikomu.2022.mp4
-#EXTINF:-1 type="movie" tvg-type="movie" tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="[VOD] Bioskop Box Office",Padenie imperii
-https://s19.kvb.cool/video_mp4/films/2024/CivilWar/3cde56047754adc3a20e02858a315907/CivilWar2024_720.mp4
-#EXTINF:-1 type="movie" tvg-type="movie" tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="[VOD] Bioskop Box Office",Pila. Dzhoker
-https://s19.kvb.cool/video_mp4/films/2024/DarkGame/3cde56047754adc3a20e02858a315907/DarkGame2024.mp4
-#EXTINF:-1 type="movie" tvg-type="movie" tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="[VOD] Bioskop Box Office",Planeta obez'ian: Novoe tsarstvo
-https://s19.kvb.cool/video_mp4/films/2024/KingdomPlanetApes/3cde56047754adc3a20e02858a315907/KingdomPlanetApes2024_720.mp4
-#EXTINF:-1 type="movie" tvg-type="movie" tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="[VOD] Bioskop Box Office",Plokhie parni do kontsa
-https://s19.kvb.cool/video_mp4/films/2024/BadBoysDie/3cde56047754adc3a20e02858a315907/BadBoysDie2024.mp4
-#EXTINF:-1 type="movie" tvg-type="movie" tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="[VOD] Bioskop Box Office",Politseiskii iz Beverli-Khillz: Aksel' Fouli
-https://s19.kvb.cool/video_mp4/films/2024/BeverlyHillsFoley/3cde56047754adc3a20e02858a315907/BeverlyHillsFoley2024_720.mp4
-#EXTINF:-1 type="movie" tvg-type="movie" tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="[VOD] Bioskop Box Office",Probuzhdenie zla
-https://tt.tas-ix.media/disk/dsoailidwnovawd/dvd4/probujdenie.zla.2024.mp4
-#EXTINF:-1 type="movie" tvg-type="movie" tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="[VOD] Bioskop Box Office",Sinister. Iz t'my
-https://tt.tas-ix.media/disk/dsoailidwnovawd/dvd4/iz.timi.2024.mp4
-#EXTINF:-1 type="movie" tvg-type="movie" tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="[VOD] Bioskop Box Office",Sudnaia noch' v Arkadii
-https://s19.kvb.cool/video_mp4/films/2024/Arcadian/3cde56047754adc3a20e02858a315907/Arcadian2024.mp4
-#EXTINF:-1 type="movie" tvg-type="movie" tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="[VOD] Bioskop Box Office",To chto vnutri
-https://marionetka.com/player/to-chto-vnutri.mp4
-#EXTINF:-1 type="movie" tvg-type="movie" tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="[VOD] Bioskop Box Office",Urodina
-https://marionetka.com/player/urodina.mp4
-#EXTINF:-1 type="movie" tvg-type="movie" tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="[VOD] Bioskop Box Office",Furiosa: Khroniki Bezumnogo Maksa
-https://s19.kvb.cool/video_mp4/films/2024/FuriosaSaga/3cde56047754adc3a20e02858a315907/FuriosaSaga2024_720.mp4
-#EXTINF:-1 type="movie" tvg-type="movie" tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="[VOD] Bioskop Box Office",Khoroshie devochki
-https://marionetka.com/player/horoshie-devochki.mp4
-#EXTINF:-1 type="movie" tvg-type="movie" tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="[VOD] Bioskop Box Office",Ebigeil
-https://tt.tas-ix.media/disk/dsoailidwnovawd/dvd4/Abigail.mp4
-#EXTINF:-1 type="movie" tvg-type="movie" tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="[VOD] Bioskop Box Office",Ia videl svet televizora
-https://tt.tas-ix.media/disk/dsoailidwnovawd/dvd4/i_saw_the_tv_glow.mp4
-#EXTINF:-1 type="movie" tvg-type="movie" tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="[VOD] Bioskop Box Office",Adam i Eva
-https://s19.kvb.cool/video_mp4/films/2024/AdamEva/3cde56047754adc3a20e02858a315907/AdamEva2024.mp4
-#EXTINF:-1 type="movie" tvg-type="movie" tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="[VOD] Bioskop Box Office",Byvshii v pomoshch'
-https://s19.kvb.cool/video_mp4/films/2024/ByvshiyPomosh/3cde56047754adc3a20e02858a315907/ByvshiyPomosh2024.mp4
-#EXTINF:-1 type="movie" tvg-type="movie" tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="[VOD] Bioskop Box Office",Maior Grom: Igra
-https://s19.kvb.cool/video_mp4/films/2024/MajorGrom/3cde56047754adc3a20e02858a315907/MajorGrom2024.mp4
-#EXTINF:-1 type="movie" tvg-type="movie" tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="[VOD] Bioskop Box Office",Sto let tomu vperiod
-https://s19.kvb.cool/video_mp4/films/2024/StoLetVpered/3cde56047754adc3a20e02858a315907/StoLetVpered2024_720.mp4
-#EXTINF:-1 type="movie" tvg-type="movie" tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="[VOD] Bioskop Box Office",Tur s Ivanushkami
-https://s19.kvb.cool/video_mp4/films/2024/TurIvanushky/3cde56047754adc3a20e02858a315907/TurIvanushky2024_720.mp4
-#EXTINF:-1 type="movie" tvg-type="movie" tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="[VOD] Bioskop Box Office",Greshniki
-https://tt.tas-ix.media/disk/dsoailidwnovawd/dvd4/greshniki.2025.mp4
-#EXTINF:-1 type="movie" tvg-type="movie" tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="[VOD] Bioskop Box Office",Mest' Popaia
-https://tt.tas-ix.media/disk/dsoailidwnovawd/dvd4/mest_popaya.2025.mp4
-#EXTINF:-1 type="movie" tvg-type="movie" tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="[VOD] Bioskop Box Office",Prikliucheniia Buratino
-https://svd9.kvb.cool/video_mp4/films/1975/Buratino/3cde56047754adc3a20e02858a315907/Buratino.mp4
-#EXTINF:-1 type="movie" tvg-type="movie" tvg-logo="http://i.ibb.co/vQVRf3G/Avatar.jpg" group-title="[VOD] Bioskop Box Office",Avatar The Legend of Aang EP10
-https://cldup.com/ugUEKtyAda3/Y9y37X.mp4?download=Naruchiha_Avatar_Dub_Indo_10_HD.mp4
-#EXTINF:-1 type="movie" tvg-type="movie" tvg-logo="http://i.ibb.co/vQVRf3G/Avatar.jpg" group-title="[VOD] Bioskop Box Office",Avatar The Legend of Aang EP9
-https://cldup.com/ugUEKtyAda3/4UH0fk.mp4?download=Naruchiha_Avatar_Dub_Indo_09_HD.mp4
-#EXTINF:-1 type="movie" tvg-type="movie" tvg-logo="http://i.ibb.co/vQVRf3G/Avatar.jpg" group-title="[VOD] Bioskop Box Office",Avatar The Legend of Aang EP11
-https://cldup.com/ugUEKtyAda3/fEj0L1.mp4?download=Naruchiha_Avatar_Dub_Indo_11_HD.mp4
-#EXTINF:-1 type="movie" tvg-type="movie" tvg-logo="http://i.ibb.co/vQVRf3G/Avatar.jpg" group-title="[VOD] Bioskop Box Office",Avatar The Legend of Aang EP13
-https://cldup.com/ugUEKtyAda3/fYPI4Y.mp4?download=Naruchiha_Avatar_Dub_Indo_13_HD.mp4
-#EXTINF:-1 type="movie" tvg-type="movie" tvg-logo="http://i.ibb.co/vQVRf3G/Avatar.jpg" group-title="[VOD] Bioskop Box Office",Avatar The Legend of Aang EP14
-https://cldup.com/ugUEKtyAda3/hOwXdk.mp4?download=Naruchiha_Avatar_Dub_Indo_14_HD.mp4
-#EXTINF:-1 type="movie" tvg-type="movie" tvg-logo="http://i.ibb.co/vQVRf3G/Avatar.jpg" group-title="[VOD] Bioskop Box Office",Avatar The Legend of Aang EP8
-https://cldup.com/ugUEKtyAda3/EGTBtr.mp4?download=Naruchiha_Avatar_Dub_Indo_08_HD.mp4
-#EXTINF:-1 type="movie" tvg-type="movie" tvg-logo="http://i.ibb.co/vQVRf3G/Avatar.jpg" group-title="[VOD] Bioskop Box Office",Avatar The Legend of Aang EP12
-https://cldup.com/ugUEKtyAda3/SA98cG.mp4?download=Naruchiha_Avatar_Dub_Indo_12_HD.mp4
-#EXTINF:-1 type="movie" tvg-type="movie" tvg-logo="http://i.ibb.co/vQVRf3G/Avatar.jpg" group-title="[VOD] Bioskop Box Office",Avatar The Legend of Aang EP7
-https://cldup.com/ugUEKtyAda3/UEkDJl.mp4?download=Naruchiha_Avatar_Dub_Indo_07_HD.mp4
-#EXTINF:-1 type="movie" tvg-type="movie" tvg-logo="http://i.ibb.co/vQVRf3G/Avatar.jpg" group-title="[VOD] Bioskop Box Office",Avatar The Legend of Aang EP17
-https://cldup.com/ugUEKtyAda3/d9Kgfv.mp4?download=Naruchiha_Avatar_Dub_Indo_17_HD.mp4
-#EXTINF:-1 type="movie" tvg-type="movie" tvg-logo="http://i.ibb.co/vQVRf3G/Avatar.jpg" group-title="[VOD] Bioskop Box Office",Avatar The Legend of Aang EP19
-https://cldup.com/ugUEKtyAda3/1raCr4.mp4?download=Naruchiha_Avatar_Dub_Indo_19_HD.mp4
-#EXTINF:-1 type="movie" tvg-type="movie" tvg-logo="http://i.ibb.co/vQVRf3G/Avatar.jpg" group-title="[VOD] Bioskop Box Office",Avatar The Legend of Aang EP16
-https://cldup.com/ugUEKtyAda3/AKNI5b.mp4?download=Naruchiha_Avatar_Dub_Indo_16_HD.mp4
-#EXTINF:-1 type="movie" tvg-type="movie" tvg-logo="http://i.ibb.co/vQVRf3G/Avatar.jpg" group-title="[VOD] Bioskop Box Office",Avatar The Legend of Aang EP15
-https://cldup.com/ugUEKtyAda3/MJNXx3.mp4?download=Naruchiha_Avatar_Dub_Indo_15_HD.mp4
-#EXTINF:-1 type="movie" tvg-type="movie" tvg-logo="http://i.ibb.co/vQVRf3G/Avatar.jpg" group-title="[VOD] Bioskop Box Office",Avatar The Legend of Aang EP18
-https://cldup.com/ugUEKtyAda3/VwZDvj.mp4?download=Naruchiha_Avatar_Dub_Indo_18_HD.mp4
-#EXTINF:-1 type="movie" tvg-type="movie" tvg-logo="http://i.ibb.co/vQVRf3G/Avatar.jpg" group-title="[VOD] Bioskop Box Office",Avatar The Legend of Aang EP25
-https://cldup.com/ugUEKtyAda3/tVfSRP.mp4?download=Naruchiha_Avatar_Dub_Indo_25_HD.mp4
-#EXTINF:-1 type="movie" tvg-type="movie" tvg-logo="http://i.ibb.co/vQVRf3G/Avatar.jpg" group-title="[VOD] Bioskop Box Office",Avatar The Legend of Aang EP27
-https://cldup.com/ugUEKtyAda3/EEnMY1.mp4?download=Naruchiha_Avatar_Dub_Indo_27_HD.mp4
-#EXTINF:-1 type="movie" tvg-type="movie" tvg-logo="http://i.ibb.co/vQVRf3G/Avatar.jpg" group-title="[VOD] Bioskop Box Office",Avatar The Legend of Aang EP26
-https://cldup.com/ugUEKtyAda3/CANGUI.mp4?download=Naruchiha_Avatar_Dub_Indo_26_HD.mp4
-#EXTINF:-1 type="movie" tvg-type="movie" tvg-logo="http://i.ibb.co/vQVRf3G/Avatar.jpg" group-title="[VOD] Bioskop Box Office",Avatar The Legend of Aang EP23
-https://cldup.com/ugUEKtyAda3/BFclyB.mp4?download=Naruchiha_Avatar_Dub_Indo_23_HD.mp4
-#EXTINF:-1 type="movie" tvg-type="movie" tvg-logo="http://i.ibb.co/vQVRf3G/Avatar.jpg" group-title="[VOD] Bioskop Box Office",Avatar The Legend of Aang EP21
-https://cldup.com/ugUEKtyAda3/f19oOh.mp4?download=Naruchiha_Avatar_Dub_Indo_21_HD.mp4
-#EXTINF:-1 type="movie" tvg-type="movie" tvg-logo="http://i.ibb.co/vQVRf3G/Avatar.jpg" group-title="[VOD] Bioskop Box Office",Avatar The Legend of Aang EP22
-https://cldup.com/ugUEKtyAda3/rGuT9U.mp4?download=Naruchiha_Avatar_Dub_Indo_22_HD.mp4
-#EXTINF:-1 type="movie" tvg-type="movie" tvg-logo="http://i.ibb.co/vQVRf3G/Avatar.jpg" group-title="[VOD] Bioskop Box Office",Avatar The Legend of Aang EP20
-https://cldup.com/ugUEKtyAda3/KciwHP.mp4?download=Naruchiha_Avatar_Dub_Indo_20_HD.mp4
-#EXTINF:-1 type="movie" tvg-type="movie" tvg-logo="http://i.ibb.co/vQVRf3G/Avatar.jpg" group-title="[VOD] Bioskop Box Office",Avatar The Legend of Aang EP24
-https://cldup.com/ugUEKtyAda3/4iX14n.mp4?download=Naruchiha_Avatar_Dub_Indo_24_HD.mp4
-#EXTINF:-1 type="movie" tvg-type="movie" tvg-logo="http://i.ibb.co/vQVRf3G/Avatar.jpg" group-title="[VOD] Bioskop Box Office",Avatar The Legend of Aang EP28
-https://cldup.com/ugUEKtyAda3/RVXlFN.mp4?download=Naruchiha_Avatar_Dub_Indo_28_HD.mp4
-#EXTINF:-1 type="movie" tvg-type="movie" tvg-logo="http://i.ibb.co/vQVRf3G/Avatar.jpg" group-title="[VOD] Bioskop Box Office",Avatar The Legend of Aang EP31
-https://cldup.com/ugUEKtyAda3/LAXD94.mp4?download=Naruchiha_Avatar_Dub_Indo_31_HD.mp4
-#EXTINF:-1 type="movie" tvg-type="movie" tvg-logo="http://i.ibb.co/vQVRf3G/Avatar.jpg" group-title="[VOD] Bioskop Box Office",Avatar The Legend of Aang EP33
-https://cldup.com/ugUEKtyAda3/kflu2k.mp4?download=Naruchiha_Avatar_Dub_Indo_33_HD.mp4
-#EXTINF:-1 type="movie" tvg-type="movie" tvg-logo="http://i.ibb.co/vQVRf3G/Avatar.jpg" group-title="[VOD] Bioskop Box Office",Avatar The Legend of Aang EP32
-https://cldup.com/ugUEKtyAda3/YblkM4.mp4?download=Naruchiha_Avatar_Dub_Indo_32_HD.mp4
-#EXTINF:-1 type="movie" tvg-type="movie" tvg-logo="http://i.ibb.co/vQVRf3G/Avatar.jpg" group-title="[VOD] Bioskop Box Office",Avatar The Legend of Aang EP40
-https://cldup.com/ugUEKtyAda3/DKiteo.mp4?download=Naruchiha_Avatar_Dub_Indo_40_HD.mp4
-#EXTINF:-1 type="movie" tvg-type="movie" tvg-logo="http://i.ibb.co/vQVRf3G/Avatar.jpg" group-title="[VOD] Bioskop Box Office",Avatar The Legend of Aang EP39
-https://cldup.com/ugUEKtyAda3/sF3Z4v.mp4?download=Naruchiha_Avatar_Dub_Indo_39_HD.mp4
-#EXTINF:-1 type="movie" tvg-type="movie" tvg-logo="http://i.ibb.co/vQVRf3G/Avatar.jpg" group-title="[VOD] Bioskop Box Office",Avatar The Legend of Aang EP44
-https://cldup.com/ugUEKtyAda3/Z9wPYY.mp4?download=Naruchiha_Avatar_Dub_Indo_44_HD.mp4
-#EXTINF:-1 type="movie" tvg-type="movie" tvg-logo="http://i.ibb.co/vQVRf3G/Avatar.jpg" group-title="[VOD] Bioskop Box Office",Avatar The Legend of Aang EP48
-https://cldup.com/ugUEKtyAda3/Ke2rHd.mp4?download=Naruchiha_Avatar_Dub_Indo_48_HD.mp4
-#EXTINF:-1 type="movie" tvg-type="movie" tvg-logo="http://i.ibb.co/vQVRf3G/Avatar.jpg" group-title="[VOD] Bioskop Box Office",Avatar The Legend of Aang EP42
-https://cldup.com/ugUEKtyAda3/LH4Dgn.mp4?download=Naruchiha_Avatar_Dub_Indo_42_HD.mp4
-#EXTINF:-1 type="movie" tvg-type="movie" tvg-logo="http://i.ibb.co/vQVRf3G/Avatar.jpg" group-title="[VOD] Bioskop Box Office",Avatar The Legend of Aang EP53
-https://cldup.com/ugUEKtyAda3/4VLEMG.mp4?download=Naruchiha_Avatar_Dub_Indo_53_HD.mp4
-#EXTINF:-1 type="movie" tvg-type="movie" tvg-logo="http://i.ibb.co/vQVRf3G/Avatar.jpg" group-title="[VOD] Bioskop Box Office",Avatar The Legend of Aang EP51
-https://cldup.com/ugUEKtyAda3/Kw8vGM.mp4?download=Naruchiha_Avatar_Dub_Indo_51_HD.mp4
-#EXTINF:-1 type="movie" tvg-type="movie" tvg-logo="http://i.ibb.co/vQVRf3G/Avatar.jpg" group-title="[VOD] Bioskop Box Office",Avatar The Legend of Aang EP41
-https://cldup.com/ugUEKtyAda3/zG8cRo.mp4?download=Naruchiha_Avatar_Dub_Indo_41_HD.mp4
-#EXTINF:-1 type="movie" tvg-type="movie" tvg-logo="http://i.ibb.co/vQVRf3G/Avatar.jpg" group-title="[VOD] Bioskop Box Office",Avatar The Legend of Aang EP49
-https://cldup.com/ugUEKtyAda3/4cy7nU.mp4?download=Naruchiha_Avatar_Dub_Indo_49_HD.mp4
-#EXTINF:-1 type="movie" tvg-type="movie" tvg-logo="http://i.ibb.co/vQVRf3G/Avatar.jpg" group-title="[VOD] Bioskop Box Office",Avatar The Legend of Aang EP45
-https://cldup.com/ugUEKtyAda3/ESGh4p.mp4?download=Naruchiha_Avatar_Dub_Indo_45_HD.mp4
-#EXTINF:-1 type="movie" tvg-type="movie" tvg-logo="http://i.ibb.co/vQVRf3G/Avatar.jpg" group-title="[VOD] Bioskop Box Office",Avatar The Legend of Aang EP52
-https://cldup.com/ugUEKtyAda3/eHfjNi.mp4?download=Naruchiha_Avatar_Dub_Indo_52_HD.mp4
-#EXTINF:-1 type="movie" tvg-type="movie" tvg-logo="http://i.ibb.co/vQVRf3G/Avatar.jpg" group-title="[VOD] Bioskop Box Office",Avatar The Legend of Aang EP50
-https://cldup.com/ugUEKtyAda3/46t9VO.mp4?download=Naruchiha_Avatar_Dub_Indo_50_HD.mp4
-#EXTINF:-1 type="movie" tvg-type="movie" tvg-logo="http://i.ibb.co/vQVRf3G/Avatar.jpg" group-title="[VOD] Bioskop Box Office",Avatar The Legend of Aang EP60
-https://cldup.com/ugUEKtyAda3/13UZZF.mp4?download=Naruchiha_Avatar_Dub_Indo_60_HD.mp4
-#EXTINF:-1 type="movie" tvg-type="movie" tvg-logo="https://raw.githubusercontent.com/bugsfreeweb/LiveTVCollector/main/BugsfreeLogo/default-logo.png" group-title="[VOD] Bioskop Box Office",POWER
-https://archive.org/download/project.power.-2020.1080p-dual-lat-cinecalidad.is/Project.power.2020.1080p-dual-lat-cinecalidad.is.mp4
-#EXTINF:-1 type="movie" tvg-type="movie" tvg-logo="https://raw.githubusercontent.com/bugsfreeweb/LiveTVCollector/main/BugsfreeLogo/default-logo.png" group-title="[VOD] Bioskop Box Office",VELVET BUZZSAW
-https://dl.dropboxusercontent.com/s/z5g9xhsc1g90gna/SalynPM-V.B.mp4
-#EXTINF:-1 type="movie" tvg-type="movie" tvg-logo="https://raw.githubusercontent.com/bugsfreeweb/LiveTVCollector/main/BugsfreeLogo/default-logo.png" group-title="[VOD] Bioskop Box Office",THE HUNT
-https://archive.org/download/the.hunt.-2020.1080p-dual-lat-cinecalidad.is_202008/The.hunt.2020.1080p-dual-lat-cinecalidad.is.mp4
-#EXTINF:-1 type="movie" tvg-type="movie" tvg-logo="https://raw.githubusercontent.com/bugsfreeweb/LiveTVCollector/main/BugsfreeLogo/default-logo.png" group-title="[VOD] Bioskop Box Office",EMOLA HOLMES
-https://archive.org/download/mx_20210308_202103/eahs.mp4
-#EXTINF:-1 type="movie" tvg-type="movie" tvg-logo="https://raw.githubusercontent.com/bugsfreeweb/LiveTVCollector/main/BugsfreeLogo/default-logo.png" group-title="[VOD] Bioskop Box Office",TOY STORY 1
-https://archive.org/download/01t6574568475645684685486545684/01%20t6574568475645684685486545684.mp4
-#EXTINF:-1 type="movie" tvg-type="movie" tvg-logo="https://raw.githubusercontent.com/bugsfreeweb/LiveTVCollector/main/BugsfreeLogo/default-logo.png" group-title="[VOD] Bioskop Box Office",TOY STORY 3
-https://archive.org/download/3gefgyilegfielngfilsaegfyiserfyiditeidfseyifdyeldyefldy/3gefgyilegfiel%C3%B1gfilsaegfyiserfyiditeidfseyifdyeldyefldy.mp4
-#EXTINF:-1 type="movie" tvg-type="movie" tvg-logo="https://raw.githubusercontent.com/bugsfreeweb/LiveTVCollector/main/BugsfreeLogo/default-logo.png" group-title="[VOD] Bioskop Box Office",TOY STORY EL TIEMPO PERDIDO
-https://archive.org/download/tiempoperd5346954976252380640degdsavdkjvasgxcvaductfadcfyaduytd/tiempoperd5346954976252380640degdsavdkjvasgxcvaductfadcfyaduytd.mp4
-#EXTINF:-1 type="movie" tvg-type="movie" tvg-logo="https://raw.githubusercontent.com/bugsfreeweb/LiveTVCollector/main/BugsfreeLogo/default-logo.png" group-title="[VOD] Bioskop Box Office",SONIC
-https://archive.org/download/50-n-1-c/50N1C.mp4
-#EXTINF:-1 type="movie" tvg-type="movie" tvg-logo="https://m.media-amazon.com/images/M/MV5BN2RlYjUzMWQtN2E2My00ZDhmLWEwYjgtYjA3MjA4YmViMTgyXkEyXkFqcGdeQXVyNDkyMzMyODM@._V1_FMjpg_UX1000_.jpg" group-title="[VOD] Bioskop Box Office",Abang 92 - 1992
-https://hello-si-kacak.buntai.workers.dev/0:/movie/Malay/Abang%2092.mp4
-#EXTINF:-1 type="movie" tvg-type="movie" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj5VaNTLstuv93lVnFzAYT50rpP1ahnKtaeizPQySLVWNPbqn-pUeW9NyFUNfW0cjInKTtRNKnYzd8AgHMRRkVFLVpWBHMz5KJzE48eA7zKeB859pWdn9I6iHccANKDGPjACqSzC7iauJEd/s200/adik.jpg" group-title="[VOD] Bioskop Box Office",Adik - 1990
-https://hello-si-kacak.buntai.workers.dev/0:/movie/Malay/Adik.mp4
-#EXTINF:-1 type="movie" tvg-type="movie" tvg-logo="https://m.media-amazon.com/images/M/MV5BZWEyMjA5YjUtOTZmOS00ZDk0LWI4YzgtYzNiM2Y3YWI4MmUxXkEyXkFqcGdeQXVyNDkyMzMyODM@._V1_FMjpg_UX1000_.jpg" group-title="[VOD] Bioskop Box Office",Ali Setan - 1985
-https://hello-si-kacak.buntai.workers.dev/0:/movie/Malay/Ali%20Setan%201985.mp4
-#EXTINF:-1 type="movie" tvg-type="movie" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDrRloE45uv46F30BzzaTjLGZt4DaQTp1Jh0Ym7uyfXw&s" group-title="[VOD] Bioskop Box Office",Ali Setan 2 - 1986
-https://hello-si-kacak.buntai.workers.dev/0:/movie/Malay/Ali%20Setan%202%201986.mp4
-#EXTINF:-1 type="movie" tvg-type="movie" tvg-logo="https://m.media-amazon.com/images/M/MV5BNDg5ZWE4MTYtY2RiYS00ZjMwLTk5NGMtNDFlYTYxZDM3MWU5XkEyXkFqcGdeQXVyMjgzNDQyMjE@._V1_FMjpg_UX1000_.jpg" group-title="[VOD] Bioskop Box Office",Baginda - 1997
-https://hello-si-kacak.buntai.workers.dev/0:/movie/Malay/Baginda.mp4
-#EXTINF:-1 type="movie" tvg-type="movie" tvg-logo="https://upload.wikimedia.org/wikipedia/ms/0/0e/Bayangan_Maut.jpg" group-title="[VOD] Bioskop Box Office",Bayangan Maut - 1991
-https://hello-si-kacak.buntai.workers.dev/0:/movie/Malay/Bayangan%20Maut.mp4
-#EXTINF:-1 type="movie" tvg-type="movie" tvg-logo="https://m.media-amazon.com/images/M/MV5BMDRmYmJhNzItZjk0MC00ODEyLTk3N2YtNmRlYjg0OWM1ZWVhXkEyXkFqcGdeQXVyNDkyMzMyODM@._V1_.jpg" group-title="[VOD] Bioskop Box Office",Driving School - 1990
-https://hello-si-kacak.buntai.workers.dev/0:/movie/Malay/Driving%20School%20%5B1990%5D%20VCDRip@KT.mp4
-#EXTINF:-1 type="movie" tvg-type="movie" tvg-logo="https://m.media-amazon.com/images/M/MV5BZTg2MTVkN2UtMDZiZi00ODFmLTkzMzEtMTc2ZDFkZTdjZmFjXkEyXkFqcGdeQXVyMjgzNDQyMjE@._V1_.jpg" group-title="[VOD] Bioskop Box Office",Fenomena - 1990
-https://hello-si-kacak.buntai.workers.dev/0:/movie/Malay/Fenomena.mp4
-#EXTINF:-1 type="movie" tvg-type="movie" tvg-logo="https://upload.wikimedia.org/wikipedia/ms/thumb/9/96/Gemilang_03.jpg/220px-Gemilang_03.jpg" group-title="[VOD] Bioskop Box Office",Gemilang-  1997
-https://hello-si-kacak.buntai.workers.dev/0:/movie/Malay/GEMILANG%201997.mp4
-#EXTINF:-1 type="movie" tvg-type="movie" tvg-logo="https://a.ltrbxd.com/resized/film-poster/1/7/2/1/2/2/172122-guru-badul-0-230-0-345-crop.jpg?v=ba722959bd" group-title="[VOD] Bioskop Box Office",Guru Badul - 1988
-https://worker-delicate-rain-inas.buntai.workers.dev/0:/movie/Malay/Guru%20Badul.mp4
-#EXTINF:-1 type="movie" tvg-type="movie" tvg-logo="https://m.media-amazon.com/images/M/MV5BYmRmMzlkNzgtZGY0My00YmQ3LTg4Y2QtNjJjZjNiYThmNjk1XkEyXkFqcGdeQXVyMTU2Mzg5MDAw._V1_FMjpg_UX1000_.jpg" group-title="[VOD] Bioskop Box Office",Harry Boy - 1991
-https://hello-si-kacak.buntai.workers.dev/0:/movie/Malay/Harry%20Boy.mp4
-#EXTINF:-1 type="movie" tvg-type="movie" tvg-logo="https://m.media-amazon.com/images/M/MV5BNTgxNmI1MzItYTcwOS00MTlmLWJhZGUtOGEzNTEzZjUwMzRmXkEyXkFqcGdeQXVyNDkyMzMyODM@._V1_FMjpg_UX1000_.jpg" group-title="[VOD] Bioskop Box Office",Hati Bukan Kristal - 1990
-https://hello-si-kacak.buntai.workers.dev/0:/movie/Malay/Hati%20Bukan.Kristal.(1990).WebDL.mkv
-#EXTINF:-1 type="movie" tvg-type="movie" tvg-logo="https://m.media-amazon.com/images/M/MV5BY2Y1NTU2NzUtN2Q5My00NmY0LTk4YmQtOGY3MTUzOTkxZDg0XkEyXkFqcGdeQXVyNDkyMzMyODM@._V1_FMjpg_UX1000_.jpg" group-title="[VOD] Bioskop Box Office",Litar Kasih - 1996
-https://hello-si-kacak.buntai.workers.dev/0:/movie/Malay/Litar%20Kasih%201996.mp4
-#EXTINF:-1 type="movie" tvg-type="movie" tvg-logo="https://m.media-amazon.com/images/M/MV5BMzRhOWNmZDQtNzc5NC00MWEwLWExNTMtMjgwY2E5MTZiNjRjXkEyXkFqcGdeQXVyNDkyMzMyODM@._V1_FMjpg_UX1000_.jpg" group-title="[VOD] Bioskop Box Office",Main Main Hantu - 1990
-https://hello-si-kacak.buntai.workers.dev/0:/movie/Malay/Main-main%20Hantu.mp4
-#EXTINF:-1 type="movie" tvg-type="movie" tvg-logo="https://m.media-amazon.com/images/M/MV5BMDZjNzBmNDUtYzQxNi00ZDQyLWIyNjYtMTcyYzVkZDdhZTQwXkEyXkFqcGdeQXVyNDkyMzMyODM@._V1_.jpg" group-title="[VOD] Bioskop Box Office",Marah Marah Sayang - 1987
-https://hello-si-kacak.buntai.workers.dev/0:/movie/Malay/Marah-marah%20Sayang%20(1987).mp4
-#EXTINF:-1 type="movie" tvg-type="movie" tvg-logo="https://m.media-amazon.com/images/M/MV5BYmMwNjY1ZTktMDRmNy00OTE1LWJiZjgtOTI1MjhiZmI3MjNjXkEyXkFqcGdeQXVyNDkyMzMyODM@._V1_.jpg" group-title="[VOD] Bioskop Box Office",Mira Edora - 1990
-https://hello-si-kacak.buntai.workers.dev/0:/movie/Malay/Mira.Edora.1990.720p.HDTV.mp4
-#EXTINF:-1 type="movie" tvg-type="movie" tvg-logo="https://m.media-amazon.com/images/M/MV5BNDI0NzkwZGItMjk4Ny00YzQ2LWFmZjMtZGMyZjhkMWU0Mjg1XkEyXkFqcGdeQXVyMjgzNDQyMjE@._V1_FMjpg_UX1000_.jpg" group-title="[VOD] Bioskop Box Office",Mr Os - 1987
-https://hello-si-kacak.buntai.workers.dev/0:/movie/Malay/Mr%20Os.mp4
-#EXTINF:-1 type="movie" tvg-type="movie" tvg-logo="https://m.media-amazon.com/images/M/MV5BYTIxMTg4MWQtM2QzMC00NDQ0LTk1NjAtOTU0MzEyODFhMzQyXkEyXkFqcGdeQXVyMjgzNDQyMjE@._V1_FMjpg_UX1000_.jpg" group-title="[VOD] Bioskop Box Office",Rahsia - 1987
-https://hello-si-kacak.buntai.workers.dev/0:/movie/Malay/Rahsia%20(1987)%20720p%20WEBDL-SPITT.mp4
-#EXTINF:-1 type="movie" tvg-type="movie" tvg-logo="https://m.media-amazon.com/images/M/MV5BN2UyYjUwMDctZmQyMy00M2I0LTk1MTItNmI2ODg4MTMzZDdiXkEyXkFqcGdeQXVyNDU3NjYwOTI@._V1_.jpg" group-title="[VOD] Bioskop Box Office",Sejati - 1991
-https://hello-si-kacak.buntai.workers.dev/0:/movie/Malay/Sejati.mkv
-#EXTINF:-1 type="movie" tvg-type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/wWha77bHLejEY86A0n9sXIXsyzK.jpg" group-title="[VOD] Bioskop Box Office",Siapa Dia? - 1996
-https://hello-si-kacak.buntai.workers.dev/0:/movie/Malay/Siapa%20Dia.mp4
-#EXTINF:-1 type="movie" tvg-type="movie" tvg-logo="https://m.media-amazon.com/images/M/MV5BMWQ0ODQ3MTEtMjAwMC00NTA2LTk5MWMtNDlmOGJiZjI4NjUzXkEyXkFqcGdeQXVyNzQwOTU0NTk@._V1_FMjpg_UX1000_.jpg" group-title="[VOD] Bioskop Box Office",Suara Kekasih - 1986
-https://hello-si-kacak.buntai.workers.dev/0:/movie/Malay/Suara%20Kekasih.mp4
-#EXTINF:-1 type="movie" tvg-type="movie" tvg-logo="https://m.media-amazon.com/images/M/MV5BNTliZGYxZjEtOTMxOC00ZjQxLTlkZmYtOTY0OGQzOTJmYTUwXkEyXkFqcGdeQXVyNjU2OTkyMzY@._V1_.jpg" group-title="[VOD] Bioskop Box Office",XX Ray - 1992
-https://hello-si-kacak.buntai.workers.dev/0:/movie/Malay/XX%20Ray.mkv
-#EXTINF:-1 type="movie" tvg-type="movie" tvg-logo="https://m.media-amazon.com/images/M/MV5BNGEzMDRiMGEtYjFiMi00NDFhLThiYzAtNWZiNTdhMGU4ZmQ2XkEyXkFqcGdeQXVyMjgzNDQyMjE@._V1_FMjpg_UX1000_.jpg" group-title="[VOD] Bioskop Box Office",XX Ray II - 1995
-https://hello-si-kacak.buntai.workers.dev/0:/movie/Malay/XX%20Ray%20II.mp4
-#EXTINF:-1 type="movie" tvg-type="movie" tvg-logo="https://i.ibb.co/7Sdp6dv/ii.jpg" group-title="[VOD] Bioskop Box Office",The Old Guard
-https://dl.dropbox.com/s/2dlws4f8y42dq3m/The.Old.Guard.2020.mp4
-#EXTINF:-1 type="movie" tvg-type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5a1WZVJP5cvJjcPLRMi4TNphLng.jpg" group-title="[VOD] Bioskop Box Office",Yo Antes de Ti (2016)
-https://ia801605.us.archive.org/6/items/conjuring-the-beyond_202304/YO%20ANTES%20DE%20TI.ia.mp4
-#EXTINF:-1 type="movie" tvg-type="movie" tvg-logo="https://image.tmdb.org/t/p/original/8pueo1YEmFhzW4R2C4gtGhobeLz.jpg" group-title="[VOD] Bioskop Box Office",Infelices para Siempre (2023)
-https://ia801605.us.archive.org/6/items/conjuring-the-beyond_202304/infelices.ia.mp4
-#EXTINF:-1 type="movie" tvg-type="movie" tvg-logo="https://image.tmdb.org/t/p/original/jBpqADo9XAKaecvI3f0J4hRAEyO.jpg" group-title="[VOD] Bioskop Box Office",365 Dias(2020)
-https://github.com/BrianRVP/Meteorito_Juego/releases/download/2.12.1/Ver.365.dias.2020.online.HD.-.Cuevana.mp4
-#EXTINF:-1 type="movie" tvg-type="movie" tvg-logo="https://image.tmdb.org/t/p/original/2EH42blLQzgqwDWxn39RXkTgb91.jpg" group-title="[VOD] Bioskop Box Office",Romper el circulo
-https://github.com/BrianRVP/Prueba-plugins-/releases/download/214.85.4/Ver.Romper.el.circulo.2024.online.HD.-.Cuevana.mp4
-#EXTINF:-1 type="movie" tvg-type="movie" tvg-logo="https://image.tmdb.org/t/p/original/fRvAAnok5idXu42DNVAuXaNxx6x.jpg" group-title="[VOD] Bioskop Box Office",Cuando te encuentres
-https://github.com/BrianRVP/Prueba-plugins-/releases/download/1.2.1/Cuando.te.encuentre.-.Ver.Online.en.Espanol.Latino.mp4
-#EXTINF:-1 type="movie" tvg-type="movie" tvg-logo="https://i.ibb.co/nPhFNB6/Van.jpg" group-title="[VOD] Bioskop Box Office",Van Helsing
-https://dl.dropbox.com/s/78yalld8nmq1383/Van%20Helsing%20%282004%29.mp4
-#EXTINF:-1 type="movie" tvg-type="movie" tvg-logo="https://image.tmdb.org/t/p/w200/6CdgzmiyjU1aPV6zjfWR8cMCN79.jpg" group-title="[VOD] Bioskop Box Office",No te sueltes (2024)
-https://hugh.cdn.rumble.cloud/video/s8/2/t/S/c/3/tSc3t.aaa.mp4
-#EXTINF:-1 type="movie" tvg-type="movie" tvg-logo="https://image.tmdb.org/t/p/w200/fK17l0DSAxNG8xdeECVTLOSedm9.jpg" group-title="[VOD] Bioskop Box Office",Y2K (2024) SUBT
-https://1a-1791.com/video/fwe1/5d/s8/2/w/a/i/4/wai4v.aaa.mp4
-#EXTINF:-1 type="movie" tvg-type="movie" tvg-logo="https://image.tmdb.org/t/p/w200/e4686PPqj8AOdTUnGZpjApT1cDi.jpg" group-title="[VOD] Bioskop Box Office",Longlegs Coleccionista de almas (2024)
-https://1a-1791.com/video/fwe1/43/s8/2/i/U/0/Y/iU0Yw.aaa.mp4
-#EXTINF:-1 type="movie" tvg-type="movie" tvg-logo="https://image.tmdb.org/t/p/w200/1L0a6UUl962rRxVQQfwpqfS92qz.jpg" group-title="[VOD] Bioskop Box Office",The Monkey (2025)
-https://1a-1791.com/video/fwe1/5b/s8/2/8/G/7/c/8G7cy.caa.mp4
-#EXTINF:-1 type="movie" tvg-type="movie" tvg-logo="https://image.tmdb.org/t/p/w200/rdGpSGWNnpHuouEJjXOkzbTyRJk.jpg" group-title="[VOD] Bioskop Box Office",No hables con extranos (2024)
-https://1a-1791.com/video/fwe1/ea/s8/2/B/v/y/Z/BvyZw.aaa.mp4
-#EXTINF:-1 type="movie" tvg-type="movie" tvg-logo="https://image.tmdb.org/t/p/w200/fqRBqG8uaFbTD5aXuqDSKt2NDFu.jpg" group-title="[VOD] Bioskop Box Office",El Mal con el que vivo (2024)
-https://1a-1791.com/video/fwe1/6c/s8/2/2/J/1/1/2J11w.aaa.mp4
-#EXTINF:-1 type="movie" tvg-type="movie" tvg-logo="https://image.tmdb.org/t/p/w200/6AWBa4JFtaC4eEs48qjCCJd9BMr.jpg" group-title="[VOD] Bioskop Box Office",Sonrie 2 (2024) WebDL
-https://1a-1791.com/video/s8/2/j/W/R/D/jWRDu.aaa.mp4
-#EXTINF:-1 type="movie" tvg-type="movie" tvg-logo="https://image.tmdb.org/t/p/w200/rpo3DJFMOSAz27gDwxJ5LIwIFni.jpg" group-title="[VOD] Bioskop Box Office",Hereje (2024)
-https://1a-1791.com/video/fwe2/6b/s8/2/_/x/9/Q/_x9Qw.aaa.mp4
-#EXTINF:-1 type="movie" tvg-type="movie" tvg-logo="https://image.tmdb.org/t/p/w200/63xYQj1BwRFielxsBDXvHIJyXVm.jpg" group-title="[VOD] Bioskop Box Office",Terrifier 3 (2024) SUB
-https://1a-1791.com/video/s8/2/A/G/I/j/AGIju.aaa.mp4
-#EXTINF:-1 type="movie" tvg-type="movie" tvg-logo="https://image.tmdb.org/t/p/w200/lH2UI7qwvKtmHk9vFTxxnCQPLKa.jpg" group-title="[VOD] Bioskop Box Office",La maldicion del colgante (2024)
-https://dl.dropbox.com/s/nyn063jh2hjsmfj/La%20maldici%C3%B3n%20del%20colgante%20%282025%29.mp4
-#EXTINF:-1 type="movie" tvg-type="movie" tvg-logo="https://image.tmdb.org/t/p/original/3rlU3gwaKobcdrmIBTRfyGcE6ew.jpg" group-title="[VOD] Bioskop Box Office",Bird Box Barcelona
-https://github.com/BrianRVP/Prueba-plugins-/releases/download/201.12.12/Bird.Box.Barcelona.-.Ver.Online.en.Espanol.Latino.mp4
-#EXTINF:-1 type="movie" tvg-type="movie" tvg-logo="https://image.tmdb.org/t/p/original/sOZc3U9acAqlItsI7amSGKUdd7k.jpg" group-title="[VOD] Bioskop Box Office",La cosa (The Thing) (2011)
-https://github.com/tokio14-dot/pi-pelis/releases/download/P.4.42/L.1.85.mp4
-#EXTINF:-1 type="movie" tvg-type="movie" tvg-logo="https://image.tmdb.org/t/p/original/a2N5St0TCmyJy2F8IwPlo2lEbiJ.jpg" group-title="[VOD] Bioskop Box Office",La piramide (2014)
-https://github.com/tokio14-dot/pi-pelis/releases/download/P.4.42/P.4.42.mp4
-#EXTINF:-1 type="movie" tvg-type="movie" tvg-logo="https://image.tmdb.org/t/p/original/zjZOZ0Oe7HLT8su1OvCkjaWkjHg.jpg" group-title="[VOD] Bioskop Box Office",Hereje (2024)CAM SUB
-https://github.com/tokio14-dot/te-rror/releases/download/A.5.76/S.4.56.mp4
-#EXTINF:-1 type="movie" tvg-type="movie" tvg-logo="https://image.tmdb.org/t/p/original/oRtmSBegijsysFcA5Kwn2WmMdL4.jpg" group-title="[VOD] Bioskop Box Office",Ahi afuera (2024)
-https://github.com/tokio14-dot/tete/releases/download/D.563/023577.mp4
-#EXTINF:-1 type="movie" tvg-type="movie" tvg-logo="https://image.tmdb.org/t/p/original/aE85MnPIsSoSs3978Noo16BRsKN.jpg" group-title="[VOD] Bioskop Box Office",Smile 2 (2024)
-https://github.com/tokio14-dot/Q-6429/releases/download/w9155/33333333.mp4
-#EXTINF:-1 type="movie" tvg-type="movie" tvg-logo="https://image.tmdb.org/t/p/original/l1175hgL5DoXnqeZQCcU3eZIdhX.jpg" group-title="[VOD] Bioskop Box Office",Terrifier 3 (2024)
-https://github.com/tokio14-dot/Q-6429/releases/download/w9155/22222222.mp4
-#EXTINF:-1 type="movie" tvg-type="movie" tvg-logo="https://image.tmdb.org/t/p/original/6GcWY38P2VisUbS7nK9Z1xOWU.jpg" group-title="[VOD] Bioskop Box Office",El Boliche del Terror (2024)
-https://github.com/tokio14-dot/youtubem/releases/download/W.24577/Q.22222222.mp4
-#EXTINF:-1 type="movie" tvg-type="movie" tvg-logo="https://image.tmdb.org/t/p/original/v0Q2uYARIqui1sEBF0bCLJaliDI.jpg" group-title="[VOD] Bioskop Box Office",OP2
-https://hugh.cdn.rumble.cloud/video/s8/2/B/J/O/4/BJO4s.caa.mp4
-#EXTINF:-1 type="movie" tvg-type="movie" tvg-logo="https://mx.web.img3.acsta.net/pictures/17/11/01/07/50/3949122.jpg" group-title="[VOD] Bioskop Box Office",La razon de estar contigo 2016
-https://dl.dropboxusercontent.com/s/qga7cwijfr4eua2/SalynPM-SPM7s3g.mp4
-#EXTINF:-1 type="movie" tvg-type="movie" tvg-logo="https://mx.web.img3.acsta.net/pictures/18/03/07/09/26/4951397.jpg" group-title="[VOD] Bioskop Box Office",Christopher Robin:Un reencuentro inolvidable 2018
-https://dl.dropboxusercontent.com/s/rht2qn00mxakvt8/SalynPM-C.R.mp4
-#EXTINF:-1 type="movie" tvg-type="movie" tvg-logo="https://image.tmdb.org/t/p/original/7pwu8XJCHFW5uAJSax5ycgS7q9q.jpg" group-title="[VOD] Bioskop Box Office",mas alla del tiempo
-https://github.com/BrianRVP/Prueba-plugins-/releases/download/291.1.2/Mas.Alla.del.Tiempo.-.Ver.Online.en.Espanol.Latino.mp4
-#EXTINF:-1 type="movie" tvg-type="movie" tvg-logo="https://image.tmdb.org/t/p/original/1jvCVdlgInyItAUEvvvCakm1Yxz.jpg" group-title="[VOD] Bioskop Box Office",Culpa tuya
-https://github.com/BrianRVP/Ejemplo/releases/download/2.918/Culpa.tuya.Peliculas.Gratis.HD.mp4
-#EXTINF:-1 type="movie" tvg-type="movie" tvg-logo="https://media.themoviedb.org/t/p/w220_and_h330_face/9rJeh8mrbJdkIZ49K2cZIdAwbEj.jpg" group-title="[VOD] Bioskop Box Office",X-men apocalipsis
-https://dl.dropbox.com/s/hmtyf8bylhezvqc/xm3n4p0c411p515.mkv
-#EXTINF:-1 type="movie" tvg-type="movie" tvg-logo="http://archive.org/download/125452445445/MI NIÑERA ES UN VAMPIRO .jpg" group-title="[VOD] Bioskop Box Office",MI NINERA ES UN VAMPIRO
-http://archive.org/download/acde288908f6856d326290398e8ea715-360p/acde288908f6856d326290398e8ea715-360p.mp4
+#EXTINF:-1 tvg-id="TVTabalong.id@SD" tvg-logo="https://i.imgur.com/2YhDH98.png" group-title="TV Nasional dan Daerah",TV Tabalong (720p) [Not 24/7]
+https://5bf7b725107e5.streamlock.net/tvtabalong/tvtabalong/playlist.m3u8
+#EXTINF:-1 tvg-id="TVKU.id@SD" tvg-logo="https://i.imgur.com/BAklJGy.png" group-title="TV Nasional dan Daerah",TVKU (720p)
+https://tvku.tv/hlsstream/hls/live.m3u8
+#EXTVLCOPT:http-referrer=https://www.dens.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-id="tvOne.id@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/TvOne_2023.svg/960px-TvOne_2023.svg.png" http-referrer="https://www.dens.tv/" http-user-agent="Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36" group-title="TV Nasional dan Daerah",tvOne [Geo-blocked]
+https://op-group1-swiftservehd-1.dens.tv/h/h40/index.m3u8
+#EXTINF:-1 tvg-id="TVRParlemen.id@SD" tvg-logo="https://i.imgur.com/2XYpmHL.png" group-title="TV Nasional dan Daerah",TVR Parlemen (720p) [Not 24/7]
+http://103.18.181.69:1935/golive/livestream/playlist.m3u8
+#EXTINF:-1 tvg-id="TVRI.id@HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/960px-TVRILogo2019.svg.png" group-title="TV Nasional dan Daerah",TVRI (1080i)
+https://ott-balancer.tvri.go.id/live/eds/Nasional/hls/Nasional.m3u8
+#EXTVLCOPT:http-referrer=https://www.dens.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-id="TVRI.id@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/960px-TVRILogo2019.svg.png" http-referrer="https://www.dens.tv/" http-user-agent="Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36" group-title="TV Nasional dan Daerah",TVRI (480p) [Geo-blocked]
+https://op-group1-swiftservesd-1.dens.tv/s/s11/index.m3u8
+#EXTINF:-1 tvg-id="TVRI.id@Aceh" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/960px-TVRILogo2019.svg.png" group-title="TV Nasional dan Daerah",TVRI Aceh (720p)
+https://ott-balancer.tvri.go.id/live/eds/Aceh/hls/Aceh.m3u8
+#EXTINF:-1 tvg-id="TVRI.id@Bali" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/960px-TVRILogo2019.svg.png" group-title="TV Nasional dan Daerah",TVRI Bali (480p)
+https://ott-balancer.tvri.go.id/live/eds/Bali/hls/Bali.m3u8
+#EXTINF:-1 tvg-id="TVRI.id@BangkaBelitung" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/960px-TVRILogo2019.svg.png" group-title="TV Nasional dan Daerah",TVRI Bangka Belitung (480p)
+https://ott-balancer.tvri.go.id/live/eds/Babel/hls/Babel.m3u8
+#EXTINF:-1 tvg-id="TVRI.id@Bengkulu" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/960px-TVRILogo2019.svg.png" group-title="TV Nasional dan Daerah",TVRI Bengkulu (480p)
+https://ott-balancer.tvri.go.id/live/eds/Bengkulu/hls/Bengkulu.m3u8
+#EXTINF:-1 tvg-id="TVRI.id@Gorontalo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/960px-TVRILogo2019.svg.png" group-title="TV Nasional dan Daerah",TVRI Gorontalo (480p)
+https://ott-balancer.tvri.go.id/live/eds/Gorontalo/hls/Gorontalo.m3u8
+#EXTINF:-1 tvg-id="TVRI.id@Jakarta" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/960px-TVRILogo2019.svg.png" group-title="TV Nasional dan Daerah",TVRI Jakarta (576i) [Not 24/7]
+https://ott-balancer.tvri.go.id/live/eds/DKI/hls/DKI.m3u8
+#EXTINF:-1 tvg-id="TVRI.id@Jambi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/960px-TVRILogo2019.svg.png" group-title="TV Nasional dan Daerah",TVRI Jambi (720p) [Not 24/7]
+https://ott-balancer.tvri.go.id/live/eds/Jambi/hls/Jambi.m3u8
+#EXTINF:-1 tvg-id="TVRI.id@WestJava" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/960px-TVRILogo2019.svg.png" group-title="TV Nasional dan Daerah",TVRI Jawa Barat (480p)
+https://ott-balancer.tvri.go.id/live/eds/Jabar/hls/Jabar.m3u8
+#EXTINF:-1 tvg-id="TVRI.id@CentralJava" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/960px-TVRILogo2019.svg.png" group-title="TV Nasional dan Daerah",TVRI Jawa Tengah (720p)
+https://ott-balancer.tvri.go.id/live/eds/Jateng/hls/Jateng.m3u8
+#EXTINF:-1 tvg-id="TVRI.id@EastJava" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/960px-TVRILogo2019.svg.png" group-title="TV Nasional dan Daerah",TVRI Jawa Timur (720p)
+https://ott-balancer.tvri.go.id/live/eds/Jatim/hls/Jatim.m3u8
+#EXTINF:-1 tvg-id="TVRI.id@WestKalimantan" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/960px-TVRILogo2019.svg.png" group-title="Religi dan Dakwah",TVRI Kalimantan Barat (480p)
+https://ott-balancer.tvri.go.id/live/eds/Kalbar/hls/Kalbar.m3u8
+#EXTINF:-1 tvg-id="TVRI.id@SouthKalimantan" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/960px-TVRILogo2019.svg.png" group-title="Religi dan Dakwah",TVRI Kalimantan Selatan (720p)
+https://ott-balancer.tvri.go.id/live/eds/Kalsel/hls/Kalsel.m3u8
+#EXTINF:-1 tvg-id="TVRI.id@CentralKalimantan" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/960px-TVRILogo2019.svg.png" group-title="Religi dan Dakwah",TVRI Kalimantan Tengah (480p)
+https://ott-balancer.tvri.go.id/live/eds/Kalteng/hls/Kalteng.m3u8
+#EXTINF:-1 tvg-id="TVRI.id@EastKalimantan" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/960px-TVRILogo2019.svg.png" group-title="Religi dan Dakwah",TVRI Kalimantan Timur (720p)
+https://ott-balancer.tvri.go.id/live/eds/Kaltim/hls/Kaltim.m3u8
+#EXTINF:-1 tvg-id="TVRI.id@Lampung" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/960px-TVRILogo2019.svg.png" group-title="TV Nasional dan Daerah",TVRI Lampung (720p)
+https://ott-balancer.tvri.go.id/live/eds/Lampung/hls/Lampung.m3u8
+#EXTINF:-1 tvg-id="TVRI.id@Maluku" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/960px-TVRILogo2019.svg.png" group-title="TV Nasional dan Daerah",TVRI Maluku (480p)
+https://ott-balancer.tvri.go.id/live/eds/Ambon/hls/Ambon.m3u8
+#EXTINF:-1 tvg-id="TVRI.id@NorthSulawesi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/960px-TVRILogo2019.svg.png" group-title="TV Nasional dan Daerah",TVRI North Sulawesi (1080p)
+https://ott-balancer.tvri.go.id/live/eds/Sulut/hls/Sulut.m3u8
+#EXTINF:-1 tvg-id="TVRI.id@NorthSumatra" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/960px-TVRILogo2019.svg.png" group-title="TV Nasional dan Daerah",TVRI North Sumatra (1080p)
+https://ott-balancer.tvri.go.id/live/eds/Sumut/hls/Sumut.m3u8
+#EXTINF:-1 tvg-id="TVRI.id@WestNusaTenggara" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/960px-TVRILogo2019.svg.png" group-title="TV Nasional dan Daerah",TVRI Nusa Tenggara Barat (720p)
+https://ott-balancer.tvri.go.id/live/eds/NTB/hls/NTB.m3u8
+#EXTINF:-1 tvg-id="TVRI.id@EastNusaTenggara" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/960px-TVRILogo2019.svg.png" group-title="TV Nasional dan Daerah",TVRI Nusa Tenggara Timur (480p)
+https://ott-balancer.tvri.go.id/live/eds/NTT/hls/NTT.m3u8
+#EXTINF:-1 tvg-id="TVRI.id@Papua" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/960px-TVRILogo2019.svg.png" group-title="TV Nasional dan Daerah",TVRI Papua (480p)
+https://ott-balancer.tvri.go.id/live/eds/Papua/hls/Papua.m3u8
+#EXTINF:-1 tvg-id="TVRI.id@Riau" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/960px-TVRILogo2019.svg.png" group-title="TV Nasional dan Daerah",TVRI Riau (720p) [Not 24/7]
+https://ott-balancer.tvri.go.id/live/eds/Riau/hls/Riau.m3u8
+#EXTVLCOPT:http-referrer=https://www.dens.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-id="TVRISport.id@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/TVRI_Sport_2022.svg/960px-TVRI_Sport_2022.svg.png" http-referrer="https://www.dens.tv/" http-user-agent="Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36" group-title="Olahraga",TVRI Sport [Geo-blocked]
+https://op-group1-swiftservesd-1.dens.tv/s/s107/index.m3u8
+#EXTINF:-1 tvg-id="TVRI.id@WestSulawesi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/960px-TVRILogo2019.svg.png" group-title="TV Nasional dan Daerah",TVRI Sulawesi Barat (720p)
+https://ott-balancer.tvri.go.id/live/eds/Sulbar/hls/Sulbar.m3u8
+#EXTINF:-1 tvg-id="TVRI.id@SouthSulawesi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/960px-TVRILogo2019.svg.png" group-title="TV Nasional dan Daerah",TVRI Sulawesi Selatan (480p)
+https://ott-balancer.tvri.go.id/live/eds/Sulsel/hls/Sulsel.m3u8
+#EXTINF:-1 tvg-id="TVRI.id@CentralSulawesi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/960px-TVRILogo2019.svg.png" group-title="TV Nasional dan Daerah",TVRI Sulawesi Tengah (720p)
+https://ott-balancer.tvri.go.id/live/eds/Sulteng/hls/Sulteng.m3u8
+#EXTINF:-1 tvg-id="TVRI.id@SoutheastSulawesi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/960px-TVRILogo2019.svg.png" group-title="TV Nasional dan Daerah",TVRI Sulawesi Tenggara (480p)
+https://ott-balancer.tvri.go.id/live/eds/Sultra/hls/Sultra.m3u8
+#EXTINF:-1 tvg-id="TVRI.id@WestSumatra" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/960px-TVRILogo2019.svg.png" group-title="TV Nasional dan Daerah",TVRI Sumatera Barat (720p)
+https://ott-balancer.tvri.go.id/live/eds/Sumbar/hls/Sumbar.m3u8
+#EXTINF:-1 tvg-id="TVRI.id@SouthSumatra" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/960px-TVRILogo2019.svg.png" group-title="TV Nasional dan Daerah",TVRI Sumatera Selatan (480p)
+https://ott-balancer.tvri.go.id/live/eds/Sumsel/hls/Sumsel.m3u8
+#EXTINF:-1 tvg-id="TVRI.id@WestPapua" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/960px-TVRILogo2019.svg.png" group-title="TV Nasional dan Daerah",TVRI West Papua (1080p)
+https://ott-balancer.tvri.go.id/live/eds/Pabar/hls/Pabar.m3u8
+#EXTINF:-1 tvg-id="TVRIWorld.id@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/TVRIWorld.png/960px-TVRIWorld.png" group-title="TV Nasional dan Daerah",TVRI World (1080p)
+https://ott-balancer.tvri.go.id/live/eds/TVRIWorld/hls/TVRIWorld.m3u8
+#EXTINF:-1 tvg-id="TVRI.id@Yogyakarta" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/960px-TVRILogo2019.svg.png" group-title="TV Nasional dan Daerah",TVRI Yogyakarta (720p)
+https://ott-balancer.tvri.go.id/live/eds/Jogjakarta/hls/Jogjakarta.m3u8
+#EXTVLCOPT:http-referrer=https://www.u-channel.tv
+#EXTINF:-1 tvg-id="UChannel.id@SD" tvg-logo="https://i.imgur.com/qxkb0cy.png" http-referrer="https://www.u-channel.tv" group-title="TV Nasional dan Daerah",U Channel
+https://srs.u-channel.tv/live/uchannel-tv.m3u8
+#EXTINF:-1 tvg-id="UGTV.id@SD" tvg-logo="https://i.imgur.com/iEKDH26.png" group-title="TV Nasional dan Daerah",UGTV (720p)
+https://cdn.gunadarma.ac.id/streams/ugtv/ingestugtv.m3u8
+#EXTVLCOPT:http-referrer=https://youtv.live/
+#EXTINF:-1 tvg-id="VTV.id@SD" tvg-logo="https://i.postimg.cc/cJRJr3BR/2560px-VTV-Indonesia-White-2023-svg.png" http-referrer="https://youtv.live/" group-title="TV Nasional dan Daerah",VTV (720p)
+https://flv.intechmedia.net/live/ch107.m3u8
+#EXTINF:-1 tvg-id="VTV.id@HD" tvg-logo="https://i.postimg.cc/cJRJr3BR/2560px-VTV-Indonesia-White-2023-svg.png" group-title="TV Nasional dan Daerah",VTV HD (1080p)
+http://ikitv.sqn.at:8000/play/a023/index.m3u8
